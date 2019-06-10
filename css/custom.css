@@ -1,3 +1,22 @@
+@font-face {
+  font-family: DaxlinePro;
+  src: local("DaxlinePro Regular"),
+       local("DaxlinePro-Regular"),
+       url(../css/DaxlinePro-Regular_13131.ttf);
+}
+
+@font-face {
+  font-family: DaxlinePro-ExtraBold;
+  src: local("DaxlinePro Regular"),
+       local("DaxlinePro-Regular"),
+       url(../css/DaxlinePro-ExtraBold_13128.ttf);
+}
+
+
+body {
+  font-family: 'DaxlinePro', sans-serif;
+}
+
 .row {
 	margin: 0px;
 }
