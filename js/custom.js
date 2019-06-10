@@ -52,6 +52,14 @@ $('#filter-less').click(function(e){
 	$('#filter-content').addClass('hidden-xs');
 });
 
+function setStrings(l){
+		var t= '';
+		for(var i in l){
+			t+= l[i]+', ';	
+		}
+		return t.slice(0,t.length-2);
+	}
+
 function addZero(i){
 	if ((i/10)<1){
 		return '0'+i;	
@@ -553,7 +561,7 @@ $.getJSON("data/cuba.geojson",
 			$('#project-name').html(e.nombre);
 			$('#project-category').html(e.categoria);
 			$('#project-reach').html(e.alcance);
-			$('#project-keywords').html(e.keywords);
+			$('#project-keywords').html(setStrings(e.keywords));
 			$('#project-description').html(e.descripcion);
 			if (e.localizacion.direccion!=null){
 				$('#project-address-block').removeClass('undisplay');
