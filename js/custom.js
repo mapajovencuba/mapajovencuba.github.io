@@ -257,31 +257,52 @@ $.getJSON("data/cuba.geojson",
 			shadowSize: [26,26], 
 			shadowAnchor: [5,26]
 		});
+		var generalIcon = L.icon({
+			iconUrl : '../img/general.png',
+			iconSize: [26,30],
+			iconAnchor: [13,30],
+			popupAnchor: [3,-22],
+			tooltipAnchor: [-7,0],
+			shadowUrl: '../img/shadow.png',
+			shadowSize: [26,26], 
+			shadowAnchor: [5,26]
+		});
 		
 		var topicData = {
 			"Medio Ambiente": {
-				"icon":medioambienteIcon,
+				"icon":generalIcon,
+				//"icon":medioambienteIcon,
 				"color": '#00B150'
 			},
 			"Inclusión": {
-				"icon":inclusionIcon,
-				"color": '#A2D8E9'
+				"icon":generalIcon,
+				//"icon":inclusionIcon,
+				//"color": '#A2D8E9',
+				"color": '#00B150'
 			},
 			"Justicia de Género y Equidad": {
-				"icon":equidadIcon,
-				"color": '#F3770F'
+				"icon":generalIcon,
+				//"icon":equidadIcon,
+				//"color": '#F3770F',
+				"color": '#00B150'
 			},
 			"Participación y Gobernanza": {
-				"icon":gobernanzaIcon,
-				"color": '#A52330'
+				"icon":generalIcon,
+				//"icon":gobernanzaIcon,
+				//"color": '#A52330',
+				"color": '#00B150'
 			},
 			"Identidad": {
-				"icon":identidadIcon,
-				"color": '#F2CA03'
+				"icon":generalIcon,
+				//"icon":identidadIcon,
+				//"color": '#F2CA03',
+				"color": '#00B150'
 			},
 			"Emancipación": {
-				"icon":emancipacionIcon,
-				"color": '#806DBB'
+				"icon":generalIcon,
+				//"icon":emancipacionIcon,
+				//"color": '#806DBB',
+				"color": '#00B150'
 			}
 		}
 		
