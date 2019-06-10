@@ -258,7 +258,7 @@ $.getJSON("data/cuba.geojson",
 			shadowAnchor: [5,26]
 		});
 		var generalIcon = L.icon({
-			iconUrl : '../img/general.png',
+			iconUrl : '../img/medioambiente.png',
 			iconSize: [26,30],
 			iconAnchor: [13,30],
 			popupAnchor: [3,-22],
