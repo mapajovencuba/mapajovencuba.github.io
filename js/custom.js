@@ -414,6 +414,8 @@ $.getJSON("data/cuba.geojson",
 					el['title'] = e['nombre'];
 					el['start']	= e.inicio['año']+'-'+addZero(e.inicio.mes)+'-'+addZero(e.inicio.dia);
 					el['pid'] = datos.proyectos[i].id;
+					el['backgroundColor']=topicData[datos.proyectos[i].categoria].color;
+					el['borderColor']=topicData[datos.proyectos[i].categoria].color;
 					if (e.fin!=null){
 						el['end'] = e.fin['año']+'-'+addZero(e.fin.mes)+'-'+addZero(e.fin.dia);	
 					}
