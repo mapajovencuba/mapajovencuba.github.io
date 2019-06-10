@@ -258,7 +258,7 @@ $.getJSON("data/cuba.geojson",
 			shadowAnchor: [5,26]
 		});
 		var generalIcon = L.icon({
-			iconUrl : '../img/medioambiente.png',
+			iconUrl : '../img/general.png',
 			iconSize: [26,30],
 			iconAnchor: [13,30],
 			popupAnchor: [3,-22],
@@ -302,6 +302,10 @@ $.getJSON("data/cuba.geojson",
 				"icon":generalIcon,
 				//"icon":emancipacionIcon,
 				//"color": '#806DBB',
+				"color": '#00B150'
+			},
+			"General": {
+				"icon":generalIcon,
 				"color": '#00B150'
 			}
 		}
@@ -360,10 +364,10 @@ $.getJSON("data/cuba.geojson",
 		function getSmallProfile(id){
 			var e = datos.proyectos[id];
 			var t = '';
-			t += '<div class="small-pname" style="background-color:'+topicData[e.categoria].color+'">'+e['nombre-corto']+'</div>';
+			t += '<div class="small-pname" style="background-color:'+topicData['General'].color+'">'+e['nombre-corto']+'</div>';
 			t += '<div class="small-pcategory-block"><span class="small-pcategory-label">Temática:</span> <span class="small-pcategory">'+e['categoria']+'</span></div>';
 			t += '<div class="small-pkeywords-block"><span class="small-pkeywords-label">Palabras clave:</span> <span class="small-pkeywords">'+e['keywords']+'</span></div>';
-			t += '<div class="small-plink cursor" style="color:'+topicData[e.categoria].color+'" id="pid-'+id+'">VER PROYECTO</div>';
+			t += '<div class="small-plink cursor" style="color:'+topicData['General'].color+'" id="pid-'+id+'">VER PROYECTO</div>';
 			
 			return t;
 		}
@@ -431,7 +435,7 @@ $.getJSON("data/cuba.geojson",
 				{
 					"title"	: datos.proyectos[i].nombre,
 					"alt"	: datos.proyectos[i].nombre,
-					icon: topicData[datos.proyectos[i].categoria].icon
+					icon: topicData['General'].icon
 				}
 		 	);
 		 	markers[i].bindPopup(getSmallProfile(i));
@@ -443,8 +447,8 @@ $.getJSON("data/cuba.geojson",
 					el['title'] = e['nombre'];
 					el['start']	= e.inicio['año']+'-'+addZero(e.inicio.mes)+'-'+addZero(e.inicio.dia);
 					el['pid'] = datos.proyectos[i].id;
-					el['backgroundColor']=topicData[datos.proyectos[i].categoria].color;
-					el['borderColor']=topicData[datos.proyectos[i].categoria].color;
+					el['backgroundColor']=topicData['General'].color;
+					el['borderColor']=topicData['General'].color;
 					if (e.fin!=null){
 						el['end'] = e.fin['año']+'-'+addZero(e.fin.mes)+'-'+addZero(e.fin.dia);	
 					}
@@ -573,12 +577,11 @@ $.getJSON("data/cuba.geojson",
 		
 		function fillAndShowProfile(id){
 			var e = datos.proyectos[id];
-			console.log(topicData[e.categoria]);
 			$('.profile-logo').html('');
 			if (e.logo!=null){
 				$('.profile-logo').html('<img class="plogo" src="img/'+e.logo+'">');	
 			}
-			$('#profile-title-block').css('background-color',topicData[e.categoria].color);
+			$('#profile-title-block').css('background-color',topicData['General'].color);
 			$('#project-name').html(e.nombre);
 			$('#project-category').html(e.categoria);
 			$('#project-reach').html(e.alcance);
