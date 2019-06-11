@@ -138,13 +138,19 @@ body {
 	text-align: left;
 	font-size: 22px;
 	color: #fff;
-	font-weight: bold;	
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 5%;	
 }
 
 #close-profile {
 	text-align: right;
 	font-weight: bold;
 	color: #fff;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 6px 6px 0 0;
 }
 
 #close-profile:hover, #close-profile:focus {
@@ -406,7 +412,7 @@ select {
 	color: #00b150;
 }
 
-@media(max-width:900px){
+@media screen and (max-width:900px){
 .profile {
     z-index:10000;
     position: absolute;
@@ -419,7 +425,34 @@ select {
     box-shadow: 0 3px 10px rgba(0,0,0,0.4);
 }
 #project-name {
-	font-size: 18px;
+	font-size: 16px;
 }
+
+.channel {
+	border-radius: 25px;
+    height: 25px;
+    line-height: 25px;
+    width: 25px;
+    font-size: 12px;
+}
+.tab-part {
+	font-size: 14px;
+}
+#filter-label, #filter-buttons {
+	font-size: 16px;
+}
+
+.fc-toolbar h2 {
+	font-size: 11px;
+}
+
+body .fc {
+	font-size: 11px;
+}
+
+.fc-button .fc-icon {
+	font-size: 11px;
+}
+
 }
 
