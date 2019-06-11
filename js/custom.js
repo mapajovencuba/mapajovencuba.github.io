@@ -365,7 +365,7 @@ $.getJSON("data/cuba.geojson",
 			var e = datos.proyectos[id];
 			var t = '';
 			t += '<div class="small-pname" style="background-color:'+topicData['General'].color+'">'+e['nombre-corto']+'</div>';
-			t += '<div class="small-pcategory-block"><span class="small-pcategory-label">Temática:</span> <span class="small-pcategory">'+e['categoria']+'</span></div>';
+			t += '<div class="small-pcategory-block"><span class="small-pcategory-label">Temática(s):</span> <span class="small-pcategory">'+setStrings(e['categoria'])+'</span></div>';
 			t += '<div class="small-pkeywords-block"><span class="small-pkeywords-label">Palabras clave:</span> <span class="small-pkeywords">'+e['keywords']+'</span></div>';
 			t += '<div class="small-plink cursor" style="color:'+topicData['General'].color+'" id="pid-'+id+'">VER PROYECTO</div>';
 			
@@ -379,7 +379,7 @@ $.getJSON("data/cuba.geojson",
 			t += '<hr class="hr-pname">'
 			t += '<div class="list-pcontent">';
 			t += '<div class="list-pcontent-categ-reach">';
-			t += ' <span class="small-pcategory-label">Temática:</span> <span class="small-pcategory">'+e['categoria']+'</span><span class="sep"> / </span>';
+			t += ' <span class="small-pcategory-label">Temática(s):</span> <span class="small-pcategory">'+setStrings(e['categoria'])+'</span><span class="sep"> / </span>';
 			t += ' <span class="small-preach-label">Alcance:</span> <span class="small-preach">'+e['alcance']+'</span>';
 			t += '</div>';
 			t += '<div class="list-pcontent-keywords">';
@@ -583,7 +583,7 @@ $.getJSON("data/cuba.geojson",
 			}
 			$('#profile-title-block').css('background-color',topicData['General'].color);
 			$('#project-name').html(e.nombre);
-			$('#project-category').html(e.categoria);
+			$('#project-category').html(setStrings(e.categoria));
 			$('#project-reach').html(e.alcance);
 			$('#project-keywords').html(setStrings(e.keywords));
 			$('#project-description').html(e.descripcion);
