@@ -425,6 +425,19 @@
                         "año":2019
                     },
                     "nombre": "XII Convención Internacional sobre medio ambiente y desarrollo"
+                },
+                {
+                    "inicio": {
+                        "dia":23,
+                        "mes":6,
+                        "año":2019
+                    },
+                    "fin": {
+                        "dia":30,
+                        "mes":6,
+                        "año":2019
+                    },
+                    "nombre": "Convención Científica Internacional de Ciencia, Tecnología y Sociedad"
                 }
             ]
         },
