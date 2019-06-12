@@ -412,7 +412,21 @@
                     "email": "anisley.morejon82@gmail.com"
                 }
             ],
-            "eventos": null
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia":1,
+                        "mes":7,
+                        "año":2019
+                    },
+                    "fin": {
+                        "dia":5,
+                        "mes":7,
+                        "año":2019
+                    },
+                    "nombre": "XII Convención Internacional sobre medio ambiente y desarrollo"
+                }
+            ]
         },
         "gal": {
             "id": "gal",
@@ -432,7 +446,7 @@
                 "Emancipación"
             ],
             "provincia": "lha",
-            "municipio": "plaza",
+            "municipio": "Plaza de la Revolución",
             "consejo_popular": null,
             "web": "http://www.filosofia.cu",
             "descripcion": "Grupo de investigación que aborda los escenarios de disputas hegemónicas entre emancipación y dominación en América Latina y el Caribe y su impacto en Cuba. Realiza procesos de acompañamiento a experiencias productivas en la Habana. Coordina a nivel nacional la Red Feminista y la Red de Trabajo Cooperado y Solidario. Realiza cada 2 años los Talleres Internacionales de Paradigmas Emancipatorios que reúne académicos y líderes de movimientos sociales de toda la región latinoamericana.",
@@ -874,7 +888,7 @@
                 "Inclusión"
             ],
             "provincia": "ssp",
-            "municipio": "la sierpe",
+            "municipio": "La Sierpe",
             "consejo_popular": null,
             "web": null,
             "descripcion": "Proyecto que en principio, se propuso comprometer a adolescentes y jóvenes con el desarrollo de su localidad, para lo cual ha promovido, desde una perspectiva sociocultural, sus sentimientos identitarios, valores y capacidades para la participación social y la equidad, y alternativas para el desarrollo artístico y recreativo. Tiene un carácter inclusivo, intersectorial, e intergeneracional. Ha propiciado la formación y articulación de actores diversos, y ha posicionado a los y las jóvenes en un rol protagónico transformador.",
@@ -1514,6 +1528,104 @@
                     "nombre": " X Encuentro Internacional de Investigadores y Estudiosos de la Información y la Comunicación, ICOM 2019"
                 }
             ]
+        },
+        "rejac": {
+            "id": "rejac",
+            "nombre": "Red Juvenil Ambiental de Cuba",
+            "nombre-corto": "ReJAC",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "nacional",
+            "organizacion": "red",
+            "keywords": [
+                "medio ambiente"
+            ],
+            "categoria": [
+                "Medio Ambiente"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "La Red Juvenil Ambiental de Cuba (ReJAC) es un grupo temático de las de las Brigadas Técnicas Juveniles (BTJ) y constituye el órgano asesor en materia de medio ambiente del Consejo Nacional, Provincial y Municipalde las BTJ y de su Presidencia,respondiendo ante esta por su funcionamiento. ReJAC tiene como meta fundamental promover la investigación científica y la búsqueda de soluciones a problemas ambientales, en temáticas específicas que constituyen prioridad para el territorio o el país.",
+            "geo": {
+                "lat": 23.142683,
+                "lon": -82.355368
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yanelei Peña Guerra",
+                    "email": "Sonya910624@gmail.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 30,
+                        "mes": 6,
+                        "año": 2019
+                    },
+                    "fin": null,
+                    "nombre": " Saneamiento medioambiental en 1ra y 70, Playa"
+                }
+            ]
+        },
+        "ecop": {
+            "id": "ecop",
+            "nombre": "Ciclo Ecopapel",
+            "nombre-corto": "Ecopapel",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Papel Manufacturado",
+                "Artesanía",
+                "Reciclaje",
+                "Tienda Ecológica",
+                "Desarrollo Local"
+            ],
+            "categoria": [
+                "Medio Ambiente"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Iniciativa no estatal productora de papel manufacturado, de forma ecológica. Realizamos productos utilitarios con papel y cartón reciclados, fundamentalmente, así como otros materiales obtenidos de este modo; con diseño personalizable, tanto para el sector industrial, empresarial, diplomático y de organizaciones gubernamentales y no gubernamentales, como para el público en general. Nuestra filosofía se sustenta en el ahorro, el reciclaje, la ecosostenibilidad y el compromiso con la comunidad.",
+            "geo": {
+                "lat": 23.136739, 
+                "lon": -82.355412
+            },
+            "localizacion": {
+                "email": "contacto@cicloecopapel.com",
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "https://twitter.com/cicloecopapel",
+                "facebook": "https://www.facebook.com/cicloecopapel",
+                "instagram": "http://instagram.com/cicloecopapel",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yunairy Estrada",
+                    "email": "cicloecopapel@gmail.com"
+                }
+            ],
+            "eventos": null
         }
     }
 }
