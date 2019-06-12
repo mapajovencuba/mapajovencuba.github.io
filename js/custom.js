@@ -601,7 +601,7 @@ $.getJSON("data/cuba.geojson",
 			}
 			if (e.localizacion.email!=null){
 				$('#project-email').removeClass('undisplay');
-				$('#project-email > a').prop('href','mailto://'+e.localizacion.email);	
+				$('#project-email > a').prop('href','mailto:'+e.localizacion.email);	
 			} else {
 				$('#project-email').addClass('undisplay');	
 			}
