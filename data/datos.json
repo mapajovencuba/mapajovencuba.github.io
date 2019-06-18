@@ -6,7 +6,7 @@
             "nombre-corto": "Postdata.club",
             "alcance": "nacional",
             "organizacion": "medio",
-            "logo": null,
+            "logo": "logo-pd.png",
             "tipo": "por",
             "keywords": [
                 "datos",
@@ -58,7 +58,7 @@
             "nombre-corto": "Articulación Juvenil OAR",
             "alcance": "nacional",
             "organizacion": "red",
-            "logo": null,
+            "logo": "logo-articulacion.png",
             "tipo": "por",
             "keywords": [
                 "Equidad social",
