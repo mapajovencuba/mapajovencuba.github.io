@@ -415,27 +415,27 @@
             "eventos": [
                 {
                     "inicio": {
-                        "dia":1,
-                        "mes":7,
-                        "año":2019
+                        "dia": 1,
+                        "mes": 7,
+                        "año": 2019
                     },
                     "fin": {
-                        "dia":5,
-                        "mes":7,
-                        "año":2019
+                        "dia": 5,
+                        "mes": 7,
+                        "año": 2019
                     },
                     "nombre": "XII Convención Internacional sobre medio ambiente y desarrollo"
                 },
                 {
                     "inicio": {
-                        "dia":23,
-                        "mes":6,
-                        "año":2019
+                        "dia": 23,
+                        "mes": 6,
+                        "año": 2019
                     },
                     "fin": {
-                        "dia":30,
-                        "mes":6,
-                        "año":2019
+                        "dia": 30,
+                        "mes": 6,
+                        "año": 2019
                     },
                     "nombre": "Convención Científica Internacional de Ciencia, Tecnología y Sociedad"
                 }
@@ -1171,7 +1171,7 @@
                 "no violencia"
             ],
             "categoria": [
-                "Justicia de género y equidad",
+                "Justicia de Género y Equidad",
                 "Inclusión"
             ],
             "provincia": "lha",
@@ -1367,7 +1367,7 @@
                 "comunicación"
             ],
             "categoria": [
-                "Justicia de género y equidad"
+                "Justicia de Género y Equidad"
             ],
             "provincia": "ltu",
             "municipio": null,
@@ -1618,7 +1618,7 @@
             "web": null,
             "descripcion": "Iniciativa no estatal productora de papel manufacturado, de forma ecológica. Realizamos productos utilitarios con papel y cartón reciclados, fundamentalmente, así como otros materiales obtenidos de este modo; con diseño personalizable, tanto para el sector industrial, empresarial, diplomático y de organizaciones gubernamentales y no gubernamentales, como para el público en general. Nuestra filosofía se sustenta en el ahorro, el reciclaje, la ecosostenibilidad y el compromiso con la comunidad.",
             "geo": {
-                "lat": 23.136739, 
+                "lat": 23.136739,
                 "lon": -82.355412
             },
             "localizacion": {
@@ -1636,6 +1636,55 @@
                 {
                     "nombre": "Yunairy Estrada",
                     "email": "cicloecopapel@gmail.com"
+                }
+            ],
+            "eventos": null
+        },
+        "trance": {
+            "id": "trance",
+            "nombre": "Colectivo Artístico Trance",
+            "nombre-corto": "Trance",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Meditación y espiritualidad",
+                "creación y arte responsable",
+                "multiculturalismo",
+                "concepción holística"
+            ],
+            "categoria": [
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Constituido en el año 2008, el Colectivo Artístico Trance es un gremio cultural colaborativo dedicado a la promoción de valores emancipadores y solidarios. Sustentado en las concepciones de la Educación Popular, la Economía del bien común y las enseñanzas filosóficas del Aiki Ram Jutsu, congrega artistas visuales, poetas, músicos, filólogos/as, historiadores/as del arte, etc. que, siguiendo su condición de gestores/as culturales destacan el potencial de la cultura para el desarrollo social y comunitario.",
+            "geo": {
+                "lat": 23.132474,
+                "lon": -82.393632
+            },
+            "localizacion": {
+                "email": "colectivotrance@nauta.cu",
+                "telefono": "78338583",
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/ColectivoTrance/",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Beatriz García Machado",
+                    "email": "lajungla.trance@gmail.com"
+                },
+                {
+                    "nombre": "Alfredo Sánchez Saavedra",
+                    "email": "colectivotrance@nauta.cu"
                 }
             ],
             "eventos": null
