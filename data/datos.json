@@ -9,9 +9,9 @@
             "logo": "logo-pd.png",
             "tipo": "por",
             "keywords": [
-                "datos",
-                "periodismo",
-                "visualización"
+                "Datos",
+                "Periodismo",
+                "Visualización"
             ],
             "categoria": [
                 "Participación y Gobernanza"
@@ -61,7 +61,7 @@
             "logo": "logo-articulacion.png",
             "tipo": "por",
             "keywords": [
-                "Equidad social",
+                "Equidad Social",
                 "No violencia",
                 "Juventudes"
             ],
@@ -106,8 +106,8 @@
             "logo": null,
             "tipo": "por",
             "keywords": [
-                "Medio ambiente",
-                "arqueología",
+                "Medio Ambiente",
+                "Arqueología",
                 "Reciclaje"
             ],
             "categoria": [
@@ -207,8 +207,8 @@
             "logo": null,
             "tipo": "por",
             "keywords": [
-                "Desarrollo comunitario",
-                "No violencia",
+                "Desarrollo Comunitario",
+                "No Violencia",
                 "Integración"
             ],
             "categoria": [
@@ -259,9 +259,9 @@
             "logo": null,
             "tipo": "por",
             "keywords": [
-                "Educación popular",
-                "adolescentes",
-                "transformación social"
+                "Educación Popular",
+                "Adolescentes",
+                "Transformación Social"
             ],
             "categoria": [
                 "Inclusión"
@@ -318,7 +318,7 @@
             "tipo": "para",
             "keywords": [
                 "Cultura",
-                "Sostenibilidad ambiental",
+                "Sostenibilidad Ambiental",
                 "Formación Artística"
             ],
             "categoria": [
@@ -380,7 +380,7 @@
             "tipo": "para",
             "keywords": [
                 "Medio Ambiente",
-                "Violencia simbólica",
+                "Violencia Simbólica",
                 "Integración"
             ],
             "categoria": [
@@ -452,7 +452,7 @@
             "keywords": [
                 "Paradigmas Emancipatorios",
                 "Feminismo",
-                "Movimientos sociales"
+                "Movimientos Sociales"
             ],
             "categoria": [
                 "Justicia de Género y Equidad",
@@ -507,7 +507,7 @@
             "keywords": [
                 "Género",
                 "Ruralidad",
-                "Equidad social"
+                "Equidad Social"
             ],
             "categoria": [
                 "Justicia de Género y Equidad"
@@ -565,7 +565,7 @@
             "keywords": [
                 "Comunicación",
                 "Juventud",
-                "Equidad social"
+                "Equidad Social"
             ],
             "categoria": [
                 "Identidad"
@@ -607,9 +607,9 @@
             "alcance": "nacional",
             "organizacion": "red",
             "keywords": [
-                "jóvenes ambientalistas",
-                "medio ambiente",
-                "ambientalistas"
+                "Jóvenes Ambientalistas",
+                "Medio Ambiente",
+                "Ambientalistas"
             ],
             "categoria": [
                 "Medio Ambiente"
@@ -652,10 +652,10 @@
             "organizacion": "proyecto",
             "keywords": [
                 "Socialismo",
-                "poder popular",
-                "revolución",
-                "feminismo",
-                "política"
+                "Poder Popular",
+                "Revolución",
+                "Feminismo",
+                "Política"
             ],
             "categoria": [
                 "Identidad",
@@ -746,9 +746,9 @@
             "alcance": "nacional",
             "organizacion": "red",
             "keywords": [
-                "Equidad social",
+                "Equidad Social",
                 "Desarrollo",
-                "participación",
+                "Participación",
                 "Interseccionalidad"
             ],
             "categoria": [
@@ -891,10 +891,10 @@
             "alcance": "local",
             "organizacion": "proyecto",
             "keywords": [
-                "Participación juvenil",
-                "desarrollo local",
-                "género",
-                "equidad"
+                "Participación Juvenil",
+                "Desarrollo Local",
+                "Género",
+                "Equidad"
             ],
             "categoria": [
                 "Identidad",
@@ -937,10 +937,10 @@
             "alcance": "nacional",
             "organizacion": "red",
             "keywords": [
-                "arte",
-                "cultura",
-                "tradición",
-                "trabajo comunitario"
+                "Arte",
+                "Cultura",
+                "Tradición",
+                "Trabajo Comunitario"
             ],
             "categoria": [
                 "Identidad"
@@ -982,10 +982,10 @@
             "alcance": "local",
             "organizacion": "proyecto",
             "keywords": [
-                "talleres",
-                "medio ambiente",
-                "desarrollo local",
-                "desarrollo comunitario"
+                "Talleres",
+                "Medio Ambiente",
+                "Desarrollo Local",
+                "Desarrollo Comunitario"
             ],
             "categoria": [
                 "Medio Ambiente",
@@ -1028,10 +1028,10 @@
             "alcance": "local",
             "organizacion": "proyecto",
             "keywords": [
-                "reciclaje",
-                "medio ambiente",
-                "desarrollo local",
-                "desarrollo comunitario"
+                "Reciclaje",
+                "Medio Ambiente",
+                "desarrollo Local",
+                "Desarrollo Comunitario"
             ],
             "categoria": [
                 "Medio Ambiente",
@@ -1074,10 +1074,10 @@
             "alcance": "local",
             "organizacion": "proyecto",
             "keywords": [
-                "integración",
-                "medio ambiente",
-                "desarrollo local",
-                "desarrollo comunitario"
+                "Integración",
+                "Medio Ambiente",
+                "Desarrollo Local",
+                "Desarrollo Comunitario"
             ],
             "categoria": [
                 "Medio Ambiente"
@@ -1119,10 +1119,10 @@
             "alcance": "local",
             "organizacion": "proyecto",
             "keywords": [
-                "talleres",
-                "educación popular",
-                "inclusión",
-                "trabajo comunitario"
+                "Talleres",
+                "Educación Popular",
+                "Inclusión",
+                "Trabajo Comunitario"
             ],
             "categoria": [
                 "Medio Ambiente",
@@ -1165,10 +1165,10 @@
             "alcance": "nacional",
             "organizacion": "red",
             "keywords": [
-                "masculinidades",
-                "género",
-                "prevención",
-                "no violencia"
+                "Masculinidades",
+                "Género",
+                "Prevención",
+                "No Violencia"
             ],
             "categoria": [
                 "Justicia de Género y Equidad",
@@ -1225,10 +1225,10 @@
             "alcance": "nacional",
             "organizacion": "medio",
             "keywords": [
-                "investigación",
-                "ciencias sociales",
-                "publicación",
-                "juventud"
+                "Investigación",
+                "Ciencias Sociales",
+                "Publicación",
+                "Juventud"
             ],
             "categoria": [
                 "Identidad"
@@ -1270,10 +1270,10 @@
             "alcance": "nacional",
             "organizacion": "proyecto",
             "keywords": [
-                "Medio ambiente",
-                "eduación popular",
-                "desarrollo local",
-                "equidad"
+                "Medio Ambiente",
+                "Educación Popular",
+                "Desarrollo Local",
+                "Equidad"
             ],
             "categoria": [
                 "Identidad"
@@ -1361,10 +1361,10 @@
             "alcance": "local",
             "organizacion": "medio",
             "keywords": [
-                "juventudes",
-                "violencia de género",
-                "equidad social",
-                "comunicación"
+                "Juventudes",
+                "Violencia de Género",
+                "Equidad Social",
+                "Comunicación"
             ],
             "categoria": [
                 "Justicia de Género y Equidad"
@@ -1406,7 +1406,7 @@
             "alcance": "local",
             "organizacion": "proyecto",
             "keywords": [
-                "Tradiciones culturales",
+                "Tradiciones Culturales",
                 "Ecosistema"
             ],
             "categoria": [
@@ -1450,8 +1450,8 @@
             "alcance": "local",
             "organizacion": "proyecto",
             "keywords": [
-                "gimnasio",
-                "deporte"
+                "Gimnasio",
+                "Deporte"
             ],
             "categoria": [
                 "Medio Ambiente"
@@ -1493,9 +1493,9 @@
             "alcance": "nacional",
             "organizacion": "red",
             "keywords": [
-                "información",
-                "comunicación",
-                "comunicación para el desarrollo"
+                "Información",
+                "Comunicación",
+                "Comunicación para el Desarrollo"
             ],
             "categoria": [
                 "Participación y Gobernanza"
@@ -1551,7 +1551,7 @@
             "alcance": "nacional",
             "organizacion": "red",
             "keywords": [
-                "medio ambiente"
+                "Medio Ambiente"
             ],
             "categoria": [
                 "Medio Ambiente"
@@ -1649,10 +1649,10 @@
             "alcance": "local",
             "organizacion": "proyecto",
             "keywords": [
-                "Meditación y espiritualidad",
-                "creación y arte responsable",
-                "multiculturalismo",
-                "concepción holística"
+                "Meditación y Espiritualidad",
+                "Creación y Arte Responsable",
+                "Multiculturalismo",
+                "Concepción Holística"
             ],
             "categoria": [
                 "Identidad"
@@ -1685,6 +1685,57 @@
                 {
                     "nombre": "Alfredo Sánchez Saavedra",
                     "email": "colectivotrance@nauta.cu"
+                }
+            ],
+            "eventos": null
+        },
+        "gorria": {
+            "id": "gorria",
+            "nombre": "Galería Taller Gorría",
+            "nombre-corto": "GTG",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Desarrollo Local",
+                "Desarrollo comunitario",
+                "Educación Popular",
+                "Arte en el Barrio",
+                "Reciclaje"
+            ],
+            "categoria": [
+                "Inclusión",
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": "San Isidro",
+            "web": "http://www.galeriatallergorria.com",
+            "descripcion": "Galería Taller Gorría es creadora del proyecto San Isidro D.A., con el fin de llevar y cultivar la cultura a todos sus habitantes del barrio, a través de festivales y eventos que combinan la plástica, la música, el teatro y las intervenciones públicas. Como parte de este proyecto, GTG inauguró un nuevo espacio, “El Artista”, situado en Picota #259, que tiene como objetivo promover el talento y la obra de los creadores más jóvenes.",
+            "geo": {
+                "lat": 23.129776, 
+                "lon": -82.352419
+            },
+            "localizacion": {
+                "email": "gtg@galeriatallergorria.com",
+                "telefono": "+53 78646713",
+                "direccion": "San Isidro 214 e/ Picota y Compostela. Habana Vieja. La Habana."
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/galeriatallergorria/",
+                "instagram": "https://www.instagram.com/galeriatallergorria/",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Jorge Perugorría Rodríguez",
+                    "email": "jorge@jorgeperugorria.com"
+                },
+                {
+                    "nombre": "Adán Perugorría Lafuente",
+                    "email": "adanperugorria@gmail.com"
                 }
             ],
             "eventos": null
