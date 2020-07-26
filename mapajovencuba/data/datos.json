@@ -1,0 +1,1749 @@
+{
+    "proyectos": {
+        "pdc": {
+            "id": "pdc",
+            "nombre": "Postdata.club",
+            "nombre-corto": "Postdata.club",
+            "alcance": "nacional",
+            "organizacion": "medio",
+            "logo": "logo-pd.png",
+            "tipo": "por",
+            "keywords": [
+                "Datos",
+                "Periodismo",
+                "Visualización"
+            ],
+            "categoria": [
+                "Participación y Gobernanza"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "http://www.postdata.club",
+            "descripcion": "Postdata.club es un equipo pequeño y multidisciplinar de profesionales cubanos a quienes interesa, desde una construcción colectiva, contar historias basadas en la interpretación de conjuntos de datos.",
+            "geo": {
+                "lat": 22.967287,
+                "lon": -82.383415
+            },
+            "localizacion": {
+                "email": "social@postdata.club",
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "https://twitter.com/postdataclub",
+                "facebook": "https://facebook.com/postdataclub",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Saimi Reyes Carmona",
+                    "email": "saimireyes24@gmail.com"
+                },
+                {
+                    "nombre": "Ernesto Alejandro Guerra Valdés",
+                    "email": "ernestoguerra9012@gmail.com"
+                },
+                {
+                    "nombre": "Yudivián Almeida Cruz",
+                    "email": "yudivian@gmail.com"
+                }
+            ],
+            "eventos": null
+        },
+        "ajoar": {
+            "id": "ajoar",
+            "nombre": "Articulación Juvenil por la Equidad Social del Centro Oscar Arnulfo Romero",
+            "nombre-corto": "Articulación Juvenil OAR",
+            "alcance": "nacional",
+            "organizacion": "red",
+            "logo": "logo-articulacion.png",
+            "tipo": "por",
+            "keywords": [
+                "Justicia de Género",
+                "Equidad",
+                "Identidad"
+            ],
+            "categoria": [
+                "Communication and information",
+                "Intercultural dialogue",
+                "Inclusive education",
+                "Gender equality",
+                "Social inclusion",
+                "Social justice",
+                "Youth; Solidarity"
+            ],
+            "provincia": "lha",
+            "municipio": "10 de Octubre",
+            "consejo_popular": "Vista Alegre",
+            "web": "www.romerocuba.org",
+            "descripcion": "La Articulación Juvenil x la Equidad Social de OAR (AJ), del Centro Oscar Arnulfo Romero está concebida como un espacio de trabajo común, socialización y activismo, creada el 8 de mayo de 2016. Lo distintivo es la diversidad de sus integrantes en cuanto a procedencia, términos de ámbitos de estudio y trabajo, orientación erótico afectiva, identidad de género, lugar de residencia, color de la piel, prácticas o no religiosa, experiencias y expectativas de vida, etc. Desde la coordinación, se intenciona la articulación de redes, iniciativas, proyectos de diferentes temáticas; sustentado en el trabajo con y para jóvenes entre 18 y 35 años, cuyo accionar se da fundamentalmente en escuelas y comunidades. Se trabaja con la metodología de la Educación Popular, en un proceso formativo teórico práctico donde se les comparten a sus integrantes conocimientos y herramientas relacionadas con la equidad social, colocando el énfasis en la dimensión género y los derechos humanos, de esta forma desarrollan competencias que puestas en práctica, les permiten el ejercicio autónomo de sus derechos, la defensa de sus criterios, el diseño de propuestas de transformación social y la articulación con otros actores sociales, para que tengan mayor protagonismo en la promoción de equidad social en sus contextos locales (laborales, familiares, escolares y comunitarios).",
+            "geo": {
+                "lat": 23.090548,
+                "lon": -82.365311
+            },
+            "localizacion": {
+                "email": "articulacionjuvenil@oar.co.cu",
+                "telefono": "76481521 (ext. 103), +5358276591",
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/groups/articulacionjuvenil/",
+                "instagram": "https://www.instagram.com/articulacionjuvenilcuba",
+                "youtube": "https://www.youtube.com/channel/UCnq9JgDIAFilJyzgxjEzgw"
+            },
+            "personas": [
+                {
+                    "nombre": "Yoamaris Neptuno Domínguez",
+                    "email": "articulacionjuvenil@oar.co.cu"
+                }
+            ],
+            "eventos": null
+        },
+        "habsub": {
+            "id": "HabanaSub",
+            "nombre": "HabanaSub",
+            "nombre-corto": "HabanaSub",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "logo": null,
+            "tipo": "por",
+            "keywords": [
+                "Medio Ambiente",
+                "Arqueología",
+                "Reciclaje"
+            ],
+            "categoria": [
+                "Medio Ambiente"
+            ],
+            "provincia": "lha",
+            "municipio": "Centro Habana",
+            "consejo_popular": "Colón",
+            "web": null,
+            "descripcion": "Lograr la sensibilización de la población de la zona adyacente al Malecón Habanero. Además el saneamiento y limpieza de la zona costera realizada por el Grupo de HabanaSub con el objetivo de proteger los recursos marinos del litoral habanero.",
+            "geo": {
+                "lat": 23.140687,
+                "lon": -82.359871
+            },
+            "localizacion": {
+                "email": "habanasub2018@gmail.com",
+                "telefono": null,
+                "direccion": "Consulado # 166 apto 41 e/ Colón y Trocadero Centro Habana"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/habanasub",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": null,
+            "eventos": null
+        },
+        "Claus": {
+            "id": "Claus",
+            "nombre": "Claustrofobias Promociones Literarias",
+            "nombre-corto": "Claustrofobias",
+            "alcance": "nacional",
+            "organizacion": "proyecto",
+            "logo": null,
+            "tipo": "por",
+            "keywords": [
+                "Literatura",
+                "TICS",
+                "Comunidad"
+            ],
+            "categoria": [
+                "Identidad"
+            ],
+            "provincia": "stg",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "http://www.claustrofobias.com",
+            "descripcion": "Promoción del libro y la lectura como herramienta para fomentar valores y proteger identidades. Conservación del patrimonio y la memoria de nuestros pueblos con publicaciones impresas y digitales. Realización de publicaciones y estrategias de comunicación. Aprovechamiento de las TICS.",
+            "geo": {
+                "lat": 20.022052,
+                "lon": -75.821636
+            },
+            "localizacion": {
+                "email": "somos@claustrofobias.com",
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "https://twitter.com/claustrofobias",
+                "facebook": "https://facebook.com/claustrofobias",
+                "instagram": "https://instagram.com/claustrofobias",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yunier Riquenes García",
+                    "email": "yunierr247@gmail.com"
+                },
+                {
+                    "nombre": "Naskicet Domínguez Pérez",
+                    "email": "somos@claustrofobias.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 15,
+                        "mes": 7,
+                        "año": 2019
+                    },
+                    "fin": {
+                        "dia": 20,
+                        "mes": 7,
+                        "año": 2019
+                    },
+                    "nombre": "Curso Infantil de Escritura Creativa de Verano"
+                }
+            ]
+        },
+        "dbeb": {
+            "id": "dbeb",
+            "nombre": "Proyecto Comunitario De Barrio en Barrio",
+            "nombre-corto": "De Barrio en Barrio",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "logo": null,
+            "tipo": "por",
+            "keywords": [
+                "Desarrollo Comunitario",
+                "No Violencia",
+                "Integración"
+            ],
+            "categoria": [
+                "Justicia de Género y Equidad"
+            ],
+            "provincia": "gra",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "El Proyecto Comunitario De Barrio en Barrio es una intensión social que utiliza como herramientas fundamentales las actividades físicas, deportivas, recreativas y culturales con un marcado enfoque preventivo y reeducativo vinculadas con acciones de promoción, capacitación y sensibilización, como espacios para el tratamiento a problemáticas en temas relacionados con la violencia de género y la equidad social a partir de las necesidades detectadas en comunidades vulnerables de la provincia Granma, fundamentalmente en comunidades de difícil acceso o rurales, además de aquellas identificadas en el mapa sociopolítico del gobierno",
+            "geo": {
+                "lat": 20.500093,
+                "lon": -76.641009
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Osvanys Pantoja Ojea",
+                    "email": "opantojao@udg.co.cu"
+                },
+                {
+                    "nombre": "Alain Gonzales Paneque",
+                    "email": "agonzalesp@udg.co.cu"
+                },
+                {
+                    "nombre": "Yaima Castillo Pumarroll",
+                    "email": "ycastillop@udg.co.cu"
+                }
+            ],
+            "eventos": null
+        },
+        "esc": {
+            "id": "esc",
+            "nombre": "Escaramujo",
+            "nombre-corto": "Escaramujo",
+            "alcance": "nacional",
+            "organizacion": "proyecto",
+            "logo": null,
+            "tipo": "por",
+            "keywords": [
+                "Educación Popular",
+                "Adolescentes",
+                "Transformación Social"
+            ],
+            "categoria": [
+                "Inclusión"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "http://www.proyectoescaramujo.wordpress.com",
+            "descripcion": "Escaramujo es un proyecto educomunicativo interdisciplinar que trabaja desde el año 2010.Es impulsado por estudiantes, profesores y egresados de siete facultades del país desde ocho carreras universitarias.  Su objetivo fundamental es contribuir al desarrollo psicosocial de niñas, niños y adolescentes en Cuba, fundamentalmente en aquellos y aquellas que viven en condiciones de vulnerabilidad social, a partir de una práctica educomunicativa interdisciplinar gestionada desde el ámbito universitario y concebida desde las concepciones y metodologías de la Educación Popular.",
+            "geo": {
+                "lat": 23.117984,
+                "lon": -82.387394
+            },
+            "localizacion": {
+                "email": "escaramujo@fcom.uh.cu",
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "http://facebook.com/ProyectoEscaramujo",
+                "instagram": "http://instagram.com/escaramujocuba",
+                "youtube": "http://youtube.com/escaramujocuba"
+            },
+            "personas": [
+                {
+                    "nombre": "Beatriz Herrera Carvajal",
+                    "email": "bherrera0130@gmail.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 1,
+                        "mes": 2,
+                        "año": 2020
+                    },
+                    "fin": {
+                        "dia": 29,
+                        "mes": 2,
+                        "año": 2020
+                    },
+                    "nombre": "VI edición del evento académico Adolescer"
+                }
+            ]
+        },
+        "hwm": {
+            "id": "hwm",
+            "nombre": "Havana World Music",
+            "nombre-corto": "HWM",
+            "alcance": "nacional",
+            "organizacion": "proyecto",
+            "logo": null,
+            "tipo": "para",
+            "keywords": [
+                "Cultura",
+                "Sostenibilidad Ambiental",
+                "Formación Artística"
+            ],
+            "categoria": [
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "http://www.havanaworldmusic.com",
+            "descripcion": "Havana World Music es un conjunto de proyectos aportando desde espacios culturales y propiciando procesos de transformación mediante el trabajo con la diversidad cultural (festival y proyecto con bandas que trabajan con las raíces Para Mestizar), juventud (concurso de nuevas bandas Primera Base) y mujeres (Women of the World, que reúne mujeres del mundo para hacer un proyecto musical en Cuba). El evento principal anual es el Festival Havana World Music, que en 6 ediciones ha reunido en La Habana a 60.000 personas, mayoritariamente jóvenes, y 123 bandas y agrupaciones artísticas de 30 países diferentes. Además, Havana World Music está dando pasos para introducir la sostenibilidad ambiental en sus eventos.",
+            "geo": {
+                "lat": 23.127546,
+                "lon": -82.410075
+            },
+            "localizacion": {
+                "email": "info@havanaworldmusic.com",
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "www.twitter.com/havanaworld",
+                "facebook": "www.facebook.com/havanaworld",
+                "instagram": "www.instagram.com/havanaworldmusic",
+                "youtube": "www.youtube.com/havanaworldmusic"
+            },
+            "personas": [
+                {
+                    "nombre": "Anabel Jiménez López",
+                    "email": "anabel@havanaworldmusic.com"
+                },
+                {
+                    "nombre": "Maite Hernández Fonseca",
+                    "email": "maite@havanaworldmusic.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 26,
+                        "mes": 3,
+                        "año": 2020
+                    },
+                    "fin": {
+                        "dia": 28,
+                        "mes": 3,
+                        "año": 2020
+                    },
+                    "nombre": "Festival Havana World Music"
+                }
+            ]
+        },
+        "gemas": {
+            "id": "gemas",
+            "nombre": "Grupo de Estudios sobre Medio Ambiente y Sociedad (GEMAS) Instituto de Filosofía ",
+            "nombre-corto": "GEMAS",
+            "alcance": "nacional",
+            "organizacion": "proyecto",
+            "logo": null,
+            "tipo": "para",
+            "keywords": [
+                "Medio Ambiente",
+                "Violencia Simbólica",
+                "Integración"
+            ],
+            "categoria": [
+                "Medio Ambiente"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "http://www.filosofia.cu",
+            "descripcion": "Potencia las investigaciones en temas ambientales desde un abordaje socio-filosófico al comprender la crisis ambiental como una crisis civilizatoria, al desplazar la mirada desde los problemas ambientales hacia el modelo económico, político, social, tecnológico y cultural hegemónico, abordándolo desde varios ejes.",
+            "geo": {
+                "lat": 23.144994,
+                "lon": -82.391262
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Anisley Morejón Ramos",
+                    "email": "anisley.morejon82@gmail.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 1,
+                        "mes": 7,
+                        "año": 2019
+                    },
+                    "fin": {
+                        "dia": 5,
+                        "mes": 7,
+                        "año": 2019
+                    },
+                    "nombre": "XII Convención Internacional sobre medio ambiente y desarrollo"
+                },
+                {
+                    "inicio": {
+                        "dia": 23,
+                        "mes": 6,
+                        "año": 2019
+                    },
+                    "fin": {
+                        "dia": 30,
+                        "mes": 6,
+                        "año": 2019
+                    },
+                    "nombre": "Convención Científica Internacional de Ciencia, Tecnología y Sociedad"
+                }
+            ]
+        },
+        "gal": {
+            "id": "gal",
+            "nombre": "Grupo de investigación Galfisa",
+            "nombre-corto": "Galfisa",
+            "alcance": "nacional",
+            "organizacion": "grupo",
+            "logo": null,
+            "tipo": "por",
+            "keywords": [
+                "Paradigmas Emancipatorios",
+                "Feminismo",
+                "Movimientos Sociales"
+            ],
+            "categoria": [
+                "Justicia de Género y Equidad",
+                "Emancipación"
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": null,
+            "web": "http://www.filosofia.cu",
+            "descripcion": "Grupo de investigación que aborda los escenarios de disputas hegemónicas entre emancipación y dominación en América Latina y el Caribe y su impacto en Cuba. Realiza procesos de acompañamiento a experiencias productivas en la Habana. Coordina a nivel nacional la Red Feminista y la Red de Trabajo Cooperado y Solidario. Realiza cada 2 años los Talleres Internacionales de Paradigmas Emancipatorios que reúne académicos y líderes de movimientos sociales de toda la región latinoamericana.",
+            "geo": {
+                "lat": 23.144994,
+                "lon": -82.391262
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": 78329768,
+                "direccion": "Instituto de Filosofía. Calzada y J, Vedado. Plaza de la Revolución. La Habana"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yohanka León del Río",
+                    "email": "yohankal@gmail.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 6,
+                        "mes": 6,
+                        "año": 2019
+                    },
+                    "fin": null,
+                    "nombre": "Encuentro nacional de la Red Feminista"
+                }
+            ]
+        },
+        "geru": {
+            "id": "geru",
+            "nombre": "Grupo para el acompañamiento y la sensibilización Género y Ruralidad (GeRu)",
+            "nombre-corto": "GeRu",
+            "alcance": "provincial",
+            "organizacion": "grupo",
+            "logo": null,
+            "tipo": "por",
+            "keywords": [
+                "Género",
+                "Ruralidad",
+                "Equidad Social"
+            ],
+            "categoria": [
+                "Justicia de Género y Equidad"
+            ],
+            "provincia": "ltu",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "El Grupo para el acompañamiento y la sensibilización Género y Ruralidad (GeRu), es una plataforma de trabajo que desde el espacio local y con incidencia provincial promueve los aspectos relacionados con la equidad de género en el desarrollo. Desde sus inicios en marzo del 2014, entre sus principales líneas de trabajo o esfuerzos articulados, se encuentra: la formación de capacidades y la sensibilización de actores y autoridades; la prevención y atención de la violencia de género; la generación de conocimientos; el incentivo y apoyo de iniciativas económicas con enfoque de equidad; la visibilizarían y reconocimiento del papel de las mujeres en el desarrollo, la socialización de resultados entre otros aspectos.",
+            "geo": {
+                "lat": 21.150626,
+                "lon": -76.477622
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": 31582754,
+                "direccion": "Centro Universitario Municipal Jesús Menéndez"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Aliek Méndez Bordón",
+                    "email": "aliekmb@gmail.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 25,
+                        "mes": 11,
+                        "año": 2019
+                    },
+                    "fin": {
+                        "dia": 10,
+                        "mes": 12,
+                        "año": 2019
+                    },
+                    "nombre": "X Jornada por la No Violencia hacia las Mujeres y las Niñas"
+                }
+            ]
+        },
+        "sj": {
+            "id": "sj",
+            "nombre": "Revista Somos Jóvenes",
+            "nombre-corto": "Somos Jóvenes",
+            "alcance": "nacional",
+            "organizacion": "medio",
+            "logo": null,
+            "tipo": "para",
+            "keywords": [
+                "Comunicación",
+                "Juventud",
+                "Equidad Social"
+            ],
+            "categoria": [
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "https://medium.com/somos-j%C3%B3venes",
+            "descripcion": "Somos Jóvenes es una publicación de alcance nacional dirigida, sobre todo, a los jóvenes en edades entre 15 y 20 años. Esta revista se acerca a los intereses para la juventud y en su accionar destaca el acercamiento a los temas de género, equidad, medio ambiente, formación de valores y sensibilización.",
+            "geo": {
+                "lat": 23.135325,
+                "lon": -82.358508
+            },
+            "localizacion": {
+                "email": "somosjovenescuba@gmail.com",
+                "telefono": 78625031,
+                "direccion": "Casa Editora Abril. Prado #553, entre Teniente Rey y Dragones. La Habana Vieja. La Habana"
+            },
+            "social": {
+                "twitter": "www.twitter.com/somosjovenes",
+                "facebook": "www.facebook.com/somosjovenescuba",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Darío Alejandro Paulino Escobar",
+                    "email": "cubafulltime@gmail.com"
+                }
+            ],
+            "eventos": null
+        },
+        "JAC": {
+            "id": "JAC",
+            "nombre": "Jóvenes Ambientalistas Cubanos",
+            "nombre-corto": "JAC",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "nacional",
+            "organizacion": "red",
+            "keywords": [
+                "Jóvenes Ambientalistas",
+                "Medio Ambiente",
+                "Ambientalistas"
+            ],
+            "categoria": [
+                "Medio Ambiente"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "La iniciativa JAC es un movimiento juvenil de ambientalistas cubanos que lidera acciones a favor del medio ambiente y procesos para la conservación y uso sostenible de la biodiversidad. Al mismo tiempo, sensibiliza sobre la rehabilitación de la calidad ambiental a partir de la disminución de los efectos e impactos del cambio climático.Tiene la misión de realizar acciones de protección, conservación, manejo y sensibilización medioambiental con el fin de desarrollar actividades que contribuyan a tener un ambiente más sano; conscientes de la necesidad de llevar a cabo soluciones que repercutan en el desarrollo próspero y sostenible de la nación cubana.",
+            "geo": {
+                "lat": 23.136791,
+                "lon": -82.384778
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "http://twitter.com/richardcuba1993",
+                "facebook": "http://facebook.com/JACdeAMA",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Richard Gutiérrez Cuesta",
+                    "email": "gutierrezcuba65@gmail.com"
+                }
+            ],
+            "eventos": null
+        },
+        "NAM": {
+            "id": "NAM",
+            "nombre": "Proyecto Nuestra América",
+            "nombre-corto": "Nuestra América",
+            "logo": null,
+            "tipo": "para",
+            "alcance": "nacional",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Socialismo",
+                "Poder Popular",
+                "Revolución",
+                "Feminismo",
+                "Política"
+            ],
+            "categoria": [
+                "Identidad",
+                "Emancipación"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "El Proyecto Nuestra América es un colectivo de jóvenes cubanos y latinoamericanos que tienen como objetivo estratégico impulsar el socialismo en Cuba y en América Latina. Trabajamos en este sentido reconstruyendo el tejido social revolucionario y profundizando el poder popular en Cuba.",
+            "geo": {
+                "lat": 23.140984,
+                "lon": -82.381955
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "http://facebook.com/proyecto-nuestra-am%C3%A9rica-864768543654721",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Betsi Caratayú Fumero",
+                    "email": null
+                },
+                {
+                    "nombre": "Lissy Villar",
+                    "email": "lissyvillar91@gmail.com"
+                }
+            ],
+            "eventos": null
+        },
+        "OLI": {
+            "id": "OLI",
+            "nombre": "Olimpiando",
+            "nombre-corto": "Olimpiando",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "capacitación",
+                "violencia de género",
+                "feminismo"
+            ],
+            "categoria": [
+                "Justicia de Género y Equidad"
+            ],
+            "provincia": "gra",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "“OLIMPIANDO” es un programa de participación en el que convergen estudiantes organizados en equipos para realización del programa. Por sus características está orientado a la formación integral del estudiantado. El objetivo general es contribuir a la capacitación sobre la prevención de la violencia de género a través de las sesiones de  participación, a demás de desarrollar actividades que contribuyan al conocimiento sobre la prevención de la violencia de género de carácter general o particulares según el grupo social con el cual se intervenga, promover el impacto en la comunidad estudiantil  desde las actividades que se conciben en el programa, evidenciando la incidencia de la recreación en la formación integral de los y las participantes, estimular el interés por la preparación y superación en la prevención de la violencia de género y equidad social. En este programa  se agrupan actividades docentes que dan salida a la prevención de la violencia de género y equidad social y espacios de participación variados, tanto para concursantes como para los miembros de las brigadas que no se incluyen en los equipos y que participan desde auditorio. Estas actividades se organizan en secciones y se desarrollan en locales que proporcionen estabilidad, comodidad, etc",
+            "geo": {
+                "lat": 20.376403,
+                "lon": -76.638821
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Alain Gonzáles Paneque",
+                    "email": "agonzalesp@udig.co.cu"
+                }
+            ],
+            "eventos": null
+        },
+        "PPYE": {
+            "id": "PPYE",
+            "nombre": "Plataforma de Participación y Equidad",
+            "nombre-corto": "PPyE",
+            "logo": null,
+            "tipo": "para",
+            "alcance": "nacional",
+            "organizacion": "red",
+            "keywords": [
+                "Equidad Social",
+                "Desarrollo",
+                "Participación",
+                "Interseccionalidad"
+            ],
+            "categoria": [
+                "Justicia de Género y Equidad"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Espacio de intercambio entre ONGs cubanas, la universidad y coordinadore/as de proyectos de desarrollo local y comunitario, en función de contribuir a la disminución de brechas de equidad social en municipios de Cuba. Trabaja de forma articulada con gobiernos locales, grupos gestores de proyectos, centros universitarios municipales y otros actores comunitarios.",
+            "geo": {
+                "lat": 23.0928794,
+                "lon": -82.367125
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Geydis Fundora Nevot",
+                    "email": "geydis.flacso@gmail.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 15,
+                        "mes": 5,
+                        "año": 2019
+                    },
+                    "fin": null,
+                    "nombre": "Actividad por el día internacional de la familia"
+                },
+                {
+                    "inicio": {
+                        "dia": 3,
+                        "mes": 6,
+                        "año": 2019
+                    },
+                    "fin": {
+                        "dia": 5,
+                        "mes": 6,
+                        "año": 2019
+                    },
+                    "nombre": "Curso-Taller Desigualdades territoriales"
+                },
+                {
+                    "inicio": {
+                        "dia": 6,
+                        "mes": 6,
+                        "año": 2019
+                    },
+                    "fin": {
+                        "dia": 7,
+                        "mes": 6,
+                        "año": 2019
+                    },
+                    "nombre": "Curso-Taller Desigualdades económicas"
+                }
+            ]
+        },
+        "PAL": {
+            "id": "PAL",
+            "nombre": "Proyecto Palomas. Casa Productora de Audiovisuales para el Activismo Social.",
+            "nombre-corto": "Proyecto Palomas",
+            "logo": null,
+            "tipo": "para",
+            "alcance": "nacional",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Justicia de Género",
+                "Justicia Ambiental",
+                "Justicia Social",
+                "Inclusión"
+            ],
+            "categoria": [
+                "Justicia de Género y Equidad"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Palomas es una Casa Productora de Audiovisuales para el Activismo Social. Su obra se sustenta desde la práctica transdisciplinaria de la Pedagogía de Paz, donde la Teoría Política del Amor y los Afectos, que es la comunión entre el sentir y la razón, devienen como los recursos esenciales para la reparación de desigualdades mediante el ejercicio sensible, emotivo, apasionado y expresivo, que se modula desde lo simbólico a lo real, desde lo privado a lo público, de lo urbano y lo rural hacia una reedificación de un estado de vida pleno en todas sus dimensiones.",
+            "geo": {
+                "lat": 23.144994,
+                "lon": -82.391262
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": 78790060,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Proyectopalomas/",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Marcos Herrera García",
+                    "email": "palomas@icaic.cu"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 26,
+                        "mes": 11,
+                        "año": 2019
+                    },
+                    "fin": null,
+                    "nombre": "Conferencia de Prensa del documental Mujeres… resiliencia, derechos a la vida."
+                },
+                {
+                    "inicio": {
+                        "dia": 5,
+                        "mes": 10,
+                        "año": 2019
+                    },
+                    "fin": null,
+                    "nombre": "Presentación especial al público del documetal Mujeres… resiliencia, derechos a la vida"
+                }
+            ]
+        },
+        "SIT": {
+            "id": "SIT",
+            "nombre": "Proyecto de Dinamización Sociocultural y Participación Juvenil en el municipio La Sierpe",
+            "nombre-corto": "SITISPE",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Participación Juvenil",
+                "Desarrollo Local",
+                "Género",
+                "Equidad"
+            ],
+            "categoria": [
+                "Identidad",
+                "Inclusión"
+            ],
+            "provincia": "ssp",
+            "municipio": "La Sierpe",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Proyecto que en principio, se propuso comprometer a adolescentes y jóvenes con el desarrollo de su localidad, para lo cual ha promovido, desde una perspectiva sociocultural, sus sentimientos identitarios, valores y capacidades para la participación social y la equidad, y alternativas para el desarrollo artístico y recreativo. Tiene un carácter inclusivo, intersectorial, e intergeneracional. Ha propiciado la formación y articulación de actores diversos, y ha posicionado a los y las jóvenes en un rol protagónico transformador.",
+            "geo": {
+                "lat": 21.642179,
+                "lon": -79.195037
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": 78790060,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/sitispe",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yamir Palmero",
+                    "email": "lcaballero@gob.ssp.cu"
+                }
+            ],
+            "eventos": null
+        },
+        "BJM": {
+            "id": "BJM",
+            "nombre": "Brigada de Instructores de Arte José Martí",
+            "nombre-corto": "BJM",
+            "logo": null,
+            "tipo": "para",
+            "alcance": "nacional",
+            "organizacion": "red",
+            "keywords": [
+                "Arte",
+                "Cultura",
+                "Tradición",
+                "Trabajo Comunitario"
+            ],
+            "categoria": [
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "http://www.brigadajosemarti.wordpress.com",
+            "descripcion": "Este proyecto devenido movimiento cultural, tiene como propósito esencial realzar y estimular el ejercicio profesional de los Instructores de Arte. A su vez, utiliza el trabajo colectivo como fórmula imprescindible teniendo como escenarios fundamentales, aunque no únicos, escuelas, casas de cultura y otros espacios de la comunidad.",
+            "geo": {
+                "lat": 23.133164,
+                "lon": -82.353832
+            },
+            "localizacion": {
+                "email": "presidenciabjm@bjm.cult.cu",
+                "telefono": 78644478,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "http://twitter.com/instructoresdeartecuba",
+                "facebook": "https://www.facebook.com/instructoresdeartecuba",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Liliam Mendoza Estrada",
+                    "email": "presidenciabjm@bjm.cult.cu"
+                }
+            ],
+            "eventos": null
+        },
+        "CCCB": {
+            "id": "CCCB",
+            "nombre": "Centro Cultural Comunitario Belén",
+            "nombre-corto": "Centro Cultural Comunitario Belén",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Talleres",
+                "Medio Ambiente",
+                "Desarrollo Local",
+                "Desarrollo Comunitario"
+            ],
+            "categoria": [
+                "Medio Ambiente",
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": "Belén",
+            "web": "http://www.brigadajosemarti.wordpress.com",
+            "descripcion": "Ofrece un espacio para el desarrollo de talleres y acciones comunitarias asociadas al cuidado y protección del Medio Ambiente en la comunidad Belén de La Habana Vieja. Aprovechando también las posibilidades infinitas que ofrecen las diversas manifestaciones artísticas.",
+            "geo": {
+                "lat": 23.133063,
+                "lon": -82.353306
+            },
+            "localizacion": {
+                "email": "presidenciabjm@bjm.cult.cu",
+                "telefono": 78644479,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "http://twitter.com/instructoresdeartecuba",
+                "facebook": "https://www.facebook.com/instructoresdeartecuba",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Heysi Rodríguez Suárez",
+                    "email": "presidenciabjm@bjm.cult.cu"
+                }
+            ],
+            "eventos": null
+        },
+        "TRAS": {
+            "id": "TRAS",
+            "nombre": "Proyecto Traspapel",
+            "nombre-corto": "Traspapel",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Reciclaje",
+                "Medio Ambiente",
+                "desarrollo Local",
+                "Desarrollo Comunitario"
+            ],
+            "categoria": [
+                "Medio Ambiente",
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": "Belén",
+            "web": "http://www.brigadajosemarti.wordpress.com",
+            "descripcion": "Cierre del ciclo de talleres de reciclaje del Centro Cultural Comunitario Belén cuyo objetivo principal radica en la confección de trajes y bisutería. Durante este proceso los niños y jóvenes se nutren de cómo reciclar los materiales con los que trabajan y el daño que pueden ocasionar si se desechan indebidamente. El proyecto ayuda a instructores de arte y docentes de la comunidad a suplir carencias de escenografía y vestuarios.",
+            "geo": {
+                "lat": 23.133063,
+                "lon": -82.363306
+            },
+            "localizacion": {
+                "email": "creacionbjm@bjm.cult.cu",
+                "telefono": 78644479,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "http://twitter.com/instructoresdeartecuba",
+                "facebook": "https://www.facebook.com/instructoresdeartecuba",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "José Carlos Ruiz Alcántara",
+                    "email": "creacionbjm@bjm.cult.cu"
+                }
+            ],
+            "eventos": null
+        },
+        "AF": {
+            "id": "AF",
+            "nombre": "Proyecto Sociocultural Arte Flor",
+            "nombre-corto": "Arte Flor",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Integración",
+                "Medio Ambiente",
+                "Desarrollo Local",
+                "Desarrollo Comunitario"
+            ],
+            "categoria": [
+                "Medio Ambiente"
+            ],
+            "provincia": "gtm",
+            "municipio": "Yateras",
+            "consejo_popular": "Monte Verde",
+            "web": "http://www.brigadajosemarti.wordpress.com",
+            "descripcion": "Contribuir a la satisfacción de necesidad (subsistencia, participación, ocio, creación) de mujeres y jóvenes de la comunidad de Monte Verde a partir de las opciones que brindan la floricultura, la artesanía y el cultivo de berro para el bienestar humano.",
+            "geo": {
+                "lat": 20.382707,
+                "lon": -74.919205
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Isael Peña Acosta",
+                    "email": null
+                }
+            ],
+            "eventos": null
+        },
+        "KATA": {
+            "id": "KATA",
+            "nombre": "proyecto K'Talejo",
+            "nombre-corto": "K'Talejo",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Talleres",
+                "Educación Popular",
+                "Inclusión",
+                "Trabajo Comunitario"
+            ],
+            "categoria": [
+                "Medio Ambiente",
+                "Identidad"
+            ],
+            "provincia": "gtm",
+            "municipio": "Manuel Támez",
+            "consejo_popular": null,
+            "web": "http://www.brigadajosemarti.wordpress.com",
+            "descripcion": "Tiene como propósito la incorporación plena a la sociedad de niños con necesidades educativas especiales mediante las Artes plásticas y las posibilidades infinitas del reciclaje para la creación de manualidades y artesanías.",
+            "geo": {
+                "lat": 20.177219,
+                "lon": -75.055421
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yoandry D'Roncelett Zulueta",
+                    "email": null
+                }
+            ],
+            "eventos": null
+        },
+        "RIAM": {
+            "id": "RIAM",
+            "nombre": "Red Iberoamericana y Africana de Masculinidades (RIAM)",
+            "nombre-corto": "RIAM",
+            "logo": null,
+            "tipo": "para",
+            "alcance": "nacional",
+            "organizacion": "red",
+            "keywords": [
+                "Masculinidades",
+                "Género",
+                "Prevención",
+                "No Violencia"
+            ],
+            "categoria": [
+                "Justicia de Género y Equidad",
+                "Inclusión"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "http://redmasculinidades.blogspot.com/",
+            "descripcion": "La Red Iberoamericana y Africana de Masculinidades (RIAM), integrada fundamentalmente por hombres, pero también por mujeres que apuestan por un cambio en la cultura patriarcal dominante, impulsa espacios de socialización del conocimiento y el debate sobre las masculinidades en Cuba, visualizando los impactos negativos que la cultura patriarcal y falocéntrica tiene sobre los hombres, promoviendo formas alternativas, diversas, solidarias y no violentas de asumir la masculinidad. La RIAM promueve una mirada autónoma y crítica de los hombres sobre sí mismos, tanto en el ámbito académico como en espacios comunitarios.",
+            "geo": {
+                "lat": 23.132048,
+                "lon": -82.393247
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/RedIberoamericanaYAfricanaDeMasculinidadesRiam/",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yonnier Angulo Rodríguez",
+                    "email": "yonnierar@gmail.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 25,
+                        "mes": 5,
+                        "año": 2019
+                    },
+                    "fin": {
+                        "dia": 26,
+                        "mes": 5,
+                        "año": 2019
+                    },
+                    "nombre": "Acciones por la No Violencia en el II Festival Nacional de Fútbol Callejero"
+                }
+            ]
+        },
+        "RCCS": {
+            "id": "RCCS",
+            "nombre": "Revista Cubana de Ciencias Sociales",
+            "nombre-corto": "Revista Ciencias Sociales",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "nacional",
+            "organizacion": "medio",
+            "keywords": [
+                "Investigación",
+                "Ciencias Sociales",
+                "Publicación",
+                "Juventud"
+            ],
+            "categoria": [
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Publicación semestral en la que se reflexiona sobre temas de Ciencias Sociales. En la etapa actual está siendo coordinada por jóvenes que buscan articular los temas que se publican con los intereses contemporáneos de lectura.",
+            "geo": {
+                "lat": 23.144994,
+                "lon": -82.381262
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": 78320301,
+                "direccion": "Instituto de Filosofía. Calzada 251 esquina a J. Plaza de la Revolución"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Adalys Bello Lagos",
+                    "email": "adalys@filosofia.cu"
+                }
+            ],
+            "eventos": null
+        },
+        "3P": {
+            "id": "3P",
+            "nombre": "Embajada Rebirth / Tercer Paraíso Cuba",
+            "nombre-corto": "Tercer Paraíso",
+            "logo": null,
+            "tipo": "para",
+            "alcance": "nacional",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Medio Ambiente",
+                "Educación Popular",
+                "Desarrollo Local",
+                "Equidad"
+            ],
+            "categoria": [
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "http://www.tercerparaisocuba.org",
+            "descripcion": "Proyecto creado por el artista italiano Michelangelo Pistoletto, que usa el arte y la creatividad como vehículos para la transformación social, desde la demopráctica, el respeto y la responsabilidad colectiva, partiendo de los 17 ODS y de la filosofía de la trinámica, que promueve la armonía entre opuestos y la unión de lo diverso",
+            "geo": {
+                "lat": 23.134416,
+                "lon": -82.365730
+            },
+            "localizacion": {
+                "email": "tercerparaisocuba@gmail.com",
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "https://twitter.com/3ParaisoCubaoOo",
+                "facebook": "https://www.facebook.com/rebirthcuba/",
+                "instagram": "http://instagram.com/tercerparaisocuba",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Laura Salas Redondo",
+                    "email": "laura.salasredondo@gmail.com"
+                },
+                {
+                    "nombre": "Claudia González Machado",
+                    "email": "cglez13@gmail.com"
+                },
+                {
+                    "nombre": "Dayma Crespo Zaporta",
+                    "email": "daymacrespo@gmail.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 9,
+                        "mes": 6,
+                        "año": 2019
+                    },
+                    "nombre": "Saneamiento del Río Quibú"
+                },
+                {
+                    "inicio": {
+                        "dia": 20,
+                        "mes": 6,
+                        "año": 2019
+                    },
+                    "nombre": "Taller CreArte \"No me des muela\" / Galleria Continua, Barrio Chino"
+                },
+                {
+                    "inicio": {
+                        "dia": 20,
+                        "mes": 8,
+                        "año": 2019
+                    },
+                    "nombre": "ZonaRayoActiva \"Rayo.Sostenible\" / Plaza San Fan Kong, Barrio Chino"
+                },
+                {
+                    "inicio": {
+                        "dia": 27,
+                        "mes": 11,
+                        "año": 2019
+                    },
+                    "fin": {
+                        "dia": 29,
+                        "mes": 11,
+                        "año": 2019
+                    },
+                    "nombre": "5to Rebirth Forum Geografías de la Transformación / Gran Teatro de La Habana Alicia Alonso"
+                }
+            ]
+        },
+        "Conv": {
+            "id": "Convergencia",
+            "nombre": "Convergencia",
+            "nombre-corto": "Convergencia",
+            "logo": null,
+            "tipo": "para",
+            "alcance": "local",
+            "organizacion": "medio",
+            "keywords": [
+                "Juventudes",
+                "Violencia de Género",
+                "Equidad Social",
+                "Comunicación"
+            ],
+            "categoria": [
+                "Justicia de Género y Equidad"
+            ],
+            "provincia": "ltu",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Convergencias es un boletín cuyo principal objetivo es socializar las experiencias y actividades de la Articulación Juvenil en los propios espacios de trabajo, estudio, etc, de quienes lo integran y en otros espacios de interés. Con una salida trimestral, Convergencias está concebido también para dedicarse a algún tema o fecha de importancia como el Día Internacional de la Mujer, Día contra la Homofobia y la Transfobia, Jornada por la no violencia hacia las mujeres, etc. Es una construcción colectiva de los casi 20 miembros de este grupo de trabajo en Las Tunas. Incluye una sección de noticias, entrevistas o testimonios, actividades realizadas o proyecciones futuras, humor gráfico que deconstruya imaginarios sociales arraigados al patriarcado. Además, sirve de conexión entre la Articulación Juvenil y los espacios en los que acciona. Dar a conocer el sentido de la articulación, sus actividades, educar, sensibilizar…",
+            "geo": {
+                "lat": 20.964477,
+                "lon": -76.951155
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Danielle Laurencio Gómez",
+                    "email": "danylaurencio@gmail.com"
+                }
+            ],
+            "eventos": null
+        },
+        "pet": {
+            "id": "Pétalos de Arcoiris",
+            "nombre": "Pétalos de Arcoiris",
+            "nombre-corto": "Pétalos de Arcoiris",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Tradiciones Culturales",
+                "Ecosistema"
+            ],
+            "categoria": [
+                "Identidad",
+                "Medio Ambiente"
+            ],
+            "provincia": "ltu",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "El proyecto, perteneciente a la Dirección Municipal de Cultura, constituye una de las prioridades para el desarrollo sociocultural del territorio, se inserta en la estrategia de la institución con objetivos y metas concretas en el rescate de tradiciones culturales en las comunidades de urbanas y la creación  de espacios para el desarrollo de las artes plásticas, la música tradicional,  historia, literatura y arte culinario local, entre otras. También se inserta en la Estrategia de Medio Ambiente del Gobierno municipal con objetivos específicos relacionados con la protección del ecosistema montañoso, el uso racional de los recursos naturales, el rescate de variedades de plantas en peligro de extinción y la formación de valores en cuanto al cuidado y conservación del medio ambiente en general.",
+            "geo": {
+                "lat": 22.741271,
+                "lon": -82.959706
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Julia Esther Izaguirre Pedroso",
+                    "email": null
+                }
+            ],
+            "eventos": null
+        },
+        "Baya": {
+            "id": "Somos Bayate",
+            "nombre": "Complejo deportivo Somos Bayate",
+            "nombre-corto": "Somos Bayate",
+            "logo": null,
+            "tipo": "para",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Gimnasio",
+                "Deporte"
+            ],
+            "categoria": [
+                "Medio Ambiente"
+            ],
+            "provincia": "ltu",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "En el Consejo Popular Sur del municipio existe una marcada incidencia de personas con padecimiento de enfermedades  como hipertensión arterial, dolencias cardiovasculares,  cerebrovasculares  y de obesidad.  Se cuenta con un gimnasio  Biodegradable, pero no existen áreas para la práctica sistemática de deportes. Viven cinco activistas deportivos, los que tienen resultados relevantes a nivel provincial quienes se ven comprometidos con la transformación de su localidad y brindar mejor calidad de vida a sus pobladores con la práctica de ejercicios físicos. El  proyecto permite la práctica sistemática de deportes y el desarrollo de actividades medioambientales con la participación activa de la comunidad.",
+            "geo": {
+                "lat": 22.740352,
+                "lon": -82.936427
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Alexander Acosta",
+                    "email": null
+                }
+            ],
+            "eventos": null
+        },
+        "ICD": {
+            "id": "Cátedra ICD",
+            "nombre": "Cátedra de Información y Comunicación para el Desarrollo",
+            "nombre-corto": "Cátedra ICD",
+            "logo": null,
+            "tipo": "para",
+            "alcance": "nacional",
+            "organizacion": "red",
+            "keywords": [
+                "Información",
+                "Comunicación",
+                "Comunicación para el Desarrollo"
+            ],
+            "categoria": [
+                "Participación y Gobernanza"
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "La Cátedra Universitaria Comunicación e Información para el Desarrollo, de la Facultad de Comunicación de la Universidad de La Habana, tiene el interés de generar un espacio interdisciplinario de investigación y extensión universitaria en su ciclo completo, centrado en el desarrollo humano y el empoderamiento comunicacional, informacional, cultural y social. Tiene tres áreas de actuación: apoyo a la gestión infocomunicacional de entidades e iniciativas de desarrollo, incluyendo actores de gobierno; creación e implementación de programas y experiencias de alfabetización informacional y mediática, así como de educomunicación, en apoyo al empoderamiento ciudadano; y por último, estudio y abordaje de los determinantes infocomunicacionales del desarrollo. En este momento tiene unos 10 proyectos.",
+            "geo": {
+                "lat": 23.117984,
+                "lon": -82.397394
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://es-la.facebook.com/InfocomunicacionparaelDesarrollo/",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Willy Pedroso Aguiar",
+                    "email": "fcomwilo@gmail.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 6,
+                        "mes": 12,
+                        "año": 2019
+                    },
+                    "fin": {
+                        "dia": 10,
+                        "mes": 12,
+                        "año": 2019
+                    },
+                    "nombre": " X Encuentro Internacional de Investigadores y Estudiosos de la Información y la Comunicación, ICOM 2019"
+                }
+            ]
+        },
+        "rejac": {
+            "id": "rejac",
+            "nombre": "Red Juvenil Ambiental de Cuba",
+            "nombre-corto": "ReJAC",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "nacional",
+            "organizacion": "red",
+            "keywords": [
+                "Medio Ambiente"
+            ],
+            "categoria": [
+                "Medio Ambiente"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "La Red Juvenil Ambiental de Cuba (ReJAC) es un grupo temático de las de las Brigadas Técnicas Juveniles (BTJ) y constituye el órgano asesor en materia de medio ambiente del Consejo Nacional, Provincial y Municipalde las BTJ y de su Presidencia,respondiendo ante esta por su funcionamiento. ReJAC tiene como meta fundamental promover la investigación científica y la búsqueda de soluciones a problemas ambientales, en temáticas específicas que constituyen prioridad para el territorio o el país.",
+            "geo": {
+                "lat": 23.142683,
+                "lon": -82.355368
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yanelei Peña Guerra",
+                    "email": "Sonya910624@gmail.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 30,
+                        "mes": 6,
+                        "año": 2019
+                    },
+                    "fin": null,
+                    "nombre": " Saneamiento medioambiental en 1ra y 70, Playa"
+                }
+            ]
+        },
+        "ecop": {
+            "id": "ecop",
+            "nombre": "Ciclo Ecopapel",
+            "nombre-corto": "Ecopapel",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Papel Manufacturado",
+                "Artesanía",
+                "Reciclaje",
+                "Tienda Ecológica",
+                "Desarrollo Local"
+            ],
+            "categoria": [
+                "Medio Ambiente"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Iniciativa no estatal productora de papel manufacturado, de forma ecológica. Realizamos productos utilitarios con papel y cartón reciclados, fundamentalmente, así como otros materiales obtenidos de este modo; con diseño personalizable, tanto para el sector industrial, empresarial, diplomático y de organizaciones gubernamentales y no gubernamentales, como para el público en general. Nuestra filosofía se sustenta en el ahorro, el reciclaje, la ecosostenibilidad y el compromiso con la comunidad.",
+            "geo": {
+                "lat": 23.136739,
+                "lon": -82.355412
+            },
+            "localizacion": {
+                "email": "contacto@cicloecopapel.com",
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "https://twitter.com/cicloecopapel",
+                "facebook": "https://www.facebook.com/cicloecopapel",
+                "instagram": "http://instagram.com/cicloecopapel",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yunairy Estrada",
+                    "email": "cicloecopapel@gmail.com"
+                }
+            ],
+            "eventos": null
+        },
+        "trance": {
+            "id": "trance",
+            "nombre": "Colectivo Artístico Trance",
+            "nombre-corto": "Trance",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Meditación y Espiritualidad",
+                "Creación y Arte Responsable",
+                "Multiculturalismo",
+                "Concepción Holística"
+            ],
+            "categoria": [
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Constituido en el año 2008, el Colectivo Artístico Trance es un gremio cultural colaborativo dedicado a la promoción de valores emancipadores y solidarios. Sustentado en las concepciones de la Educación Popular, la Economía del bien común y las enseñanzas filosóficas del Aiki Ram Jutsu, congrega artistas visuales, poetas, músicos, filólogos/as, historiadores/as del arte, etc. que, siguiendo su condición de gestores/as culturales destacan el potencial de la cultura para el desarrollo social y comunitario.",
+            "geo": {
+                "lat": 23.132474,
+                "lon": -82.393632
+            },
+            "localizacion": {
+                "email": "colectivotrance@nauta.cu",
+                "telefono": "78338583",
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/ColectivoTrance/",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Beatriz García Machado",
+                    "email": "lajungla.trance@gmail.com"
+                },
+                {
+                    "nombre": "Alfredo Sánchez Saavedra",
+                    "email": "colectivotrance@nauta.cu"
+                }
+            ],
+            "eventos": null
+        },
+        "gorria": {
+            "id": "gorria",
+            "nombre": "Galería Taller Gorría",
+            "nombre-corto": "GTG",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Desarrollo Local",
+                "Desarrollo comunitario",
+                "Educación Popular",
+                "Arte en el Barrio",
+                "Reciclaje"
+            ],
+            "categoria": [
+                "Inclusión",
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": "San Isidro",
+            "web": "http://www.galeriatallergorria.com",
+            "descripcion": "Galería Taller Gorría es creadora del proyecto San Isidro D.A., con el fin de llevar y cultivar la cultura a todos sus habitantes del barrio, a través de festivales y eventos que combinan la plástica, la música, el teatro y las intervenciones públicas. Como parte de este proyecto, GTG inauguró un nuevo espacio, “El Artista”, situado en Picota #259, que tiene como objetivo promover el talento y la obra de los creadores más jóvenes.",
+            "geo": {
+                "lat": 23.129776, 
+                "lon": -82.352419
+            },
+            "localizacion": {
+                "email": "gtg@galeriatallergorria.com",
+                "telefono": "+53 78646713",
+                "direccion": "San Isidro 214 e/ Picota y Compostela. Habana Vieja. La Habana."
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/galeriatallergorria/",
+                "instagram": "https://www.instagram.com/galeriatallergorria/",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Jorge Perugorría Rodríguez",
+                    "email": "jorge@jorgeperugorria.com"
+                },
+                {
+                    "nombre": "Adán Perugorría Lafuente",
+                    "email": "adanperugorria@gmail.com"
+                }
+            ],
+            "eventos": null
+        }
+    }
+}
