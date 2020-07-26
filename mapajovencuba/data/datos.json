@@ -1744,6 +1744,72 @@
                 }
             ],
             "eventos": null
+        },
+        "artecorte": {
+            "id": "artecorte",
+            "nombre": "Proyecto Comunitario Artecorte",
+            "nombre-corto": "ArteCorte",
+            "author": "Gilberto Valladares",
+            "logo": "logo-artecorte.jpg",
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Desarrollo",
+                "Comunitario",
+                "Comunidad",
+                "Sostenibilidad",
+                "Cultura"
+            ],
+            "categoria": [
+                "Cultural System",
+                "Creativity",
+                "History and Memory",
+                "Intangible Heritage",
+                "Landscape and Cultural Heritage",
+                "Public events and Festivals",
+                "Education and Training",
+                "Lifelong learning instruments",
+                "Vocational training",
+                "Community;Public Participation",
+                "Small business networking",
+                "Social Entrepreneurship",
+                "Enviroment",
+                "Community.-building",
+                "Urban development",
+                "Social Justice",
+                "Social Inclusion",
+                "Socially engaged art",
+                "Solidarity",
+                "Sustainable urbanization"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": "Santo Ángel",
+            "web": "http://www.artecorte.com",
+            "descripcion": "Artecorte es una organización sin fines de lucro que apoya las comunidades de La Habana a través de programas educativos y eventos para todas las edades. Fue fundado por Gilberto Valladares en 1999 y hoy es una ONG de Desarrollo Local Comunitario. Se centra en el desarrollo social, cultural, económico y ambiental del barrio de Santo Ángel en La Habana Vieja.",
+            "geo": {
+                "lat": 23.136739,
+                "lon": -82.355412  
+            },
+            "localizacion": {
+                "email": "proyectoartecorte@gmail.com",
+                "telefono": "+53 7 8015125",
+                "direccion": "Aguiar No. 10 e/ Peña Pobre y Avenida de las Misiones, La Habana CP 10100"
+            },
+            "social": {
+                "twitter": "https://mobile.twitter.com/ArtecorteCuba",
+                "facebook": "https://www.facebook.com/artecorte/",
+                "instagram": "https://instagram.com/artecortecuba?igshid=1s5fbn7kew9w1",
+                "youtube": "https://www.youtube.com/channel/UCOis7uVlSjeZbBp9ULs0cw "
+            },
+            "personas": [
+                {
+                    "nombre": "Adriana Ricardo Díaz",
+                    "email": ""
+                }
+            ],
+            "eventos": null
         }
     }
 }
