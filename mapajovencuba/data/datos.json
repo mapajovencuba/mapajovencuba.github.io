@@ -1810,6 +1810,56 @@
                 }
             ],
             "eventos": null
-        }
+        },
+        "artecontinua": {
+            "id": "artecontinua",
+            "nombre": "Arte CONTINUA Habana",
+            "nombre-corto": "ACH",
+            "logo": "logo-ach.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Arte",
+                "Cultura",
+                "Creación",
+                "Talleres",
+                "Exposiciones" 
+            ],
+            "categoria": [
+                "Cultural System",
+                "Cultural Diversity",
+                "Intercultural Dialogue",
+                "Creativity",
+                "Socially Engaged Art"
+            ],
+            "provincia": "lha",
+            "municipio": "Centro Habana",
+            "consejo_popular": "Barrio Chino",
+            "web": "http://www.galleriacontinua.com",
+            "descripcion": "Arte CONTINUA Habana fue establecida por Galleria Continua en Aguila de Oro, un cine de los 50s en el corazón del Barrio Chino, en 2015. El proyecto es una oportunidad para expandir horizontes y crear puentes entre Cuba y el arte internacional. Pretende ser una experiencia enriquecedora tanto para artistas cubanos que muestren sus obras fuera de Cuba y se relacionen con otras culturas, como para artistas extranjeros que experimenten  y entiendan la vida del país.",
+            "geo": {
+                "lat": 23.129776, 
+                "lon": -82.352419
+            },
+            "localizacion": {
+                "email": "habana@galleriacontinua.com",
+                "telefono": "+53 58692922, +53 53411185",
+                "direccion": "Rayo 108 e/ Zanja y Dragones, Barrio Chino, Centro Habana, Cuba."
+            },
+            "social": {
+                "twitter": "https://twitter.com/GContinua",
+                "facebook": "https://www.facebook.com/artecontinualahabana/",
+                "instagram": "https://instagram.com/artecontinua_lahabana?igshid=1drrawmzouzof",
+                "youtube": "https://www.youtube.com/user/GALLERIACONTINUA"
+            },
+            "personas": [
+                {
+                    "nombre": "Niurma Pérez Zerpa (directora)",
+                    "email": "habana@galleriacontinua.com"
+                }
+            ],
+            "eventos": null
+        } 
     }
 }
