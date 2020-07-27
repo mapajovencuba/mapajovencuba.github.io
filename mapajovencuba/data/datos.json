@@ -1916,6 +1916,53 @@
                 
             ],
             "eventos": null
-        } 
+        },
+        "ds": {
+            "id": "ds",
+            "nombre": "Desarrollo Sostenible",
+            "nombre-corto": "DS",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "afrocubano", "patrimonio", "cultura", "equidad", "igualdad", "identidad", "plataforma",
+                 "trabajo", "comunitario", "Matanzas", "desarrollo local", "discapacidad intelectual",
+                "afroatenas","callejon", "tradiciones","rumba", "derechos humanos", "lgbtiq"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "mtz",
+            "municipio": "Matanzas",
+            "consejo_popular": "Pueblo Nuevo",
+            "web": "www.afroatenas.org",
+            "descripcion": "Espacio para Contribuir a través del trabajo comunitario en su enfoque participativo al desarrollo cultural, social y económico de la barriada de Pueblo Nuevo con el fortalecimiento de los valores identitarios de la ciudad de Matanzas, integrando voces y acciones en el activismo social por la diversidad y la felicidad a través del dialogo, la intervención y la transformación sociocultural urbana con una perspectiva de equidad de género, lo cual propiciaría alcanzar niveles de progreso en: dinamización del Consejo Popular, cultura popular tradicional, desarrollo endógeno, medio ambiente y nuevas formas económicas y productivas, derechos y democracia, fuentes de empleo, patrimonio - arte e identidad, NO violencia de género y NO discriminación, empoderamiento humano y formación de capacidades, fortalecimiento de los grupos LGTBIQ+, medios de comunicación – promoción, audiovisuales y las TIC.",
+            "geo": {
+                "lat": 23.129776, 
+                "lon": -82.352419
+            },
+            "localizacion": {
+                "email": "yoelkistorres30@gmail.com",
+                "telefono": "45 271683",
+                "home": "45 277660",
+                "Móvil": "+53 53360835",
+                "direccion": ""
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "MsC. Yoelkis Torres Tapanes",
+                    "email": "yoelkistorres30@gmail.com"
+                }
+            ],
+            "eventos": null
+        }
+         
     }
 }
