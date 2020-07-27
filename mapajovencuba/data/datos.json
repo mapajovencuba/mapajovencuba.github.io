@@ -1860,6 +1860,62 @@
                 }
             ],
             "eventos": null
+        },
+        "akokan": {
+            "id": "akokan",
+            "nombre": "Proyecto Akokán",
+            "nombre-corto": "Akokán",
+            "logo": "logo-akokan.jpg",
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Justicia Social",
+                 "Desarrollo Local", 
+                 "Desarrollo Comunitario",
+                 "Equidad", 
+                 "Trabajo Social",
+                 "Inclusión"
+            ],
+            "categoria": [
+                "Socially engaged art",
+                 "Creativity",
+                  "Education and Training",
+                   "Community",
+                    "Community building",
+                    "Urban Development",
+                     "Social Inclusion",
+                     "Social Justice",
+                      "Gender equality", "Solidarity", "Social work practice"
+            ],
+            "provincia": "lha",
+            "municipio": "Marianao",
+            "consejo_popular": "Los Pocitos",
+            "web": "",
+            "descripcion": "El proyecto Akokán es un proyecto comunitario sin fines de lucro en Los Pocitos, Marianao, que promueve acciones creativas, solidarias y participativas con el principal objetivo de contribuir al desarrollo integral de la comunidad, facilitando la transformación social y sostenibilidad ambiental-social-económica.",
+            "geo": {
+                "lat": 23.129776, 
+                "lon": -82.352419
+            },
+            "localizacion": {
+                "email": "proyectoakokan@gmail.com",
+                "telefono": "(05) 3588439",
+                "direccion": "Estadio Marianao, Calle 89 e/ 132 y 130, La Habana, Cuba."
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/akokancuba/",
+                "instagram": "https://www.instagram.com/akokancuba",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Michel Sánchez Torres",
+                    "email": ""
+                }
+                
+            ],
+            "eventos": null
         } 
     }
 }
