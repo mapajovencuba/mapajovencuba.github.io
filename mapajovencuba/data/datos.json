@@ -1917,10 +1917,10 @@
             ],
             "eventos": null
         },
-        "ds": {
-            "id": "ds",
-            "nombre": "Desarrollo Sostenible",
-            "nombre-corto": "DS",
+        "afroatenas": {
+            "id": "afroatenas",
+            "nombre": "Afroatenas",
+            "nombre-corto": "AFRO",
             "logo": null,
             "tipo": "por",
             "alcance": "local",
