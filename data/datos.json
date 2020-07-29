@@ -2109,6 +2109,52 @@
                 
             ],
             "eventos": null
+        },
+        "insurgente": {
+            "id": "insurgente",
+            "nombre": "Casa inSurGente",
+            "nombre-corto": "inSurGente",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Desarrollo Social", "Comunidad", "Equidad", "Ecología", "Sostenibilidad"
+            ],
+            "categoria": [
+                "Education for sustainable development", "Inclusive education", 
+                "Community", "Local wexchange system", "Gender Equality", "Social Inclusion", 
+                "Education", "Urban Development", "Enviroment", "Solidarity"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": "Habana Vieja",
+            "web": "www.negolution.com",
+            "descripcion": "Casa inSurGente es un proyecto de desarrollo local y comunitario que consiste en cuatro programas: Programa Junt@s, Programa Ecológico (Aula Ecológica Comunitaria Sol 420), Hospedaje Solidario y como vía de sostenibilidad económica la Tienda-Taller Manualidades. Son programas basados en la solidaridad, la educación ecológica e inclusiva y el intercambio de experiencias.",
+            "geo": {
+                "lat": 22.967287, 
+                "lon": -82.383415 
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "53 5 3256298",
+                "direccion": "Villegas No. 508 e/ Sol y Luz, Habana Vieja, La Habana, Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/tudeborah.cuba.5?fref=search&__tn__=%2Cd%2CP-R&eid=ARATRI0mPo1JdZEFqUwKgbFeLdTwpH0U0i95cs7LwBk3jCyYHEllX3R5UVf2n1z-mxs5m0HubCef7YuT",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Sandra Sotolongo",
+                    "email": null
+                }
+                
+            ],
+            "eventos": null
         }
          
     }
