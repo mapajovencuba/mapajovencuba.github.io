@@ -2020,6 +2020,95 @@
                 }
             ],
             "eventos": null
+        },
+        "evoluciona": {
+            "id": "evoluciona",
+            "nombre": "Campaña Evoluciona por la No Violencia hacia  Mujeres",
+            "nombre-corto": "EVOLUCIONA",
+            "logo": "logo-evoluciona.png",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Feminismo", "Equidad", "Justicia de Género", "Inclusión", "Justicia Social", "Campaña"
+            ],
+            "categoria": [
+                "Communication and information", "Inclusive education", "Gender equality", "Social inclusion", "Social justice", "Youth", "Human Rights and Social Justice"  
+            ],
+            "provincia": "lha",
+            "municipio": "10 de Octubre",
+            "consejo_popular": "",
+            "web": "www.romerocuba.org",
+            "descripcion": "Evoluciona es una campaña de diálogo, de cambio. Pretende propiciar un entorno comunicativo y educativo que permita a las juventudes en Cuba, y a todos quienes se incluyan y se sientan parte, identificar, actuar y modificar creencias e imaginarios asociados a la Violencia hacia Mujeres y Niñas.",
+            "geo": {
+                "lat": 23.129776, 
+                "lon": -82.352419
+            },
+            "localizacion": {
+                "email": "evoluciona2018@gmail.com",
+                "telefono": "(07) 6481521 +5358276591",
+                "direccion": "Vista Alegre No.66 e/ Párraga y Poey, 10 de Octubre, La Habana, Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://m.facebook.com/EvolucionaporlaNoViolencia/",
+                "instagram": "https://instagram.com/evolucionaporlanoviolencia?igshid=1skr9jrt7bobz",
+                "youtube": "https://www.youtube.com/channel/UCnq9JgDIAFilJyzgxjEzgw"
+            },
+            "personas": [
+                {
+                    "nombre": "Yoamaris Neptuno Domínguez",
+                    "email": ""
+                }
+                
+            ],
+            "eventos": null
+        },
+        "negolution": {
+            "id": "negolution",
+            "nombre": "Negolution",
+            "nombre-corto": "NEGOLUTION",
+            "logo": "logo-negolution.jpg",
+            "tipo": "por",
+            "alcance": "Nacional e Internacional",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Revista", "Economía", "Desarrollo", "Medios", "Información", "Empresa"
+            ],
+            "categoria": [
+               "Media development", "Communication and Information", "Enterprise and Economics",
+               "Social entrepreneurship", "Broadcast and Publishing", "Business"
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Miramar",
+            "web": "www.negolution.com",
+            "descripcion": "Negolution es una revista digital cubana que se ha consolidado como la primera de su tipo, dedicada al entorno económico del país. La publicación ofrece historias inspiradoras, consejos, actividades y cursos. Su objetivo es actualizar a los lectores sobre la realidad económica del mundo y de Cuba. También persigue aportar ideas que ayuden a construir en la nación caribeña una sociedad equitativa, próspera y sostenible.",
+            "geo": {
+                "lat": 23.129776, 
+                "lon": -82.352419
+            },
+            "localizacion": {
+                "email": "negolution@gmail.com",
+                "telefono": "",
+                "direccion": "Calle 60 No.108 Apto. 2 bajos, e/ 1ra y 1ra A. Miramar. Playa"
+            },
+            "social": {
+
+                "twitter": "https://twitter.com/negolution",
+                "facebook": "https://www.facebook.com/Negolution/",
+                "instagram": "https://instagram.com/negolution",
+                "youtube": "https://www.youtube.com/channel/UCCaHdCkgUzC4GcQm1j0yAxA"
+            },
+            "personas": [
+                {
+                    "nombre": "María Karla Valdés (comercial)",
+                    "email": "negolution@gmail.com"
+                }
+                
+            ],
+            "eventos": null
         }
          
     }
