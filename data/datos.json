@@ -2155,6 +2155,59 @@
                 
             ],
             "eventos": null
+        },
+        "tercerparaiso": {
+            "id": "tercerparaiso",
+            "nombre": "Tercer Paraiso Cuba",
+            "nombre-corto": "TercerParaisoCuba",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Demopráctica", "Trinámica", "Medio Ambiente", "Educación", "Desarrollo Sostenible", "Equidad", "Reciclaje"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Centro Habana",
+            "consejo_popular": "",
+            "web": "http://www.tercerparaisocuba.org",
+            "descripcion": null,
+            "geo": {
+                "lat": 22.967287, 
+                "lon": -82.383415 
+            },
+            "localizacion": {
+                "email": "tercerparaisocuba@gmail.com",
+                "telefono": null,
+                "direccion": "Zanja entre Rayo y Dragones #108, Centro Habana, La Habana, Cuba (sede de Arte Continua)"
+            },
+            "social": {
+
+                "twitter": "@3ParaisoCubaoOo",
+                "facebook": "@rebirthcuba",
+                "instagram": "@tercerparaisocuba",
+                "youtube": null,
+                "skype": "LSR.TerzoParadiso"
+            },
+            "personas": [
+                {
+                    "nombre": "Laura Salas Redondo",
+                    "email": null
+                },
+                {
+                    "nombre": "Claudia González Machado",
+                    "email": null
+                },
+                {
+                    "nombre": "Patricia Díaz Gomez",
+                    "email": null
+                }
+                
+            ],
+            "eventos": null
         }
          
     }
