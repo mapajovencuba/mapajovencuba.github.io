@@ -1888,11 +1888,15 @@
                      "Social Justice",
                       "Gender equality", "Solidarity", "Social work practice"
             ],
+
             "provincia": "lha",
             "municipio": "Marianao",
             "consejo_popular": "Los Pocitos",
             "web": "",
             "descripcion": "El proyecto Akokán es un proyecto comunitario sin fines de lucro en Los Pocitos, Marianao, que promueve acciones creativas, solidarias y participativas con el principal objetivo de contribuir al desarrollo integral de la comunidad, facilitando la transformación social y sostenibilidad ambiental-social-económica.",
+            "estructura": [
+                "sdfsdfd", "sdfdfds", "sfdds"
+            ],
             "geo": {
                 "lat": 23.129776, 
                 "lon": -82.352419
@@ -1915,7 +1919,14 @@
                 }
                 
             ],
-            "eventos": null
+            "eventos": null,
+            "ods": [
+                {
+                    "ods": "Michel Sánchez Torres",
+                    "logo": "odsIcons/1.png"
+                }
+                
+            ]
         },
         "afroatenas": {
             "id": "afroatenas",
@@ -1939,8 +1950,8 @@
             "web": "www.afroatenas.org",
             "descripcion": "Espacio para Contribuir a través del trabajo comunitario en su enfoque participativo al desarrollo cultural, social y económico de la barriada de Pueblo Nuevo con el fortalecimiento de los valores identitarios de la ciudad de Matanzas, integrando voces y acciones en el activismo social por la diversidad y la felicidad a través del dialogo, la intervención y la transformación sociocultural urbana con una perspectiva de equidad de género, lo cual propiciaría alcanzar niveles de progreso en: dinamización del Consejo Popular, cultura popular tradicional, desarrollo endógeno, medio ambiente y nuevas formas económicas y productivas, derechos y democracia, fuentes de empleo, patrimonio - arte e identidad, NO violencia de género y NO discriminación, empoderamiento humano y formación de capacidades, fortalecimiento de los grupos LGTBIQ+, medios de comunicación – promoción, audiovisuales y las TIC.",
             "geo": {
-                "lat": 23.129776, 
-                "lon": -82.352419
+                "lat": 22.659698, 
+                "lon": -81.408236
             },
             "localizacion": {
                 "email": "yoelkistorres30@gmail.com",
