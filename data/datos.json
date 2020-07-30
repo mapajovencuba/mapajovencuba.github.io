@@ -80,8 +80,8 @@
             "web": "www.romerocuba.org",
             "descripcion": "La Articulación Juvenil x la Equidad Social de OAR (AJ), del Centro Oscar Arnulfo Romero está concebida como un espacio de trabajo común, socialización y activismo, creada el 8 de mayo de 2016. Lo distintivo es la diversidad de sus integrantes en cuanto a procedencia, términos de ámbitos de estudio y trabajo, orientación erótico afectiva, identidad de género, lugar de residencia, color de la piel, prácticas o no religiosa, experiencias y expectativas de vida, etc. Desde la coordinación, se intenciona la articulación de redes, iniciativas, proyectos de diferentes temáticas; sustentado en el trabajo con y para jóvenes entre 18 y 35 años, cuyo accionar se da fundamentalmente en escuelas y comunidades. Se trabaja con la metodología de la Educación Popular, en un proceso formativo teórico práctico donde se les comparten a sus integrantes conocimientos y herramientas relacionadas con la equidad social, colocando el énfasis en la dimensión género y los derechos humanos, de esta forma desarrollan competencias que puestas en práctica, les permiten el ejercicio autónomo de sus derechos, la defensa de sus criterios, el diseño de propuestas de transformación social y la articulación con otros actores sociales, para que tengan mayor protagonismo en la promoción de equidad social en sus contextos locales (laborales, familiares, escolares y comunitarios).",
             "geo": {
-                "lat": 23.090548,
-                "lon": -82.365311
+                "lat": 23.091466,
+                "lon": -82.364590
             },
             "localizacion": {
                 "email": "articulacionjuvenil@oar.co.cu",
@@ -2114,6 +2114,7 @@
             "id": "insurgente",
             "nombre": "Casa inSurGente",
             "nombre-corto": "inSurGente",
+            "introduction": "Casa inSurGente is a communitary project for social development in Old Havana.",
             "logo": null,
             "tipo": "por",
             "alcance": "Local",
