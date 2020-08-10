@@ -2903,6 +2903,52 @@
                 }
             ],
             "eventos": null
+        },
+        "marnia": {
+            "id": "marnia",
+            "nombre": "Marnia: Reciclaje, Arte y Transformación",
+            "nombre-corto": "Marnia: Reciclaje, Arte y Transformación",
+            "logo": "logo-marnia.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Miramar",
+            "web": null,
+            "descripcion": "Marnia: Reciclaje, Arte y Transformación. Es un proyecto artistico-ecologico. Tiene como base fundamental el reciclaje, usando los residuos como oportunidad y soporte para la creación de piezas artísticas y artesanales, y el arte como vía para transformar estos desechos. Podemos decir que estamos antes una cadena de valor en la que cualquier ''basura'' puede ser reutilizada para volver a incorporase al ciclo de producción. Este emprendimiento busca el beneficio económico desde el cuidado y respeto a la naturaleza. se trabaja con materiales como cartón, papel, vidrio, cristal, metal, plástico, y tela entre otros. Trabajar con residuos te permite reducir los costos en materiales. Tenemos asociación con otros proyectos y emprendimientos para impartir talleres a niños , niñas y mujeres sobre arte, reciclaje y naturaleza.",
+            "geo": {
+                "lat": 23.123187, 
+                "lon": -82.418025
+            },
+            "localizacion": {
+                "email": "marniabriones@gmail.com",
+                "telefono": "+ 53 7 2035178, +53 5 2815478",
+                "direccion": "Calle 16 No. 515 (altos) e/ 5ta y 7ma, Miramar, Playa, La Habana, Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Marnia Briones André",
+                    "email": null
+                }
+            ],
+            "eventos": null
         }
 
          
