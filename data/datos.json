@@ -2949,6 +2949,53 @@
                 }
             ],
             "eventos": null
+        },
+        "cieric": {
+            "id": "cieric",
+            "nombre": "Centro de Intercambio y Referencia Comunicativa (CIERIC)",
+            "nombre-corto": "CIERIC",
+            "logo": "logo-cieric.png",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Desarrollo Comunitario", "Desarrollo Local", "Cultura", "Comunicación", "Participación" 
+            ],
+            "categoria": [
+                "Communication and Information", 
+                "Access to knowledge", "Cultural System", "Community-building", "Urban Development"
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": null,
+            "web": "www.ciericgp.org",
+            "descripcion": "El CIERIC es un centro de carácter asociativo, sin fines de lucro, fundado en 1991. Actualmente promueve la dimensión cultural del desarrollo a nivel local y comunitario, el fortalecimiento de capacidades, la gestión de la información y la comunicación para compartir conocimiento y propicia el trabajo articulado, en redes y plataformas.",
+            "geo": {
+                "lat": 23.098684, 
+                "lon": -82.446719
+            },
+            "localizacion": {
+                "email": "ciericgp@cieric.co.cu",
+                "telefono": "(07) 2806202, (07) 2806035",
+                "direccion": "Calle 98 No. 524 (bajos) e/ Avenida 5ta y 5ta F, Playa, La Habana, Cuba 11600"
+            },
+            "social": {
+
+                "twitter": "https://mobile.twitter.com/ciericgp91",
+                "facebook": "https://www.facebook.com/practicasculturalesencuba/",
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Marbelis Gonzáles",
+                    "email": null
+                }
+            ],
+            "eventos": null
         }
 
          
