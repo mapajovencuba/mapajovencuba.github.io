@@ -2698,6 +2698,55 @@
                 
             ],
             "eventos": null
+        },
+        "manoverde": {
+            "id": "manoverde",
+            "nombre": "Mano Verde",
+            "nombre-corto": "Mano Verde",
+            "logo": "logo-manoverde.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Sostenibilidad", "Medio Ambiente", "Ecología", "Educación", "Comunidad"
+            ],
+            "categoria": [
+                "Education for sustainable development", "Community", "Public participation", 
+                "Enviroment", "Climate change", "Community-building", "Land use", "Neighbourhoods", 
+                "Sustainable Lifestyles" 
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Miramar",
+            "web": null,
+            "descripcion": "Mano Verde es un proyecto comunitario de reforestación nacido en el municipio de Playa en septiembre de 2017. Entre sus objetivos se encuentra mejorar las áreas verdes del barrio y otras localidades con niños, adolescentes y jóvenes como principales protagonistas, para inculcar en ellos el cuidado y siembra de arboles, la cultura del reciclaje y la reducción del costo ambiental en los procesos de la vida, ya que todas las plantas se simbra en recipientes reciclados. Se cueta con un vivero en el que hay mas de 350 posturas que garantizan la reforestacion que nos proponemos contando con especies nativas, ornamentales y frutales tradicionales, con estos se pretende fomentar la soberania alimentaria del barrio. Mano Verde sostiene relaciones con varias escuelas de Miramar para concientizar sobre el papel fundamental de los árboles para la vida del planeta.",
+            "geo": {
+                "lat": 23.122685, 
+                "lon": -82.417571
+            },
+            "localizacion": {
+                "email": "marniabriones@gmail.com",
+                "telefono": "+ 53 7 2035178",
+                "direccion": "Calle 16 No. 515 (altos) e/ 5ta y 7ma, Miramar, Playa, La Habana, Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Marnia Briones Andre",
+                    "telefono": "+53 5 2815478"
+                }
+                
+            ],
+            "eventos": null
         }
 
          
