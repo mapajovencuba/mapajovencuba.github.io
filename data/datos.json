@@ -2497,7 +2497,57 @@
                 
             ],
             "eventos": null
+        },
+        "entimbalao": {
+            "id": "entimbalao",
+            "nombre": "Entimbalao",
+            "nombre-corto": "Entimbalao",
+            "logo": "logo-entimbalao.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "taller",
+            "estructura": "",
+            "keywords": [
+                "Desarrollo Local", "Comunidad", "Emprendimiento", "Inclusión social", "Sostenibilidad"
+            ],
+            "categoria": [
+                "Creativity", "Education and Training", "Community", "Small business networking", 
+                "Community-building", "Urban development", "Social Inclusion", "Social Justice", 
+                "Socially engaged art", "Accessibility", "Business", "Enviroment", "Solidarity", 
+                "Social work practice", "Sustainable Lifestyles"
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Entimbalao es un taller de chapistería y pintura especializado en carros Volkswagen (VM), que por decisión de su dueño ha devenido también un espacio para promover el desarrollo local desde actividades tan diversas como el cine, las artes plásticas, el teatro y la fotografía. Pretende convertir La Timba en un Eco-barrio, con el objetivo de concientizar para mitigar los efectos del cambio climático",
+            "geo": {
+                "lat": 23.126772, 
+                "lon": -82.4112473
+            },
+            "localizacion": {
+                "email": "tallerentimbalao@gmail.com",
+                "telefono": null,
+                "direccion": "Calle 31 e/ 2 y 4, Plaza de la Revolución, La Habana, Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Entimbalao/",
+                "instagram": null,
+                "youtube": null,
+                "telegram": null
+            },
+            "personas": [
+                {
+                    "nombre": "Frank Carlos Porras",
+                    "email": null
+                }
+                
+            ],
+            "eventos": null
         }
+
 
          
     }
