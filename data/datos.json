@@ -2996,6 +2996,53 @@
                 }
             ],
             "eventos": null
+        },
+        "cna": {
+            "id": "cna",
+            "nombre": "CNA ATRES",
+            "nombre-corto": "CNA ATRES",
+            "logo": "logo-cna.png",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Cooperativa", "Ecomadera", "Sostenibilidad", "Desarrollo Sostenible" 
+            ],
+            "categoria": [
+                "Profit", "Small business networking", "Architecture and Design", 
+                "Eco-innovation", "Business"
+            ],
+            "provincia": "mat",
+            "municipio": "Matanzas",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Producir, reproducir y comercializar artículos decorativos y/o utilitarios, elaborados con recursos naturales, pieles, metales ferrosos y no ferrosos, madera, polímeros sintéticos, vidrio, y materiales reciclados. Brindar servicios de construcción, montajes, mantenimiento, reparación, restauración, ambientación, decoración a bienes e inmuebles. Dentro de estas líneas destaca ECOMADERA, un producto que se obtiene a partir del reciclaje de toneladas de desechos de plásticos que contaminan las ciudades, playas y paisajes naturales de nuestra hermosa isla.",
+            "geo": {
+                "lat": 23.045226, 
+                "lon": -81.582666
+            },
+            "localizacion": {
+                "email": "jose.soto85@gmail.com",
+                "telefono": "52157307, (045) 244977",
+                "direccion": "Calle 91 No. 29822 e/ 298 y 300; Matanzas Este; Matanzas; Cuba 40100"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/atres2014/",
+                "instagram": "https://instagram.com/cnatres?igshid=1gweij2p4hl0e",
+                "youtube": "https://www.youtube.com/channel/UCeaG2A4tooE_LIoQzHpk8eA",
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "José Antonio Soto Pérez",
+                    "email": null
+                }
+            ],
+            "eventos": null
         }
 
          
