@@ -2601,6 +2601,55 @@
                 
             ],
             "eventos": null
+        },
+        "primavera": {
+            "id": "primavera",
+            "nombre": "Grupo Primavera",
+            "nombre-corto": "Grupo Primavera",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Antroposofía", "Ciencias", "Espiritualidad", "Filosofía", 
+                "Humanidad", "Educación", "Agricultura biodinámica", "Artes"
+            ],
+            "categoria": [
+                "Communication and Information", "Access to knowledge", 
+                "Literature", "Education", "Research" 
+            ],
+            "provincia": "lha",
+            "municipio": "10 de Octubre",
+            "consejo_popular": null,
+            "web": "www.antroposofiaencuba.cubava.cu",
+            "descripcion": "El Grupo Primavera es un grupo de estudios antroposóficos, con enfoque esencialmente pedagógico, artístico y filosófico, que persigue tanto el camino interior de autoconocimiento y autoeducación como la labor de dar vida a la antroposofía en los campos de trabajo. El grupo organiza actividades de observación goetheana, el cultivo de plantas medicinales, talleres de barro y de pintura, así como práctica coral. Ha dado charlas en diversas instituciones en las cuales ha donado literatura antroposófica. ",
+            "geo": {
+                "lat": 23.105772, 
+                "lon": -82.363218
+            },
+            "localizacion": {
+                "email": "primavera@cubarte.cult.cu",
+                "telefono": "+53 54699191",
+                "direccion": "Calle Delicias No. 29, apartamento 1, e/ Pamplona y Madrid, 10 de Octubre, La Habana, Cuba CP 10750"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Ailín Parra Llorens",
+                    "telefono": "76994457"
+                }
+                
+            ],
+            "eventos": null
         }
 
          
