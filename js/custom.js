@@ -347,6 +347,7 @@ $.getJSON("data/cuba.geojson",
 		  this.field('keywords');
 		  this.field('nombre');
 		  this.field('nombre-corto');
+		  this.field('estructura');
 		  var tkeys = Object.keys(data.proyectos);
 		  for(var i=0;i<tkeys.length;i++){
 		     this.add(data.proyectos[tkeys[i]]);
@@ -367,11 +368,14 @@ $.getJSON("data/cuba.geojson",
 			t += '<div class="small-pname" style="background-color:'+topicData['General'].color+'">'+e['nombre-corto']+'</div>';
 			t += '<div class="small-pcategory-block"><span class="small-pcategory-label">Temática(s):</span> <span class="small-pcategory">'+setStrings(e['categoria'])+'</span></div>';
 			t += '<div class="small-pkeywords-block"><span class="small-pkeywords-label">Palabras clave:</span> <span class="small-pkeywords">'+e['keywords']+'</span></div>';
+			t += '<div class="list-pcontent-estructura">';
+			t += '<span class="small-pestructura-label">Estructura:</span> <span class="small-estructura">'+e['estructura']+'</span>';
+			t += '</div>';
 			t += '<div class="small-plink cursor" style="color:'+topicData['General'].color+'" id="pid-'+id+'">VER PROYECTO</div>';
 			
 			return t;
 		}
-		
+		//definir la var en el resumen del proyecto en /List------------------
 		function getListBlock(id){
 			var e = datos.proyectos[id];
 			var t = '<div class="list-ppart">';
@@ -385,10 +389,14 @@ $.getJSON("data/cuba.geojson",
 			t += '<div class="list-pcontent-keywords">';
 			t += '<span class="small-pkeywords-label">Palabras clave:</span> <span class="small-pkeywords">'+e['keywords']+'</span>';
 			t += '</div>';
+			t += '<div class="list-pcontent-estructura">';
+			t += '<span class="small-pestructura-label">Estructura:</span> <span class="small-estructura">'+e['estructura']+'</span>';
+			t += '</div>';
 			t += '</div>' 
 			t+='</div>'; 
 			return t;
 		}
+		//definir la var en el resumen del proyecto en /List End---------------------
 		
 		function style(feature){
 			 return {
@@ -587,6 +595,7 @@ $.getJSON("data/cuba.geojson",
 			$('#project-reach').html(e.alcance);
 			$('#project-keywords').html(setStrings(e.keywords));
 			$('#project-description').html(e.descripcion);
+			$('#project-estructura').html(e.estructura);
 			if (e.localizacion.direccion!=null){
 				$('#project-address-block').removeClass('undisplay');
 				$('#project-address').html(e.localizacion.direccion);	

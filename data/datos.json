@@ -2209,6 +2209,100 @@
                 
             ],
             "eventos": null
+        },
+        "ativa": {
+            "id": "ativa",
+            "nombre": "Ativa",
+            "nombre-corto": "Ativa",
+            "logo": "logo-ativa.png",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "estructura": "afasfas",
+            "keywords": [
+                "Negocio Local", "Cultura", "Arte", "Diseño", "Identidad"
+            ],
+            "categoria": [
+                "Creativity", "Design", "Graphics  and Crafts", "Fashion and Textile",
+                "History and Memory", "Small business networking", "Identity", "Business"
+            ],
+            "provincia": "lha",
+            "municipio": "10 de Octubre",
+            "consejo_popular": "Santo Suárez",
+            "web": "https://mapajovencuba.github.io",
+            "descripcion": "ATIVA es un proyecto colectivo enfocado en el diseño, producción y comercialización de elementos decorativos y utilitarios. A través de sus artículos, promueven y divulgan la cultura originaria de la Isla y fomentan el desarrollo y uso de productos de fabricación nacional.",
+            "geo": {
+                "lat": 22.967287, 
+                "lon": -82.383415 
+            },
+            "localizacion": {
+                "email": "ativacuba@gmail.com",
+                "telefono": "+53 53897145",
+                "direccion": "Calle Santa Catalina. No. 554 e/ Mayía Rodríguez y Goicuría, 10 de Octubre, La Habana, Cuba."
+            },
+            "social": {
+
+                "twitter": "",
+                "facebook": "https://m.facebook.com/cubaac2017/",
+                "instagram": "https://instagram.com/ativa.cuba?igshid=1sv7y5ipf3smg",
+                "youtube": null,
+                "telegram": "https://t.me/ATIVA_Cuba"
+            },
+            "personas": [
+                {
+                    "nombre": "Irislén Rego",
+                    "email": "lenrego@gmail.com"
+                }
+                
+            ],
+            "eventos": null
+        },
+        "citykleta": {
+            "id": "citykleta",
+            "nombre": "Citykleta",
+            "nombre-corto": "Citykleta",
+            "logo": "logo-Citykleta.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "negocio",
+            "estructura": "",
+            "keywords": [
+                "Sostenibilidad", "Ciclismo", "Negocio Local", "Responsabilidad Ambiental"
+            ],
+            "categoria": [
+                "Small business networking", "Social entrepreneurship", "Enviroment", 
+                "Sustainable urbanization", "Physical education and Sports", "Sustainable Lifestyles"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "www.citykleta.com",
+            "descripcion": "Citykleta es un negocio local que ofrece recorridos en bicicleta en La Habana. Fue iniciado por Yasser González Cabrera con el objeto de agrupar en una misma organización recorridos turísticos en bicicleta y bici activismo a través de eventos para los cubanos. Con el tiempo se le unieron otros jóvenes procedentes de diferentes estudios y amantes de la bicicleta.",
+            "geo": {
+                "lat": 22.967287, 
+                "lon": -82.383415 
+            },
+            "localizacion": {
+                "email": "info@citykleta.com",
+                "telefono": "+53 55652579",
+                "direccion": null
+            },
+            "social": {
+
+                "twitter": "https://mobile.twitter.com/citykleta",
+                "facebook": "https://www.facebook.com/citykleta/",
+                "instagram": "https://instagram.com/citykleta",
+                "youtube": null,
+                "telegram": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yasser González Cabrera",
+                    "email": null
+                }
+                
+            ],
+            "eventos": null
         }
          
     }
