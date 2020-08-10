@@ -2546,8 +2546,62 @@
                 
             ],
             "eventos": null
-        }
+        },
+        "fao": {
+            "id": "fao",
+            "nombre": "Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO)",
+            "nombre-corto": "FAO",
+            "logo": "logo-fao.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Agricultura", "Alimentación", "Sostenibilidad", "Solidaridad", "Cooperación", 
+                "Medio Ambiente", "Cambio Climático", "Resiliencia", "Soberanía Alimentaria", 
+                "Educación Nutricional"
+            ],
+            "categoria": [
+                "Food", "Green Economy", "Enviroment", "Food and Agriculture", 
+                "Land use", "Food Safety", "Food System", "Climate", "Solidarity",
+                "Climate change", "Resilience", "Food Sovereignty", "Nutritional education"
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Náutico",
+            "web": "http://www.fao.org/cuba/es/",
+            "descripcion": "La Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO, por sus siglas en inglés) posee más de medio siglo de experiencia en la cooperación y asistencia técnica en Cuba, país que fue uno de sus miembros fundadores. La Representación de la FAO en La Habana, establecida oficialmente en 1978, acompaña al país en sus esfuerzos por fortalecer la seguridad y soberanía alimentarias, así como por alcanzar los objetivos de la Agenda 2030 para el Desarrollo Sostenible. Este organismo colabora con el gobierno cubano y otras instancias nacionales e internacionales en apoyo a políticas públicas de seguridad alimentaria y nutricional, así como a temas de agricultura sostenible y resiliente.",
+            "geo": {
+                "lat": 23.051014, 
+                "lon": -82.562617
+            },
+            "localizacion": {
+                "email": "FAO-CU@fao.org",
+                "telefono": "+53 72086411",
+                "direccion": "Calle 154 No. 301, esq 3ra, Reparto Náutico, Playa, La Habana, Cuba"
+            },
+            "social": {
 
+                "twitter": "https://mobile.twitter.com/FAOCuba",
+                "facebook": null,
+                "instagram": null,
+                "youtube": "https://www.youtube.com/user/FAOoftheUN?reload=9",
+                "telegram": null,
+                "Flickr": "https://www.flickr.com/photos/148210160@N03/"
+            },
+            "personas": [
+                {
+                    "nombre": "Marcelo Resende de Souza",
+                    "email": null
+                },
+                {
+                    "nombre": "Jorge Fernández Esperón",
+                    "email": null
+                }
+                
+            ],
+            "eventos": null
+        }
 
          
     }
