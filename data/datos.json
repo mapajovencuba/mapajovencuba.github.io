@@ -2385,7 +2385,7 @@
 
                 "twitter": null,
                 "facebook": "https://www.facebook.com/Lollevamosrizo/",
-                "instagram": "https://instagram.com/lollevamosrizo? igshid=1od6mzb1mbqdt",
+                "instagram": "https://instagram.com/lollevamosrizo?igshid=1od6mzb1mbqdt",
                 "youtube": null,
                 "telegram": null
             },
@@ -2398,6 +2398,50 @@
                     "nombre": " Julié A. Pérez Vives",
                     "email": null
                 }
+                
+            ],
+            "eventos": null
+        },
+        "magazine": {
+            "id": "magazine",
+            "nombre": "Magazine AM:PM",
+            "nombre-corto": "Magazine",
+            "logo": "logo-magazine.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "revista",
+            "estructura": "",
+            "keywords": [
+                "Música", "Cultura", "Prensa", "Medios", "Comunicación"
+            ],
+            "categoria": [
+                "Communication and Information", "Media Development",
+                "Litterature", "Cultural System", "Broadcast and Publishing"
+            ],
+            "provincia": null,
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "www.magazineampm.com",
+            "descripcion": "Magazine AM:PM es una revista cubana de música, que nació de la necesidad de dialogar sobre lo que pasa en materia de enseñanza, creación, distribución y consumo de música en Cuba. La revista es la única en la Isla dedicada exclusivamente a la música popular y busca formar una verdadera cooperativa cubana de melómanos ",
+            "geo": {
+                "lat": 20.054592, 
+                "lon": -86.276812
+            },
+            "localizacion": {
+                "email": "info@magazineampm.com",
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/magazineampm/",
+                "instagram": "https://instagram.com/magazineampm?igshid=od18le3wh1cx",
+                "youtube": null,
+                "telegram": null
+            },
+            "personas": [
+               
                 
             ],
             "eventos": null
