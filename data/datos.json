@@ -2303,7 +2303,55 @@
                 
             ],
             "eventos": null
+        },
+        "rinconcito": {
+            "id": "rinconcito",
+            "nombre": "Mi Rinconcito",
+            "nombre-corto": "Rinconcito",
+            "logo": "logo-rinconcito.png",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Sostenibilidad", "Ecología", "Negocio Local", "Manualidades", "Reciclaje", "Arte"
+            ],
+            "categoria": [
+                "Creativity", "Design", "Graphics and Crafts", "Small business networking", 
+                "Reuse", "Business", "Enviroment", "Sustainable Lifestyles"
+            ],
+            "provincia": "lha",
+            "municipio": "Cotorro",
+            "consejo_popular": "Cotorro",
+            "web": null,
+            "descripcion": "Mi Rinconcito es un Taller de arte y reciclaje creativo. Con una visión artística y amigable con el medio ambiente, sus productos personalizados a mano, se distinguen por propiciar experiencias lúdicas y estéticas.",
+            "geo": {
+                "lat": 23.054596, 
+                "lon": -82.276804
+            },
+            "localizacion": {
+                "email": "mirinconcito.cu@gmail.com",
+                "telefono": "+53 53637330",
+                "direccion": "Calle Lindero, edificio ``Micro Pulmón´´, apto 5, e/ 218 y 219, Cruz Verde, Cotorro, La Habana, Cuba."
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/mirinconcito.cu/",
+                "instagram": "https://www.instagram.com/mirinconcito.cu/",
+                "youtube": null,
+                "telegram": "t.me/mirinconcito_cu"
+            },
+            "personas": [
+                {
+                    "nombre": "Lisa del Prado",
+                    "email": "mirinconcito.cu@gmail.com"
+                }
+                
+            ],
+            "eventos": null
         }
+
          
     }
 }
