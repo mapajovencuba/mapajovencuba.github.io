@@ -2650,6 +2650,54 @@
                 
             ],
             "eventos": null
+        },
+        "antroposofia": {
+            "id": "antroposofia",
+            "nombre": "Club Martiano de Antroposofía",
+            "nombre-corto": "Club Martiano de Antroposofía",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Investigación", "Antroposofía", "Filosofía", "Cultura", "Humanismo"
+            ],
+            "categoria": [
+                "Communication and Information", "Access to knowledge", 
+                "Literature", "Education", "Research", "History and memory"
+            ],
+            "provincia": "lha",
+            "municipio": "",
+            "consejo_popular": null,
+            "web": "www.martiano.cult.cu",
+            "descripcion": "El Club Martiano de Antroposofía, perteneciente a la Sociedad Cultural José Martí, se constituyó en 2017 con el fin de promover la obra martiana y su legado humanista. Sus fundadores, estudiosos de la obra de Rudolf Steiner y la filosofía antroposófica, descubrieron fundamentos y nexos en el pensamiento de José Martí, raíz de cubanía y amor patriótico.",
+            "geo": {
+                "lat": 23.105762, 
+                "lon": -82.363218
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": " 76994457",
+                "direccion": null
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Ailín Parra Llorens",
+                    "telefono": "76994457"
+                }
+                
+            ],
+            "eventos": null
         }
 
          
