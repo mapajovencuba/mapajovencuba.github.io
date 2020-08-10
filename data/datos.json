@@ -2445,6 +2445,58 @@
                 
             ],
             "eventos": null
+        },
+        "reglasoul": {
+            "id": "reglasoul",
+            "nombre": "ReglaSOUL",
+            "nombre-corto": "ReglaSOUL",
+            "logo": "logo-reglasoul.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Bienestar", "Ecología", "Holística", "Naturaleza", "Sostenibilidad"
+            ],
+            "categoria": [
+                "Access to knowledge", "Food", "Education for sustainable development",
+                "Community", "Green Economy", "Enviroment", "Agriculture and Social Development",
+                "Identity", "Sustainable Lifestyles"
+            ],
+            "provincia": "lha",
+            "municipio": "Regla",
+            "consejo_popular": null,
+            "web": "www.reglasoul.com",
+            "descripcion": "ReglaSOUL es un proyecto radicado en Cuba que promueve un estilo de vida holístico alternativo. Es una fuente de medicina holística a base de plantas para una creciente comunidad verde en La Habana. ReglaSOUL aboga por un mejor acceso a recursos de bienestar para afrodescendientes en la Isla a través de talleres y eventos de curación holística y con plantas medicinales.",
+            "geo": {
+                "lat": 23.130035, 
+                "lon": -82.334828
+            },
+            "localizacion": {
+                "email": "connect@reglasoul.com",
+                "telefono": "(07) 7942774",
+                "direccion": "Máximo Gómez No. 106, Apto 9 e/ La Piedra y Facciolo, Regla, La Habana, Cuba."
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/reglasoul/",
+                "instagram": "https://instagram.com/reglasoulcuba?igshid=1lpms3iz8o9xv",
+                "youtube": null,
+                "telegram": null
+            },
+            "personas": [
+                {
+                    "nombre": "Alexey Rodríguez",
+                    "email": null
+                },
+                {
+                    "nombre": "Amberly Alene",
+                    "email": null
+                }
+                
+            ],
+            "eventos": null
         }
 
          
