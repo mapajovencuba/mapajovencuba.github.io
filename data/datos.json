@@ -2350,6 +2350,57 @@
                 
             ],
             "eventos": null
+        },
+        "rizo": {
+            "id": "rizo",
+            "nombre": "Lo llevamos rizo",
+            "nombre-corto": "Llevamos Rizo",
+            "logo": "logo-llevamosrizo.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Inclusión", "Diversidad cultural", "Concurso", "Identidad"
+            ],
+            "categoria": [
+                "Cultural Diversity", "Creativity", "Public events and Festivals",
+                "Inclusive Education", "Identity", "Social Justice", "Social Inclusion" 
+            ],
+            "provincia": null,
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "http://lollevamosrizo.wixsite.com",
+            "descripcion": "Este proyecto pretende ahondar en los cánones de belleza afro, que hoy en día se manifiestan en la cultura popular cubana. Más que una moda, trae consigo una carga histórica, de conciencia e identidad de lo negro. Lo llevamos rizo se vale del cabello Afro natural para deconstruir los ideales estéticos establecidos y, desde la creatividad, proponer una asimilación orgánica de su presencia en el imaginario social cubano.",
+            "geo": {
+                "lat": 23.054592, 
+                "lon": -82.276812
+            },
+            "localizacion": {
+                "email": "lollevamosrizo@gmail.com",
+                "telefono": "(05) 4016081",
+                "direccion": null
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Lollevamosrizo/",
+                "instagram": "https://instagram.com/lollevamosrizo? igshid=1od6mzb1mbqdt",
+                "youtube": null,
+                "telegram": null
+            },
+            "personas": [
+                {
+                    "nombre": "Annia Liz de Armas ",
+                    "email": null
+                },
+                {
+                    "nombre": " Julié A. Pérez Vives",
+                    "email": null
+                }
+                
+            ],
+            "eventos": null
         }
 
          
