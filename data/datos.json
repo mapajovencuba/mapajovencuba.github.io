@@ -2747,6 +2747,65 @@
                 
             ],
             "eventos": null
+        },
+        "cubasolar": {
+            "id": "cubasolar",
+            "nombre": "Sociedad Cubana para la Promoción de las Fuentes Renovables de Energía y el Respeto Ambiental (Cubasolar)",
+            "nombre-corto": "Cubasolar",
+            "logo": "logo-cubasolar.jpg",
+            "tipo": "por",
+            "alcance": "Nacional e Internacional",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Fuentes renovables de energía", "Agua", 
+                "Alimentación Sostenible", "Indepedencia Energética",
+                "Soberanía Alimentaria"
+            ],
+            "categoria": [
+                "Education for sustainable development", "Climate Change", 
+                "Eco-innovation", "Enviromental Economics",
+                "Global Enviromental Change", "Green an Renewable Energy", "Enviroment"
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "",
+            "web": "www.cubasolar.cu",
+            "descripcion": "CUBASOLAR, ONG cubana, miembro de la Academia de Ciencias de Cuba del Ministerio de Ciencias, Tecnología y Medio Ambiente (CITMA). Tiene como misión, promover la cultura en el uso de las fuentes renovables de energía con conciencia y respeto ambiental, mediante las experiencias adquiridas, patrimonio y acciones en los ámbitos local, nacional e internacional. Mantiene estatus consultivo especial ante el Consejo Económico y Social (ECOSOC) de las Naciones Unidas.",
+            "geo": {
+                "lat": 23.109168, 
+                "lon": -82.413626
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "(07) 6405260",
+                "direccion": "Avenida 41 No. 4414 e/ 44 y 46, municipio Playa, La Habana"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Cubasolar.Redsolar/",
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Dr. C. Luis Bérriz Pérez",
+                    "email": "berriz@cubasolar.cu"
+                },
+                {
+                    "nombre": "Dr. C. José Antonio Guardado Chacón",
+                    "email": "guardado@cubasolar.cu"
+                },
+                {
+                    "nombre": "M. Sc. Madelaine Vázquez Gálvez",
+                    "email": "madelaine@cubasolar.cu"
+                }
+                
+            ],
+            "eventos": null
         }
 
          
