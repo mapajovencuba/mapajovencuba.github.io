@@ -2856,6 +2856,53 @@
                 }
             ],
             "eventos": null
+        },
+        "tungasuk": {
+            "id": "tungasuk",
+            "nombre": "Finca Tungasuk",
+            "nombre-corto": "Finca Tungasuk",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Sostenibilidad", "Agricultura", "Voluntariado", "Medio Ambiente", "Orgánico"
+            ],
+            "categoria": [
+                "Food and Agriculture", "Education for sustainable development", "Green Economy",
+                "Enviroment", "Enviromental Economics", "Land Use", "Sustainable Lifestyles"
+            ],
+            "provincia": "art",
+            "municipio": "Caimito",
+            "consejo_popular": null,
+            "web": "www.tungasuk.com",
+            "descripcion": "Finca Tungasuk es una finca orgánica familiar que ofrece posibilidades de voluntariado y una experiencia de la granja a la mesa. Este espacio permite a los voluntarios trabajar lado a lado con el personal del lugar , satisfaciendo las necesidades de la granja al tiempo que aprenden sobre agricultura sostenible. Las personas involucradas  con el proyecto están comprometidos  con la producción orgánica de calidad, que comercian a precios de mercado para familias de las localidades cercanas.",
+            "geo": {
+                "lat": 22.980282, 
+                "lon": -82.624718
+            },
+            "localizacion": {
+                "email": "tungasuk@gmail.com",
+                "telefono": "(05) 4311698",
+                "direccion": "Km 17.3 Autopista Pinar del Río. Municipio de Caimito. Artemisa. Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/tungasuk/",
+                "instagram": "https://instagram.com/fincatungasuk?igshid=12bpzxev0qkon",
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Annabelle Cantarero",
+                    "email": null
+                }
+            ],
+            "eventos": null
         }
 
          
