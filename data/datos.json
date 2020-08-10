@@ -2806,6 +2806,56 @@
                 
             ],
             "eventos": null
+        },
+        "acualina": {
+            "id": "acualina",
+            "nombre": "Proyecto Acualina",
+            "nombre-corto": "Acualina",
+            "logo": "logo-acualina.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            "estructura": "",
+            "keywords": [
+                "Medio Ambiente", "Cambio Climático", 
+                "Educación ambiental", "Clima", "Sostenibilidad"
+            ],
+            "categoria": [
+                "Communication and Information", 
+                "Education for sustainable development", "Biodiversity", 
+                "Climate Change", "Eco-innovation", "Global enviromental change",
+                "Climate", "Enviroment"
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Náutico",
+            "web": "www.acualina.org",
+            "descripcion": "Acualina es un proyecto ecológico, necesario y no lucrativo, que busca esencialmente alentar acciones y valores ambientalistas. A través de su accionar y sus mensajes, Acualina tiene la misión de transmitir educación ambiental a las grandes masas, principalmente, a las niñas y niños, para ir logrando un cambio de actitud en las personas y movilizar sus mentes a favor de la salud del Medio Ambiente.",
+            "geo": {
+                "lat": 23.093306, 
+                "lon": -82.458413
+            },
+            "localizacion": {
+                "email": "acualina@ceniai.inf.cu",
+                "telefono": " (07) 2080115",
+                "direccion": "Ave. 3ª- A, No. 15214, apto 1 e/ 152 y 154, Náutico, Playa, La Habana, Cuba"
+            },
+            "social": {
+
+                "twitter": "https://mobile.twitter.com/Acualina_Cuba",
+                "facebook": "https://www.facebook.com/ProyectoAcualina/",
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Ángela Amalia Corvea Martínez",
+                    "email": null
+                }
+            ],
+            "eventos": null
         }
 
          
