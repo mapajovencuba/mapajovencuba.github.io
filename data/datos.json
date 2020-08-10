@@ -2405,7 +2405,7 @@
         "magazine": {
             "id": "magazine",
             "nombre": "Magazine AM:PM",
-            "nombre-corto": "Magazine",
+            "nombre-corto": "Magazine AM:PM",
             "logo": "logo-magazine.jpg",
             "tipo": "por",
             "alcance": "Nacional",
