@@ -1165,31 +1165,28 @@
             "id": "RIAM",
             "nombre": "Red Iberoamericana y Africana de Masculinidades (RIAM)",
             "nombre-corto": "RIAM",
-            "logo": null,
+            "logo": "logo-riam.jpg",
             "tipo": "para",
             "alcance": "nacional",
             "organizacion": "red",
             "keywords": [
-                "Masculinidades",
-                "Género",
-                "Prevención",
-                "No Violencia"
+                "Masculinidades", "Equidad", "Justicia de Género", "Justicia Social"
             ],
             "categoria": [
-                "Justicia de Género y Equidad",
-                "Inclusión"
+                "Communication and information", "Inclusive education", "Gender equality", 
+                "Human rights", "Social inclusion", "Social Justice"
             ],
             "provincia": "lha",
             "municipio": null,
             "consejo_popular": null,
             "web": "http://redmasculinidades.blogspot.com/",
-            "descripcion": "La Red Iberoamericana y Africana de Masculinidades (RIAM), integrada fundamentalmente por hombres, pero también por mujeres que apuestan por un cambio en la cultura patriarcal dominante, impulsa espacios de socialización del conocimiento y el debate sobre las masculinidades en Cuba, visualizando los impactos negativos que la cultura patriarcal y falocéntrica tiene sobre los hombres, promoviendo formas alternativas, diversas, solidarias y no violentas de asumir la masculinidad. La RIAM promueve una mirada autónoma y crítica de los hombres sobre sí mismos, tanto en el ámbito académico como en espacios comunitarios.",
+            "descripcion": "RIAM es un proyecto creado en 2007 que trata problemas como la violencia de género, los estereotipos de masculinidades en Cuba, el rol de los medios de comunicación para reproducir prejuicios y mitos, nuevas formas de ser hombre, la diversidad de familias, paternidad, religiosidad, empleo, prostitución masculina y homofobia. Mediante el activismo y la realización de actividades procura crear conciencia y abrir el diapasón de participación contra la violencia de género, una cultura de paz entre la población masculina y analizar otros asuntos como los tipos de masculinidades, la homofobia y el racismo. (tomado de ipscuba.net).",
             "geo": {
                 "lat": 23.132048,
                 "lon": -82.393247
             },
             "localizacion": {
-                "email": null,
+                "email": "julio.pages@gmail.com",
                 "telefono": null,
                 "direccion": null
             },
@@ -1201,25 +1198,11 @@
             },
             "personas": [
                 {
-                    "nombre": "Yonnier Angulo Rodríguez",
-                    "email": "yonnierar@gmail.com"
+                    "nombre": "Julio César Gonzáles Pagés",
+                    "email": "julio.pages@gmail.com"
                 }
             ],
-            "eventos": [
-                {
-                    "inicio": {
-                        "dia": 25,
-                        "mes": 5,
-                        "año": 2019
-                    },
-                    "fin": {
-                        "dia": 26,
-                        "mes": 5,
-                        "año": 2019
-                    },
-                    "nombre": "Acciones por la No Violencia en el II Festival Nacional de Fútbol Callejero"
-                }
-            ]
+            "eventos": null
         },
         "RCCS": {
             "id": "RCCS",
