@@ -1603,39 +1603,37 @@
             "id": "ecop",
             "nombre": "Ciclo Ecopapel",
             "nombre-corto": "Ecopapel",
-            "logo": null,
+            "logo": "logo-ecopapel.png",
             "tipo": "por",
-            "alcance": "local",
+            "alcance": "nacional",
             "organizacion": "proyecto",
             "keywords": [
-                "Papel Manufacturado",
-                "Artesanía",
-                "Reciclaje",
-                "Tienda Ecológica",
-                "Desarrollo Local"
+                "Sostenibilidad", "Medio Ambiente", "Ecológico", "Tienda", "Papel", "Reciclaje"
             ],
             "categoria": [
-                "Medio Ambiente"
+                "Climate Change", "Eco-innovation", "Global enviromental change",
+                "Climate", "Enviroment", "Green economy", "Small business networking",
+                "Waste management"
             ],
             "provincia": "lha",
             "municipio": "Habana Vieja",
             "consejo_popular": null,
-            "web": null,
+            "web": "http://www.medium.com/cicloecoideas",
             "descripcion": "Iniciativa no estatal productora de papel manufacturado, de forma ecológica. Realizamos productos utilitarios con papel y cartón reciclados, fundamentalmente, así como otros materiales obtenidos de este modo; con diseño personalizable, tanto para el sector industrial, empresarial, diplomático y de organizaciones gubernamentales y no gubernamentales, como para el público en general. Nuestra filosofía se sustenta en el ahorro, el reciclaje, la ecosostenibilidad y el compromiso con la comunidad.",
             "geo": {
                 "lat": 23.136739,
                 "lon": -82.355412
             },
             "localizacion": {
-                "email": "contacto@cicloecopapel.com",
-                "telefono": null,
-                "direccion": null
+                "email": "cicloecopapel@gmail.com",
+                "telefono": "(+53) 52746425, (+53) 78639308",
+                "direccion": "Lamparilla No.362 e/ Villegas y Aguacate, La Habana Vieja, La Habana, Cuba"
             },
             "social": {
                 "twitter": "https://twitter.com/cicloecopapel",
-                "facebook": "https://www.facebook.com/cicloecopapel",
-                "instagram": "http://instagram.com/cicloecopapel",
-                "youtube": null
+                "facebook": "https://www.facebook.com/CicloEcoPapel/",
+                "instagram": "https://www.instagram.com/cicloecopapel",
+                "youtube": "https://youtu.be/7aVXUQ55ypYo"
             },
             "personas": [
                 {
