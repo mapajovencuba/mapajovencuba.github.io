@@ -3207,6 +3207,48 @@
             },
             "personas": null,
             "eventos": null
+        },
+        "copincha": {
+            "id": "copincha",
+            "nombre": "Copincha",
+            "nombre-corto": "Copincha",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Resiliencia tecnológica", "Innovación", "Desechos", 
+                "Reciclaje", "Reuso", "Economía circular", "Procesos", 
+                "Educación", "Desarrollo local"
+            ],
+            "categoria": [
+            ],
+            "provincia": "lha",
+            "municipio": "Centro Habana",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Fundada en 2017, Copincha es una comunidad de creación e innovación tecnológica; un entorno popular, abierto y colaborativo donde ensayar una cultura sociotécnica resiliente como alternativa para resolver las necesidades locales que originan los modelos tradicionales insostenibles.",
+            "geo": {
+                "lat": 23.082111,
+                "lon": -82.222407
+            },
+            "localizacion": {
+                "email": "comunidad@copincha.org",
+                "telefono": "+53 54115734",
+                "direccion": "Ánimas 964, apto 101, entre Soledad y Oquendo, Centro Habana"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [{"nombre": "Maurice Haedo Sanabria"}],
+            "eventos": null
         }
 
          
