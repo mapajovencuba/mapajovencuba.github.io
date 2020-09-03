@@ -2110,7 +2110,20 @@
                     "email": ""
                 }
             ],
-            "eventos": null
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación.",
+                    "img": "9.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                }
+               
+         ]
         },
         "evoluciona": {
             "id": "evoluciona",
