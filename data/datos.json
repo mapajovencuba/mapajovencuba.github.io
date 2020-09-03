@@ -3249,8 +3249,54 @@
             },
             "personas": [{"nombre": "Maurice Haedo Sanabria"}],
             "eventos": null
-        }
+        },
+        "gsubmarina": {
+            "id": "gsubmarina",
+            "nombre": "Galería Submarina Transeúntes",
+            "nombre-corto": "Galería Submarina",
+            "logo": "logo-galeriasub.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Arte", "Transformación social", 
+                "Jóvenes artistas", 
+                "Autodidactas", 
+                "Promoción",
+                "Exposiciones", 
+                "Autogestión", 
+                "Apoyo"
+            ],
+            "categoria": [
+            ],
+            "provincia": "mat",
+            "municipio": "Ziénaga de Zapata",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Galería Submarina Transeúntes es creada por el artista Sándor González en el año 2014, con el fin de expandir su proyecto Galería Transeúntes, pero esta vez bajo el mar. La mayoría de las obras son creadas bajo el mar, a 15 metros de profundidad, por diversidad de artistas. Hasta el momento, el proyecto cuenta con dos espacios: uno en tierra firme, en el que se exponen lienzos, videos y fotografías hechos bajo el mar; y otra submarina,que cuenta con 11 obras de cerámica permanentes. Este proyecto promueve además el submarinismo y el cuidado medioambiental de Punta Perdiz, uno de los mejores puntos de buceo que Cuba posee.",
+            "geo": {
+                "lat": 22.065514,
+                "lon": -81.065894
+            },
+            "localizacion": {
+                "email":  null,
+                "telefono": "+53 52647378",
+                "direccion": "Centro internacional de buceo de Punta Perdiz. La Ciénaga de Zapata. Matanzas. Cuba"
+            },
+            "social": {
 
+                "twitter": null,
+                "facebook": "https://www.facebook.com/galeriatranseuntes/",
+                "instagram": "https://instagram.com/galeriatranseuntes",
+                "youtube": "https://www.youtube.com/channel/UC4eMyHoXrjlo4sujvior11Q",
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [{"nombre": "Sándor González Vilar"}],
+            "eventos": null
+        }
+        
          
     }
 }
