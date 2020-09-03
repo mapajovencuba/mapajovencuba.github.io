@@ -347,7 +347,6 @@ $.getJSON("data/cuba.geojson",
 		  this.field('keywords');
 		  this.field('nombre');
 		  this.field('nombre-corto');
-		  //this.field('estructura');
 		  var tkeys = Object.keys(data.proyectos);
 		  for(var i=0;i<tkeys.length;i++){
 		     this.add(data.proyectos[tkeys[i]]);
@@ -582,7 +581,6 @@ $.getJSON("data/cuba.geojson",
 		update();
 		
 		
-		
 		function fillAndShowProfile(id){
 			var e = datos.proyectos[id];
 			$('.profile-logo').html('');
@@ -595,7 +593,6 @@ $.getJSON("data/cuba.geojson",
 			$('#project-reach').html(e.alcance);
 			$('#project-keywords').html(setStrings(e.keywords));
 			$('#project-description').html(e.descripcion);
-			//$('#project-estructura').html(e.estructura);
 			if (e.localizacion.direccion!=null){
 				$('#project-address-block').removeClass('undisplay');
 				$('#project-address').html(e.localizacion.direccion);	
@@ -658,6 +655,22 @@ $.getJSON("data/cuba.geojson",
 				$('#project-person').html(t);
 			} else {
 				$('#project-person-block').addClass('undisplay');	
+			}
+			if (e.ods!=null){
+				$('#project-ods-block').removeClass('undisplay');
+				var t = '';
+				for(var i in e.ods){
+					t += '<div class="ods-item">';
+					t += '<span class="ods-name"><img src="img/odsicons/'+e.ods[i].img+'">'+e.ods[i].descripcion+' </span>';
+					/*if (e.ods[i].img!=null){
+						t += '<span class="ods-img"> <img src="img/odsicons/'+e.ods[i].img+'"></span>';
+							
+					}*/
+					t += '</div>';	
+				}
+				$('#project-ods').html(t);
+			} else {
+				$('#project-ods-block').addClass('undisplay');	
 			}
 			showProfile();
 		}
