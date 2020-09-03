@@ -3040,6 +3040,54 @@
                 }
             ],
             "eventos": null
+        },
+        "planmaestro": {
+            "id": "planmaestro",
+            "nombre": "Plan Maestro de la Oficina del Historiador de la Ciudad de La Habana",
+            "nombre-corto": "Plan Maestro OHC",
+            "logo": "logo-planmaestroohc.png",
+            "tipo": "por",
+            "alcance": "Local y Nacional",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Desarrollo Urbano", "Patrimonio", "Conservación", "Arquitectura", "Cultura", 
+                "Gestión", "Investigación aplicada", "Regulaciones urbanas"
+            ],
+            "categoria": [
+                "Cultural System", "History and Memory", "Intangible Heritage", "Landscape and Cultural Heritage",
+                "World Heritage", "Architecture and Design", "Urban Development"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": "www.planmaestro.ohc.cu",
+            "descripcion": "El Plan Maestro para la Revitalización Integral de La Habana Vieja es la entidad responsable de dictar las políticas, estrategias y acciones, que permitan garantizar el desarrollo del proceso de rehabilitación de la Zona Priorizada para la Conservación. El Plan Maestro es un órgano metodológico y de coordinación, así como un referente en materia de gestión urbana, información territorial, gestión socioeconómica y otras especialidades relativas al rescate del patrimonio cultural y urbano.",
+            "geo": {
+                "lat": 23.139765, 
+                "lon": -82.350202
+            },
+            "localizacion": {
+                "email": "direccion@planmaestro.och.cu",
+                "telefono": "(07) 8697213",
+                "direccion": "Mercaderes No. 116 e/ Obispo y Obrapía, La Habana Vieja; La Habana; Cuba CP10100"
+            },
+            "social": {
+
+                "twitter": "https://mobile.twitter.com/",
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Patricia Rodríguez Alomá",
+                    "email": "patricia@planmaestro.ohc.cu"
+                }
+            ],
+            "eventos": null
         }
 
          
