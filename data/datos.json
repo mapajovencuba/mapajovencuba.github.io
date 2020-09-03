@@ -1918,13 +1918,11 @@
             "alcance": "local",
             "organizacion": "proyecto",
             "keywords": [
-                "afrocubano", "patrimonio", "cultura", "equidad", "igualdad", "identidad", "plataforma",
-                 "trabajo", "comunitario", "Matanzas", "desarrollo local", "discapacidad intelectual",
-                "afroatenas","callejon", "tradiciones","rumba", "derechos humanos", "lgbtiq"
+                "Afrocubano", "Patrimonio", "Cultura", "Equidad", "Igualdad", "Identidad", "Plataforma",
+                "Trabajo comunitario", "Matanzas", "Desarrollo local", "Discapacidad intelectual",
+                "Afroatenas","Callejon", "Tradiciones","Rumba", "Derechos humanos", "lgbtiq"
             ],
-            "categoria": [
-                
-            ],
+            "categoria": null,
             "provincia": "mat",
             "municipio": "Matanzas",
             "consejo_popular": "Pueblo Nuevo",
