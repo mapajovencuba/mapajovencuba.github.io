@@ -3164,6 +3164,49 @@
                 }
             ],
             "eventos": null
+        },
+        "oasis": {
+            "id": "oasis",
+            "nombre": "Club Oasis",
+            "nombre-corto": "Club Oasis",
+            "logo": "logo-oasis.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Emprendimiento", "Desarrollo Social", "Intercambio", "Educación Empresarial",
+                "Crecimiento Económico Sostenible"
+            ],
+            "categoria": [
+                "Access to knowledge", "Lifelong learning instruments", "Enterprise and Economics", 
+                "New business models and practices", "Small business networking", "Social entrepreneurship"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": "www.proyectocubaemprende.org",
+            "descripcion": "El Proyecto CubaEmprende lanzó, con el apoyo del Fondo de Proyectos de la Embajada Británica en Cuba, el Club Oasis, con el objetivo de conectar a los emprendedores privados para el intercambio en la búsqueda de soluciones corporativas a los desafíos de la Responsabilidad Social Empresarial (RSE). El Club Oasis trabaja para elevar el impacto de los emprendimientos privados en términos de RSE a través de un programa de tutorías, desarrollado por los miembros del Club, aprovechando sus experiencias en la gestión empresarial socialmente responsable.",
+            "geo": {
+                "lat": 23.083005,
+                "lon": -82.210683
+            },
+            "localizacion": {
+                "email": "cubaempende@ccpadrevarela.org",
+                "telefono": "(07) 8667109",
+                "direccion": "Tacón S/N e/ Chacón y Empedrado, Centro Cultural Padre Félix Varela, La Habana Vieja, La Habana, Cuba. CP 10400"
+            },
+            "social": {
+
+                "twitter": "https://mobile.twitter.com/CubaEmprende",
+                "facebook": "https://www.facebook.com/proyectocubaemprende/",
+                "instagram": "https://instagram.com/proyectocubaemprende?igshid=ahfffst07l2k",
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": null,
+            "eventos": null
         }
 
          
