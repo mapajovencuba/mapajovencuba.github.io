@@ -2265,7 +2265,7 @@
             "tipo": "por",
             "alcance": "Local",
             "organizacion": "negocio",
-            "estructura": "",
+            
             "keywords": [
                 "Sostenibilidad", "Ciclismo", "Negocio Local", "Responsabilidad Ambiental"
             ],
@@ -2312,7 +2312,7 @@
             "tipo": "por",
             "alcance": "Local",
             "organizacion": "proyecto",
-            "estructura": "",
+            
             "keywords": [
                 "Sostenibilidad", "Ecología", "Negocio Local", "Manualidades", "Reciclaje", "Arte"
             ],
@@ -2359,7 +2359,7 @@
             "tipo": "por",
             "alcance": "Nacional",
             "organizacion": "proyecto",
-            "estructura": "",
+            
             "keywords": [
                 "Inclusión", "Diversidad cultural", "Concurso", "Identidad"
             ],
@@ -2410,7 +2410,7 @@
             "tipo": "por",
             "alcance": "Nacional",
             "organizacion": "revista",
-            "estructura": "",
+            
             "keywords": [
                 "Música", "Cultura", "Prensa", "Medios", "Comunicación"
             ],
@@ -2454,7 +2454,6 @@
             "tipo": "por",
             "alcance": "Provincial",
             "organizacion": "proyecto",
-            "estructura": "",
             "keywords": [
                 "Bienestar", "Ecología", "Holística", "Naturaleza", "Sostenibilidad"
             ],
@@ -2506,7 +2505,6 @@
             "tipo": "por",
             "alcance": "Local",
             "organizacion": "taller",
-            "estructura": "",
             "keywords": [
                 "Desarrollo Local", "Comunidad", "Emprendimiento", "Inclusión social", "Sostenibilidad"
             ],
@@ -2555,7 +2553,6 @@
             "tipo": "por",
             "alcance": "Nacional",
             "organizacion": "proyecto",
-            "estructura": "",
             "keywords": [
                 "Agricultura", "Alimentación", "Sostenibilidad", "Solidaridad", "Cooperación", 
                 "Medio Ambiente", "Cambio Climático", "Resiliencia", "Soberanía Alimentaria", 
@@ -2610,7 +2607,7 @@
             "tipo": "por",
             "alcance": "Nacional",
             "organizacion": "proyecto",
-            "estructura": "",
+            
             "keywords": [
                 "Antroposofía", "Ciencias", "Espiritualidad", "Filosofía", 
                 "Humanidad", "Educación", "Agricultura biodinámica", "Artes"
@@ -2659,7 +2656,7 @@
             "tipo": "por",
             "alcance": "Nacional",
             "organizacion": "proyecto",
-            "estructura": "",
+            
             "keywords": [
                 "Investigación", "Antroposofía", "Filosofía", "Cultura", "Humanismo"
             ],
@@ -2707,7 +2704,7 @@
             "tipo": "por",
             "alcance": "Local",
             "organizacion": "proyecto",
-            "estructura": "",
+            
             "keywords": [
                 "Sostenibilidad", "Medio Ambiente", "Ecología", "Educación", "Comunidad"
             ],
@@ -2756,7 +2753,7 @@
             "tipo": "por",
             "alcance": "Nacional e Internacional",
             "organizacion": "proyecto",
-            "estructura": "",
+            
             "keywords": [
                 "Fuentes renovables de energía", "Agua", 
                 "Alimentación Sostenible", "Indepedencia Energética",
@@ -2815,7 +2812,7 @@
             "tipo": "por",
             "alcance": "Nacional",
             "organizacion": "proyecto",
-            "estructura": "",
+            
             "keywords": [
                 "Medio Ambiente", "Cambio Climático", 
                 "Educación ambiental", "Clima", "Sostenibilidad"
@@ -2865,7 +2862,7 @@
             "tipo": "por",
             "alcance": "Local",
             "organizacion": "proyecto",
-            "estructura": "",
+            
             "keywords": [
                 "Sostenibilidad", "Agricultura", "Voluntariado", "Medio Ambiente", "Orgánico"
             ],
@@ -2912,7 +2909,7 @@
             "tipo": "por",
             "alcance": "Local",
             "organizacion": "proyecto",
-            "estructura": "",
+            
             "keywords": [
                 
             ],
@@ -2958,7 +2955,7 @@
             "tipo": "por",
             "alcance": "Nacional",
             "organizacion": "proyecto",
-            "estructura": "",
+            
             "keywords": [
                 "Desarrollo Comunitario", "Desarrollo Local", "Cultura", "Comunicación", "Participación" 
             ],
@@ -3005,7 +3002,7 @@
             "tipo": "por",
             "alcance": "Local",
             "organizacion": "proyecto",
-            "estructura": "",
+            
             "keywords": [
                 "Cooperativa", "Ecomadera", "Sostenibilidad", "Desarrollo Sostenible" 
             ],
