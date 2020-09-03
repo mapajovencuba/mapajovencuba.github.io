@@ -3118,6 +3118,52 @@
                 }
             ],
             "eventos": null
+        },
+        "payasas": {
+            "id": "payasas",
+            "nombre": "Colectivo Artístico de Payasas Terapéuticas",
+            "nombre-corto": "Payasas Terapéuticas",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Local y Nacional",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Infancia", "Solidaridad", "Payasas terapéuticas", "Cultura", "Creatividad", "Salud"
+            ],
+            "categoria": [
+                "Cultural System", "Creativity", "Youth", "Socially engaged art", "Performing arts", "Solidarity"
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Miramar",
+            "web": "http://instituciones.sld.cu/gnpt/",
+            "descripcion": "El Colectivo  artístico de payasas terapéuticas  es un equipo de mujeres cubanas que acompañamos y contribuimos al bienestar y la felicidad de personas que transitan por momentos difíciles, desde nuestro trabajo artístico-terapéutico en instituciones de salud, el teatro con niños, niñas y adolescentes y la comunicación. Adicionalmente el Colectivo acompaña al Grupo Nacional de Payasas y Payasos Terapéuticos de Cuba.Atendemos directamente como payasas  a niños, niñas y adolescentes que permanecen hospitalizados en el Instituto Nacional de Oncología y Radiobiología; el Cardiocentro Pediátrico William Soler y los Hospitales Pediátricos Juan Manuel Márquez y el William Soler.",
+            "geo": {
+                "lat": 23.121284,
+                "lon": -82.418422
+            },
+            "localizacion": {
+                "email": "anietvenereo@infomed.sld.cu",
+                "telefono": "(07) 2093938",
+                "direccion": "7ma Avenida entre 18 y 20. Miramar. Playa."
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/payasasCuba/",
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Aniet Venereo Pérez-Castro",
+                    "email": "anietvenereo@infomed.sld.cu"
+                }
+            ],
+            "eventos": null
         }
 
          
