@@ -3069,6 +3069,55 @@
                 }
             ],
             "eventos": null
+        },
+        "casiguaguas": {
+            "id": "casiguaguas",
+            "nombre": "Festival del Río Casiguaguas",
+            "nombre-corto": "Festival del Río",
+            "logo": "logo-casiguaguas.jpg",
+            "tipo": "por",
+            "alcance": "Local y Nacional",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Participación", "Restauración",
+                "Saneamiento", "Reforestación",
+                "Sistematizar y generalizar",
+                "Calidad de los ríos", "Dimensión cultural",
+                "Herramienta de transformación", "Feria de Experiencias"
+            ],
+            "categoria": [
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "La Ceiba",
+            "web": null,
+            "descripcion": "Como iniciativa del proyecto comunitario Huellas, el grupo de música ecologista Cubanos en la Red, ACNU y El Gran Parque Metropolitano de La Habana, deciden implementar el Festival del Río Casiguaguas (de esta forma le  llamaron nuestros aborígenes al Almendares). Desde los primeros pasos nuestra filosofía de trabajo está basada en la metodología de la Educación Popular y el trabajo en equipo. Cada edición nos da la confianza de mantener en el tiempo este Festival. Los resultados nos animan a seguir trabajando en acciones que aglutinen a un gran número de personas amantes de la naturaleza y del Almendares en particular. El festival es el producto lógico de varios años de trabajo conjunto en pos de la protección del medioambiente. El objetivo general es sensibilizar al público en general en la protección de nuestros acuíferos mediante la acción mancomunada de todos los actores sociales. Y para lograr este se han trazado las siguientes metas: Fomentar el desarrollo de acciones concretas que mejoren la calidad de los ríos; Sensibilizar a los vecinos con la protección del entorno; Posicionar la dimensión cultural como herramienta de transformación y Sistematizar y generalizar la experiencia. Las actividades principales consisten en: evento teórico, saneamiento y reforestación y feria de proyectos y actividades culturales en el barrio CantaRana.",
+            "geo": {
+                "lat": 23.100153,
+                "lon": -82.411389
+            },
+            "localizacion": {
+                "email": "manolovidal85@gmail.com",
+                "telefono": null,
+                "direccion": "Barrio Cantarrana, Reparto La Ceiba, Playa, La Habana"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Manuel Vidal",
+                    "email": "manolovidal85@gmail.com"
+                }
+            ],
+            "eventos": null
         }
 
          
