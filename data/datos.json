@@ -3335,6 +3335,48 @@
             },
             "personas": [{"nombre": "Sándor González Vilar"}],
             "eventos": null
+        },
+        "guarida": {
+            "id": "guarida",
+            "nombre": "Guarida de Sueños",
+            "nombre-corto": "Guarida de Sueños",
+            "logo": "logo-guarida.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Desarrollo local", "Medioambiente", "Educación", "Recreación",
+                "Arte y transformación social", "Saneamiento",
+                "Patrimonio histórico-cultural", "Arte mural"
+            ],
+            "categoria": [
+            ],
+            "provincia": "lha",
+            "municipio": "Habana del Este",
+            "consejo_popular": "Cojímar",
+            "web": null,
+            "descripcion": "Guarida de Sueños es un proyecto  que tiene entre sus objetivos fomentar el patrimonio histórico-cultural y medioambiental de Cojímar, mediante acciones artísticas, educativas y de saneamiento.",
+            "geo": {
+                "lat": 23.126305,
+                "lon": -82.289057
+            },
+            "localizacion": {
+                "email":  "vaduren2003@yahoo.es",
+                "telefono": "58059481",
+                "direccion": "28 y Final s/n, Cojímar, Habana del Este, La Habana"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [{"nombre": "Ana Luisa Escobar"}],
+            "eventos": null
         }
         
          
