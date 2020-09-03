@@ -3295,6 +3295,46 @@
             },
             "personas": [{"nombre": "Sándor González Vilar"}],
             "eventos": null
+        },
+        "gtranseuntes": {
+            "id": "gtranseuntes",
+            "nombre": "Galería Transeúntes",
+            "nombre-corto": "Galería Transeúntes",
+            "logo": "logo-galeriatranseuntes.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Arte", "Transformación Social", "Jóvenes artistas", "Autodidactas", "Promoción", "Exposiciones", "Autogestión", "Apoyo"
+            ],
+            "categoria": [
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Galería Transeúntes es creada por el artista Sándor González en el año 2000, con el fin de promover su obra y la de otros artistas jóvenes, con especial énfasis en los autodidactas. Es un proyecto completamente autofinanciado, que ha realizado numerosas exposiciones de arte cubano en diversos espacios (galerísticos o no), en estrecha relación con la Academia de Bellas Artes San Alejandro y otros proyectos e instituciones.",
+            "geo": {
+                "lat": 23.082855,
+                "lon": -82.211901
+            },
+            "localizacion": {
+                "email":  "sil0116@cubarte.cult.cu",
+                "telefono": "+53 52647378",
+                "direccion": "Calle Habana No.203 Esq. Tejadillo. La Habana Vieja.La Habana"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/galeriatranseuntes/",
+                "instagram": "https://instagram.com/galeriatranseuntes",
+                "youtube": "https://www.youtube.com/channel/UC4eMyHoXrjlo4sujvior11Q",
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [{"nombre": "Sándor González Vilar"}],
+            "eventos": null
         }
         
          
