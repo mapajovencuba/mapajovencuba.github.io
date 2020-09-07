@@ -3101,7 +3101,33 @@
                 }
                 
             ],
-            "eventos": null
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                       "img": "11.png"
+                },
+               
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                       "img": "16.png"
+                }
+                
+         ]
         },
         "cubasolar": {
             "id": "cubasolar",
@@ -3150,17 +3176,24 @@
                     "nombre": "Dr. C. Luis Bérriz Pérez",
                     "email": "berriz@cubasolar.cu"
                 },
-                {
-                    "nombre": "Dr. C. José Antonio Guardado Chacón",
-                    "email": "guardado@cubasolar.cu"
-                },
-                {
-                    "nombre": "M. Sc. Madelaine Vázquez Gálvez",
-                    "email": "madelaine@cubasolar.cu"
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
                 }
                 
             ],
-            "eventos": null
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos.",
+                    "img": "6.png"
+                },
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                    "img": "5.png"
+                }
+                
+            ]
         },
         "acualina": {
             "id": "acualina",
