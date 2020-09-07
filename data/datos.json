@@ -3961,7 +3961,15 @@
                 "Flickr": null
             },
             "personas": [{"nombre": "Sándor González Vilar"}],
-            "eventos": null
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                    "img": "5.png"
+                }
+         ]
         },
         "guarida": {
             "id": "guarida",
