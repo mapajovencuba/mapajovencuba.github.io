@@ -3909,7 +3909,19 @@
                 "Flickr": null
             },
             "personas": [{"nombre": "Sándor González Vilar"}],
-            "eventos": null
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos.",
+                    "img": "6.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Conservar y utilizar en forma sostenible los océanos, los mares y los recursos marinos para el desarrollo sostenible.",
+                    "img": "14.png"
+                }
+                
+         ]
         },
         "gtranseuntes": {
             "id": "gtranseuntes",
