@@ -3557,7 +3557,28 @@
                     "email": "patricia@planmaestro.ohc.cu"
                 }
             ],
-            "eventos": null
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                
+                {"descripcion": "Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos.",
+                    "img": "6.png"
+                },
+                
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                       "img": "11.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }
+         ]
         },
         "casiguaguas": {
             "id": "casiguaguas",
