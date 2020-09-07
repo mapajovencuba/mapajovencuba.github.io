@@ -3373,7 +3373,13 @@
                     "email": null
                 }
             ],
-            "eventos": null
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                }
+         ]
         },
         "cieric": {
             "id": "cieric",
