@@ -3243,7 +3243,20 @@
                     "email": null
                 }
             ],
-            "eventos": null
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Conservar y utilizar en forma sostenible los océanos, los mares y los recursos marinos para el desarrollo sostenible.",
+                    "img": "14.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                       "img": "15.png"
+                }
+                
+         ]
         },
         "tungasuk": {
             "id": "tungasuk",
