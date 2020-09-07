@@ -2377,9 +2377,6 @@
             ],
             "eventos": null,
             "ods": [
-                {"descripcion": "Poner fin a la pobreza en todas sus formas en todo el mundo.",
-                    "img": "1.png"
-                },
                 {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
                  "img": "3.png"
                 },
@@ -2460,7 +2457,15 @@
                 }
                 
             ],
-            "eventos": null
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                }
+         ]
         },
         "citykleta": {
             "id": "citykleta",
