@@ -2757,7 +2757,18 @@
                 }
                 
             ],
-            "eventos": null
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                       "img": "16.png"
+                }
+         ]
         },
         "entimbalao": {
             "id": "entimbalao",
