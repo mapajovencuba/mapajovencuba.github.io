@@ -661,7 +661,7 @@ $.getJSON("data/cuba.geojson",
 				var t = '';
 				for(var i in e.ods){
 					t += '<div class="ods-item">';
-					t += '<span class="ods-name"><img src="img/odsicons/'+e.ods[i].img+'">'+e.ods[i].descripcion+' </span>';
+					t += '<span class="ods-name"><img src="img/odsicons/'+e.ods[i].img+'" style="float: left; margin: 0 0 1em 2em>'+e.ods[i].descripcion+' </span>'
 					/*if (e.ods[i].img!=null){
 						t += '<span class="ods-img"> <img src="img/odsicons/'+e.ods[i].img+'"></span>';
 							
