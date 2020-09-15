@@ -4241,6 +4241,64 @@
                     "img": "11.png"
                 }
             ]
+        },
+        "creperie": {
+            "id": "creperie",
+            "nombre": "Creperie Oasis Nelva",
+            "nombre-corto": "Creperie Oasis",
+            "logo": "logo-crepiere.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Alimentación", "Productos orgánicos", "Desarrollo sostenible", "Comunidad" 
+            ],
+            "categoria": [
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Una aventura, un emprendimiento que nace del pensamiento estratégico del Dr. Eusebio Leal que abrió la opción de arrendar locales a privados, trabajadores por cuenta propia. Nos permitió  diseñar y poner en marcha el proyecto Oasis Nelva hace ya siete años. Primero la tienda de jardinería integral, lugar donde casi todo es verde, después la Creperie. Se comercializan plantas ornamentales para exteriores e interiores, sustratos, biofertilizantes, abonos y arreglos con elementos naturales. “Se ofertan  servicios de posventa, que incluyen diseño, montaje, mantenimiento y reposición de plantas. La idea de trabajar y estimular los encadenamientos permite que la tienda se abastezca de la red nacional de viveros y huertos de la agricultura urbana y suburbana. Y que a la creperie  llegue todo desde una finca agroecológica con producciones orgánicas que nos permitan brindar un servicio sano responsable y de calidad. Se intenciona que todos  los que  trabajan dominen los principios básicos de la agroecología, de la producción orgánica y algunos elementos de la sustentabilidad urbana, de modo que resulte fluida y educativa la interacción con el cliente. Haber podido articular el negocio con las dinámicas locales y colaborar con los vecinos en todo lo que se pueda es parte de los resultados alcanzados. En la decoración de Oasis Nelva –incluyendo la tienda, el bar y la crepería– se intención   los elementos naturales,  los adornos son accesorios reciclados, porque ese concepto es parte de la cultura que queremos transmitir. Cuando hay actividades en las escuelas y los niños necesitan llevar plantas, se las vendemos a los padres en el menor precio posible y, en ocasiones, las regalamos. A los adultos mayores les compartimos nuestra experiencia y les guiamos en los que sueñan  Nos articulados con A+ y contribuimos en talleres y animación de sus actividades educativas.",
+            "geo": {
+                "lat": 23.080642,
+                "lon": -82.210796
+            },
+            "localizacion": {
+                "email":  "oasisnelva@gmail.com",
+                "telefono": "+5352939758",
+                "direccion": "Calle Habana, esquina Muralla. La Habana Vieja. Cuba."
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [{"nombre": "Carmen Monteagudo"}],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                    "img": "11.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                }
+               
+            ]
         }        
         
          
