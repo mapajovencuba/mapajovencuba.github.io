@@ -4184,6 +4184,63 @@
                     "img": "17.png"
                 }
             ]
+        },
+        "barriohabana": {
+            "id": "barriohabana",
+            "nombre": "Barrio Habana",
+            "nombre-corto": "Barrio Habana",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Alianzas",": público-privado", "arte-deporte", "niños-jóvenes-adultos-adultos mayores", 
+                "Creatividad", "imaginación", "fantasía y sentimientos", "Educación" 
+            ],
+            "categoria": [
+                
+
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "BarrioHabana es un proyecto sociocultural comunitario que persigue dentro de la Habana Vieja promover la alianza pública- privada para el mejor desarrollo de la comunidad creando para ello programas educativos, deportivos, culturales y ecológicos e intergeneracionales.            BarrioHabana is a sociocultural community project that promete the relationship between private and public Institucion to develop the community, to do that we make sports programs, cultural activities, Ecology actions and educational programs to combine every experience for all ages.",
+            "geo": {
+                "lat": 23.080072,
+                "lon": -82.211634
+            },
+            "localizacion": {
+                "email":  "barriohabana.org@gmail.com",
+                "telefono": "+5353570223",
+                "direccion": "Calle sol 420 entre Villegas y Aguacate, Habana Vieja"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [{"nombre": "Paola Larghi"}],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Reducir la desigualdad en y entre los países.",
+                    "img": "10.png"
+                },
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                    "img": "11.png"
+                }
+            ]
         }        
         
          
