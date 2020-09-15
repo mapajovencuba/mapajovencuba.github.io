@@ -4101,8 +4101,89 @@
                 {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
                     "img": "17.png"
                 }
-                
-         ]
+            ]
+        },
+        "cisp": {
+            "id": "cisp",
+            "nombre": "Comitato Internazionale per lo Sviluppo dei Popoli",
+            "nombre-corto": "CISP",
+            "logo": "logo-cisp.png",
+            "tipo": "por",
+            "alcance": "Internacional",
+            "organizacion": "organización",
+            
+            "keywords": [
+                "Equidad Social", "Transformación Social", "Inclusión", "Justicia Ambiental", "Justicia Social"
+            ],
+            "categoria": [
+                "Food Safety", "Education and Training", "Climate Change", "Water", "Accessibility", "Gender Equality", "Human Rights",
+                "Social Inclusion", "Social Justice", "Youth", "Health care", "Solidarity", "Enviroment", "Urban Development"
+
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": "Vedado",
+            "web": null,
+            "descripcion": "El CISP es una organización no gubernamental constituida en 1983 en Italia, con sede en Roma y que opera en más de 30 países de todos los continentes. Su misión es contribuir, en el espíritu de las grandes asociaciones internacionales de solidaridad y cooperación, a la realización de las condiciones concretas para el desarrollo y la autodeterminación de los pueblos, para la difusión y el respeto a los derechos humanos, para la satisfacción de las necesidades básicas de la persona y para luchar contra la exclusión social.",
+            "geo": {
+                "lat": 23.061644,
+                "lon": -82.243056
+            },
+            "localizacion": {
+                "email":  "larghi@cisp-ngo.org",
+                "telefono": "+53 52853744",
+                "fax": "(+39) 06 321 61 63",
+                "direccion": "Calle Rizo y Final, Castillo de los Jardines de la Tropical"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/CISP.sviluppodeipopoli/",
+                "instagram": "https://instagram.com/cispalc?igshid=kued9qzzmv4n",
+                "youtube": "https://www.youtube.com/user/CISPorg",
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [{"nombre": "Paola Larghi"}],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin a la pobreza en todas sus formas en todo el mundo.",
+                    "img": "1.png"
+                },
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                    "img": "5.png"
+                },
+                {"descripcion": "Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos.",
+                    "img": "6.png"
+                },
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                {"descripcion": "Reducir la desigualdad en y entre los países.",
+                    "img": "10.png"
+                },
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                    "img": "11.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                    "img": "16.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }
+            ]
         }        
         
          
