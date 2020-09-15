@@ -4034,7 +4034,76 @@
                        "img": "15.png"
                 }
                     ]
-        }
+        },
+        "acpa": {
+            "id": "acpa",
+            "nombre": "Asociación Cubana de Producción Animal",
+            "nombre-corto": "ACPA",
+            "logo": "logo-acpa.gif",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Producción Animal", "Seguridad Alimentaria", "Desarrollo rural", "Investigación"
+            ],
+            "categoria": [
+                "Access to knowledge", "Food", "Research", "Environment", "Food and Agriculture",
+                "Agriculture and Social Development", "Food Safety", "Food System" 
+
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": "Vedado",
+            "web": null,
+            "descripcion": "La Asociación Cubana de Producción Animal (ACPA) es una organización creada en 1974, que agrupa a los productores, criadores, investigadores y profesores relacionados con la producción e industria animal. Tiene el objetivo de contribuir, con sus acciones, experiencias y recursos, al desarrollo humano y técnico-productivo sostenible en esta esfera. Propicia el continuo mejoramiento a través de la capacitación, transferencia de tecnologías y comunicación que satisface las necesidades de los interesados.",
+            "geo": {
+                "lat": 23.07506,
+                "lon": -82.240598
+            },
+            "localizacion": {
+                "email":  null,
+                "telefono": "(07) 833 7802",
+                "direccion": "Calle 10 No. 351, e/ 15 y 17, Vedado, La Habana, Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [{"nombre": "Aurelia Castellanos"}],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación.",
+                    "img": "9.png"
+                },             
+               
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                       "img": "15.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }
+                
+         ]
+        }        
         
          
     }
