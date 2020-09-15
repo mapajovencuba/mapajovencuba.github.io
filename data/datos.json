@@ -4363,11 +4363,59 @@
                 {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
                  "img": "17.png"
                 }
-   
-               
             ]
-        }        
-        
-         
+        },
+        "fincamarta": {
+            "id": "fincamarta",
+            "nombre": "Finca Marta",
+            "nombre-corto": "Finca Marta",
+            "logo": "logo-fincamarta.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Agrocología", "Agricultura", "Desarrollo sostenible", "Sistemas agrolimentarios", "Alimentación"
+            ],
+            "categoria": [
+            ],
+            "provincia": "art",
+            "municipio": "Caimito",
+            "consejo_popular": "La Coronela",
+            "web": "www.fincamarta.com",
+            "descripcion": "Finca Marta es un proyecto agroecológico familiar que combina la práctica con el conocimiento científico para contribuir a la transformación del sistema agroalimentario cubano desde una experiencia local. Dedicado a la memoria de Marta Monzote Fernández (1947-2007), se inició en diciembre de 2011 en una finca de ocho hectáreas, en el municipio Caimito, provincia Artemisa, Cuba. Finca Marta intenta aplicar los principios y fundamentos de la agroecología a un proceso socioeconómico y a un entorno geográfico concretos para diseñar, de manera participativa, estrategias de vida próspera y sustentable en el campo. Nos dedicamos a la horticultura, la apicultura, la ganadería vacuna y equina, la fruticultura y el agroturismo. Finca Marta es un sistema de Producción, Procesamiento, Comercialización y Consumo que se conecta con diversos segmentos de mercado y explora la incorporación de nuevas tecnologías e infraestructuras para su modernización. El diseño agroecológico ha permitido amortiguar las adversas condiciones de suelo y clima predominantes, al tiempo que ha valorizado de manera eficiente los recursos disponibles. El proyecto está liderado por Fernando Rafael Funes Monzote, ingeniero agrónomo y doctor en ecología de la producción y conservación de recursos que, luego de dedicarse por más de 20 años a la investigación y la docencia, decidió emprender el camino de la agroecología en la práctica. Un equipo de más de treinta personas labora en el proyecto Finca Marta, que se ha extendido en el territorio, al desarrollar actividades productivas, educativas e investigativas más allá de sus predios. Hemos logrado un ambiente cooperativo, socialmente inclusivo, económicamente viable y ecológicamente sensible en el que cada cual aporta sus conocimientos, experiencia y mucho trabajo.",
+            "geo": {
+                "lat": 22.980285, 
+                "lon": -82.624711
+            },
+            "localizacion": {
+                "email":  "info@fincamarta.com",
+                "telefono": null,
+                "direccion": "La coronela, Caimito, Provincia Artemisa, Cuba."
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [{"nombre": "Fernando Rafael Funes Monzote"}],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                    "img": "3.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                }
+                
+            ]
+        }                
     }
 }
