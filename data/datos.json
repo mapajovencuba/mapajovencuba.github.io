@@ -4460,7 +4460,62 @@
             "ods": [
                 {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
                     "img": "11.png"
-                }               
+                },
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                    "img": "11.png"
+                }                
+            ]
+        },
+        "mnba": {
+            "id": "mnba",
+            "nombre": "Museo Nacional de Bellas Artes, Cuba",
+            "nombre-corto": "MNBA",
+            "logo": "logo-mnba.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Arte", "Educación", "Cultura", "Patrimonio" 
+            ],
+            "categoria": [
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "El Museo Nacional de Bellas Artes (MNBA, Cuba) es una institución de carácter público, sin fines de lucro, al servicio de la sociedad y de su desarrollo. Sus colecciones de arte internacional y cubano figuran entre las mayores de pintura y escultura de América Latina y las más grandes del Caribe insular. Su misión consiste en conservar, estudiar, adquirir, y comunicar, con propósitos de educación y deleite, el patrimonio artístico nacional e internacional.",
+            "geo": {
+                "lat": 23.082348,
+                "lon": -82.212602
+            },
+            "localizacion": {
+                "email":  "henry@bellasartes.co.cu, laurita@bellasartes.co.cu",
+                "telefono": null,
+                "direccion": "Calle Trocadero entre Zulueta y Monserrate, Habana Vieja, Cuba. CP: 10100."
+            },
+            "social": {
+
+                "twitter": "http://twitter.com/bellasartescuba",
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Henry Vidal Delgado"},
+                {"nombre": "Laura Arañó Arencibia"}
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                }
+               
             ]
         }                
     }
