@@ -4666,6 +4666,72 @@
                 {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
                     "img": "17.png"
                 }            ]
+        },
+        "pma": {
+            "id": "pma",
+            "nombre": "Programa Mundial de Alimentos (PMA)",
+            "nombre-corto": "PMA",
+            "logo": "logo-pma.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "programa",
+            
+            "keywords": [
+                "Alimentación", "Seguridad Alimentaria", "Nutrición", "Desarrollo Social" 
+            ],
+            "categoria": [
+                "Food", "Food and Agriculture", "Agriculture and Social Development", 
+                "Food Safety", "Food System", "Solidarity" 
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Miramar",
+            "web": "www.wfp.org/countries/cuba",
+            "descripcion": "La misión del PMA es salvar vidas, crear medios de subsistencia y mejorar la nutrición, seguridad alimentaria y autosuficiencia de las personas más pobres y más vulnerables del mundo. El objetivo final es lograr el Hambre Cero, para lo cual contribuye a que el tema de la lucha contra el hambre y la desnutrición esté en el centro de las preocupaciones de la comunidad internacional.",
+            "geo": {
+                "lat": 23.115382,
+                "lon": -82.425003
+            },
+            "localizacion": {
+                "email":  "wfp.havana@wfp.org",
+                "telefono": "(+537) 204 2039",
+                "direccion": "Calle 36 No. 724 e/ 7ma y 17, Miramar, Playa, La Habana, Cuba."
+            },
+            "social": {
+
+                "twitter": "https://mobile.twitter.com/wfp_cuba?lang=es",
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Yursis Miranda Rodríguez",
+                 "email": null   
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin a la pobreza en todas sus formas en todo el mundo.",
+                    "img": "1.png"
+                },
+                {"descripcion": "  Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                   },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }            
+            ]
         }                
     }
 }
