@@ -5007,6 +5007,69 @@
              }
                 
          ]
+        },
+        "fondaalpirata": {
+            "id": "fondaalpirata",
+            "nombre": "Fonda al Pirata",
+            "nombre-corto": "Fonda al Pirata",
+            "logo": "logo-fondoalpirata.jpg",
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Gastronomía", "Alimentación saludable", "Negocio Local", "Restaurante"
+            ],
+            "categoria": [
+                "Creativity", "Food", "Enterprise and Economics", "Profit", 
+                "Business", "Small business networking"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "La Fonda Al Pirata es un restaurante ubicado en el corazón de La Habana Vieja que sirve deliciosas comidas saludables y tiene muchas opciones de inspiración cubana para veganos y vegetarianos. Este espacio de aspecto hipster ofrece frutas y vegetales frescos de gran calidad . En Al Pirata también se realizan pequeños conciertos y otras actividades culturales.",
+            "geo": {
+                "lat": 23.140321,
+                "lon": -82.351744
+            },
+            "localizacion": {
+                "email": "alpiratasanignacio@gmail.com",
+                "telefono": "(05) 2539750",
+                "direccion": "San Ignacio No. 76 entre O'reilly y Callejón del Chorro. La Habana Vieja, La Habana, Cuba 10100"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/ALPIRATA1/",
+                "instagram": "https://instagram.com/fondaalpirata?igshid=t9okmxeoztvw",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Reynier del Río"
+                    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+               
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                }
+               
+         ]
         }                 
     }
 }
