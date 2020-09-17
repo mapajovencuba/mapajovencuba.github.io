@@ -4867,6 +4867,76 @@
                     "img": "15.png"
                 }            
             ]
+        },
+        "vistahermosa": {
+            "id": "vistahermosa",
+            "nombre": "Finca Vista Hermosa",
+            "nombre-corto": "Finca Vista Hermosa",
+            "logo": "logo-vhermosa.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Agricultura", "Agroecología", "Sostenibilidad", "Desarrollo agrícola", "Medio Ambiente"
+            ],
+            "categoria": [
+               " Food", "Environment", "Food and Agriculture", "Agriculture and Social Development",
+                "Land Use", "Food Safety", "Food System", "Sustainable Lifestyles"
+            ],
+            "provincia": "lha",
+            "municipio": "Guanabacoa",
+            "consejo_popular": "Bacuranao",
+            "web": null,
+            "descripcion": "La finca agroecológica Vista Hermosa está ubicada en Bacuranao, Guanabacoa. Cuenta con 67 hectáreas dedicadas a las producciones agrícolas y ganaderas en un ciclo cerrado que va desde la siembra de alimento para los animales, hasta la producción de alimentos artesanales y el servicio gastronómico.",
+            "geo": {
+                "lat": 23.108032, 
+                "lon": -82.197802
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "+53 5 2854898",
+                "direccion": "Camino La Esperanza S/N. Bacuranao, Havana, Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/finca.vistahermosahavana/",
+                "instagram": "https://instagram.com/finca.vistahermosahavana?igshid=1bjzkzrsogssm",
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Raúl Relova",
+                    "email": null
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                       "img": "15.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+             }
+                
+         ]
         }                 
     }
 }
