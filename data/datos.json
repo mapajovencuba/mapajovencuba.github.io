@@ -4732,6 +4732,74 @@
                     "img": "17.png"
                 }            
             ]
-        }                
+        },
+        "indiohatuey": {
+            "id": "indiohatuey",
+            "nombre": "Estación Experimental de Pastos y Forrajes Indio Hatuey",
+            "nombre-corto": "Indio Hatuey",
+            "logo": "logo-indiohatuey.png",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Investigación", "Agricultura", "Agroecología", "Medio Ambiente" 
+            ],
+            "categoria": [
+                "Access to knowledge", "Food", "Education for Sustainable Development",
+                "Research", "Environment", "Climate change", "Eco-innovation", "Land Use",
+                "Agriculture and Social Development"
+            ],
+            "provincia": "mat",
+            "municipio": "Perico",
+            "consejo_popular": "Central España Republicana",
+            "web": "www.ihatuey.cu",
+            "descripcion": "La Estación Experimental de Pastos y Forrajes Indio Hatuey se inauguró en 1962, convirtiéndose así en la primera institución científica dedicada a la investigación agropecuaria en Cuba. Está adscrita a la Universidad de Matanzas y dispone de un prestigioso equipo de investigadores. En la actualidad, este centro constituye un laboratorio de sistemas agroecológicos y modelos agrícolas de bajo impacto ambiental, que ayudan a mitigar el cambio climático.",
+            "geo": {
+                "lat": 22.770234,
+                "lon": -81.015065
+            },
+            "localizacion": {
+                "email":  "indio@ihatuey.cu",
+                "telefono": "+53 45 571235 ",
+                "direccion": "Central España Republicana, CP 44280, Perico, Matanzas, Cuba."
+            },
+            "social": {
+
+                "twitter": "https://mobile.twitter.com/EE_IndioHatuey",
+                "facebook": "https://www.facebook.com/IndioHatuey/",
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Yuvan Contino",
+                 "email": null   
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "  Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                   },
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                 "img": "4.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+                }            
+            ]
+        }                 
     }
 }
