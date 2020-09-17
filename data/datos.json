@@ -4800,6 +4800,73 @@
                     "img": "15.png"
                 }            
             ]
+        },
+        "inifat": {
+            "id": "inifat",
+            "nombre": "Instituto de Investigaciones Fundamentales de la Agricultura Tropical ``Alejandro Humboldt´´ (INIFAT)",
+            "nombre-corto": "INIFAT",
+            "logo": "logo-inifat.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "organizacion",
+            
+            "keywords": [
+                "Agricultura", "Desarrollo Sostenible", "Agroecología", "Medio Ambiente", "Investigación"
+            ],
+            "categoria": [
+                "Access to knowledge", "Food", "Education for Sustainable Development", "Research", "Environment", 
+                "Climate change", "Eco-innovation", "Land Use", "Agriculture and Social Development"
+            ],
+            "provincia": "lha",
+            "municipio": "Boyeros",
+            "consejo_popular": "Santiago de las Vegas",
+            "web": null,
+            "descripcion": "INIFAT es una organización reconocida nacional e internacionalmente por su contribución al desarrollo de la agricultura urbana, suburbana y familiar, el desarrollo de la genética vegetal y la conservación y manejo de los recursos fitogenéticos, incluyendo los microorganismos. Tiene la misión de contribuir al fortalecimiento y el desarrollo sustentable de la agricultura, mediante la gestión de conocimientos, productos y servicios cientítico-técnicos sobre bases agroecológicas.",
+            "geo": {
+                "lat": 22.973832,
+                "lon": -82.386265
+            },
+            "localizacion": {
+                "email":  "dirgeneral@inifat.co.cu",
+                "telefono": "+53 7 6834039",
+                "direccion": "Calle 1 esq. 2, Santiago de las Vegas, Boyeros, La Habana, Cuba."
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Yanisbell Sánchez Rodríguez (General Director)",
+                 "email": null   
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "  Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                   },
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                 "img": "4.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+                }            
+            ]
         }                 
     }
 }
