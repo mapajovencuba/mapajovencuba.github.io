@@ -4517,6 +4517,78 @@
                 }
                
             ]
+        },
+        "ramaviva": {
+            "id": "ramaviva",
+            "nombre": "Ramaviva",
+            "nombre-corto": "Ramaviva",
+            "logo": "logo-ramaviva.png",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Permacultura", "Agricultura", "Agroecología", "Educación", "Ecoaldea", "Desarrollo local"
+            ],
+            "categoria": [
+            ],
+            "provincia": "pr",
+            "municipio": "La Palma",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Ramaviva nace en 2016 con la idea de crear un sistema demostrativo de permacultura, pero luego sus objetivos se expanden y hoy es un espacio que combina enseñanza, prácticas profesionales universitarias, permacultura y muchos otros temas, con el deseo de que se convierta en una escuela de permacultura de carácter nacional, en colaboración con la Fundación Antonio Núñez Jiménez.",
+            "geo": {
+                "lat": 22.451479,
+                "lon": -83.232117
+            },
+            "localizacion": {
+                "email":  "ramavivaadz@gmail.com",
+                "telefono": null,
+                "direccion": "Cordillera de Guaniguanico, Sierra del Rosario, Área Protegida de Recursos Manejados, Mil Cumbres, a 1 kilómetro de Las Catalinas, cerca de la hidroeléctrica, Municipio La Palma."
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Claudia Amaro",
+                 "telefono": "55100557"   
+                },
+                {"nombre": "Abel Durán",
+                 "telefono": "54817292"
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Garantizar la disponibilidad de agua y su gestión sostenible y el saneamiento para todos.",
+                    "img": "6.png"
+                },
+                
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                    "img": "11.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                       "img": "15.png"
+                }    
+               
+            ]
         }                
     }
 }
