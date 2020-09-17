@@ -4589,6 +4589,83 @@
                 }    
                
             ]
+        },
+        "unicef": {
+            "id": "unicef",
+            "nombre": "UNICEF Cuba",
+            "nombre-corto": "UNICEF",
+            "logo": "logo-ramaviva.png",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "organizacion",
+            
+            "keywords": [
+                "ONG", "Educación", "Infancia", "Juventud", "Desarrollo Social"
+            ],
+            "categoria": [
+                "Cultural Diversity",  "Inclusive Education", "Open educational resources",
+                "School Education", "Accessibility", "Gender Equality", "Human rights",
+                "Humanitarian Emergency", "Youth", "Education", "Health care" 
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Nautico",
+            "web": "www.unicef.org/cuba",
+            "descripcion": "UNICEF trabaja para garantizar el cumplimiento de los derechos de la infancia en un entorno de seguridad, cuidado, participación y protección. La organización colabora con las instituciones nacionales para garantizar los derechos de la igualdad y oportunidades de desarrollo de niños, niñas y adolescentes y para fortalecer una cultura de derechos y participación.",
+            "geo": {
+                "lat": 23.094738,
+                "lon": -82.460585
+            },
+            "localizacion": {
+                "email":  "havana@unicef.org",
+                "telefono": "(07) 2086094",
+                "direccion": "Calle 1era B No. 15802, esquina a 158, Reparto Náutico, Playa, La Habana, Cuba 11300."
+            },
+            "social": {
+
+                "twitter": "https://twitter.com/UNICEFCuba",
+                "facebook": "https://m.facebook.com/UNICEFCuba/",
+                "instagram": "https://instagram.com/unicefcuba?igshid=176s6rmo2mfaf",
+                "youtube": "https://www.youtube.com/channel/UCjixYfeM5dT511Zs1HxHbDA",
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Dagoberto Rivera (Coordinador de Programas)",
+                 "email": "drivera@unicef.org"   
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin a la pobreza en todas sus formas en todo el mundo.",
+                    "img": "1.png"
+                },
+                {"descripcion": "  Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                   },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                    "img": "5.png"
+                },
+                {"descripcion": "Garantizar el acceso a la energía asequible, segura, sostenible y moderna para todos.",
+                    "img": "7.png"
+                },
+                
+                {"descripcion": "Reducir la desigualdad en y entre los países.",
+                    "img": "10.png"
+                },
+               
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                       "img": "16.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }            ]
         }                
     }
 }
