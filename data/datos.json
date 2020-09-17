@@ -4937,6 +4937,76 @@
              }
                 
          ]
+        },
+        "fdelmedio": {
+            "id": "fdelmedio",
+            "nombre": "Finca del Medio",
+            "nombre-corto": "Finca del Medio",
+            "logo": "logo-fincadelmedio.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Agricultura", "Agroecología", "Sostenibilidad", "Desarrollo agrícola", "Medio Ambiente"
+            ],
+            "categoria": [
+               " Food", "Environment", "Food and Agriculture", "Agriculture and Social Development",
+                "Land Use", "Food Safety", "Food System", "Sustainable Lifestyles"
+            ],
+            "provincia": "ss",
+            "municipio": "Sancti Spiritus",
+            "consejo_popular": "Siguaney",
+            "web": null,
+            "descripcion": "Finca del Medio es una finca familiar con un sistema agroecológico de permacultura. La finca fue establecida en 1993 y desde entonces ha participado en cientos de eventos nacionales e internacionales. Los trabajadores tienen una idea general de los problemas y una cultura muy sólida sobre la coexistencia con la naturaleza en suelos degradados, abandonados por su esterilidad. Desde 2001 se han cambiado completamente a una agricultura sin químicos, que resume, en Finca del Medio, los principios de agroecoloía, permacultura, slow food, conservación de los suelos y todo modelo que defienda la pequeña finca familiar.",
+            "geo": {
+                "lat": 22.0187430, 
+                "lon": -79.3030950
+            },
+            "localizacion": {
+                "email": "leidy7580@gmail.com",
+                "telefono": "(05) 2408610",
+                "direccion": "Km 349 Autopista Nacional, Siguaney, Sancti Spiritus, Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/FincaDelMedio/",
+                "instagram": "https://m.youtube.com/channel/UCyaSEkOQuE-hnPtBuwml2jQ",
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Leidy Casimiro",
+                    "email": null
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                       "img": "15.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+             }
+                
+         ]
         }                 
     }
 }
