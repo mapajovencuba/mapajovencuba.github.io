@@ -4416,6 +4416,52 @@
                 }
                 
             ]
+        },
+        "mibarrio": {
+            "id": "mibarrio",
+            "nombre": "Mi Barrio Sueña. Oficina de Gestión",
+            "nombre-corto": "Mi Barrio Sueña ",
+            "logo": "logo-mibarriosuenna.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Gestión", "Innovación", "Calidad", "Diseño", "Negocio", "Planificación",
+                "Ideas", "Desarrollo", "Administración", "Estrategia", "Crecimiento", "Oportunidad"
+            ],
+            "categoria": [
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Buena Vista",
+            "web": null,
+            "descripcion": "Oficina de Gestión es una plataforma integrada por profesionales de diversos perfiles, comprometidos con el desarrollo de diversas ideas para el beneficio de la comunidad. Con la innovación como premisa nuestro objetivo es la gestión de proyectos novedosos, traducido en la aplicación de conocimientos,  técnicas, habilidades y herramientas que satisfagan los requisitos de implementación de todo emprendimiento enmarcado dentro de nuestros valores y principios con el objetivo de lograr un impacto positivo en la calidad de vida de las personas.",
+            "geo": {
+                "lat":  23.09512, 
+                "lon": -82.42399
+            },
+            "localizacion": {
+                "email":  null,
+                "telefono": "53542443",
+                "direccion": "Calle 74 #29C05 / 29C Y 29E apto F, Buenavista, Playa. La Habana"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [{"nombre": "Edgar Carlos Herrera González"}],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                    "img": "11.png"
+                }               
+            ]
         }                
     }
 }
