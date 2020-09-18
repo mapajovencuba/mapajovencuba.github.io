@@ -5070,6 +5070,62 @@
                 }
                
          ]
+        },
+        "espacios": {
+            "id": "espacios",
+            "nombre": "Proyecto Espacios",
+            "nombre-corto": "Espacios",
+            "logo": "logo-gespacios.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Arquitectura", "Arte", "Cultura", "Desarrollo Urbano", "Diseño"
+            ],
+            "categoria": [
+                "Cultural System", "Architecture", "Design", "Graphics and Crafts",
+                "Architecture and Design", "Urban Development", "Urban Renewal", "Smart cities"
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": "Vedado",
+            "web": "www.proyectoespacios.com",
+            "descripcion": "Proyecto Espacios fue fundado en La Habana, en 1998, por la arquitecta Vilma Bartolomé. Ha sido y es, un estudio donde la arquitectura, el diseño y el arte se fusionan para ofrecer, desde la perspectiva de la cultura, una renovada mirada sobre la ciudad, sus espacios y sus objetos. Actualmente es un grupo independiente con 21 años de experiencia en proyectos de arquitectura, diseño de interiores, diseño de mobiliario y asesoría técnica. Cuenta en la actualidad con tres sedes: un estudio de arquitectura y diseño, Croquis, que es el alma creativa; la Factoria, donde se producen los diseños proyectados; y Lab. 26 como su sede comercial y galería.",
+            "geo": {
+                "lat": 23.140321,
+                "lon": -82.351744
+            },
+            "localizacion": {
+                "email": "espacios@cubarte.cult.cu, lab26@proyectoespacios.com",
+                "telefono": "(07) 8324441",
+                "direccion": "Calle 26 entre Calle 19 y Calle 21, Vedado, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": " https://www.facebook.com/proyectoespacioscuba/",
+                "instagram": "https://instagram.com/proyectoespacioscu?igshid=1pwysrx2m7d24",
+                "youtube": "https://www.youtube.com/c/ProyectoEspacios"
+            },
+            "personas": [
+                {
+                    "nombre": "Mavis de la Colina"
+                    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                                
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                    "img": "11.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                }
+               
+         ]
         }                 
     }
 }
