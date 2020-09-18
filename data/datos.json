@@ -5126,6 +5126,70 @@
                 }
                
          ]
+        },
+        "mnhn": {
+            "id": "mnhn",
+            "nombre": "Museo Nacional de Historia Natural de Cuba",
+            "nombre-corto": "MNHN",
+            "logo": "logo-mhn.png",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "institucion",
+            
+            "keywords": [
+                "Museo", "Ecología", "Medio Ambiente", "Ciencia", "Biodiversidad", "Investigación", "Naturaleza"
+            ],
+            "categoria": [
+                "Access to knowledge", "Cultural System", "Museums", "Research", "Ecoliteracy", "Environment", "Biodiversity",
+                "Water and Marine", "Documentations and Archives", "Education"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": "www.mnhnc.inf.cu",
+            "descripcion": "El Museo Nacional de Historia Natural de Cuba es una institución científico-cultural, especializada en la historia natural que genera colecciones de estos perfiles, las estudia, y socializa principalmente a través de exhibiciones. El museo tiene como misión esencial colectar, investigar, conservar y exhibir objetos naturales para promover el conocimiento científico y cultural de la naturaleza.",
+            "geo": {
+                "lat": 23.140021,
+                "lon": -82.349294
+            },
+            "localizacion": {
+                "email":  "museo@mnhnc.inf.cu",
+                "telefono": "7801 2370 (Recepción), 7801 1353 (Dirección)",
+                "direccion": "Calle Obispo 61, esquina a Oficios, Plaza de Armas, Habana Vieja, La Habana, Cuba."
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://m.facebook.com/museoxdentro/",
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Marcel Montano", "email": "marcel@mnhnc.inf.cu"}
+               
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Conservar y utilizar en forma sostenible los océanos, los mares y los recursos marinos para el desarrollo sostenible.",
+                    "img": "14.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+                }
+               
+            ]
         }                 
     }
+    
 }
