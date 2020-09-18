@@ -5189,6 +5189,67 @@
                 }
                
             ]
+        },
+        "mapri": {
+            "id": "mapri",
+            "nombre": "MAPRI + Farmacia",
+            "nombre-corto": "MAPRI",
+            "logo": "logo-mapri.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Arte", "Cultura", "Educación", "Desarrollo Social"
+            ],
+            "categoria": [
+                "Access to knowledge", "Cultural System", "Museums", 
+                "Education", "Open educational resources", "Community", 
+                "Socially engaged art"
+            ],
+            "provincia": "pr",
+            "municipio": "Pinar del Río",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Farmacia es un taller de creación desarrollado por el Museo de Arte de Pinar del Río (MAPRI), destinado a la apreciación y creación de obras de arte desde una visión contemporánea. El taller se centra en el estudio y profundización de temas que giran alrededor de la antropología simbólica, psicología analítica, literatura, teoría crítica, audiovisual, curaduría, museografía y arte cubano contemporáneo, en relación con la Historia del Arte Universal y los procesos creativos.",
+            "geo": {
+                "lat": 22.414250,
+                "lon": -83.687713
+            },
+            "localizacion": {
+                "email":  "mapri@pinarte.cult.cu",
+                "telefono": "+53 48 774671",
+                "direccion": "Calle Martí No. 9, Pinar del Río, Cuba 20100."
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://m.facebook.com/Museo-de-Arte-Pinar-del-R%C3%ADoMAPRI-1500248536936249/",
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Juan Carlos Rodríguez Valdés", "email": "jcrodriguez@pinarte.cult.cu"}
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                
+                {"descripcion": "Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                    "img": "16.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }
+               
+            ]
         }                 
     }
     
