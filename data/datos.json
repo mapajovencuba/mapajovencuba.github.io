@@ -5312,6 +5312,68 @@
                }
                
             ]
+        },
+        "valonia": {
+            "id": "valonia",
+            "nombre": "Vitrina de Valonia",
+            "nombre-corto": "Vitrina",
+            "logo": "logo-valonia.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Cultura", "Arte", "Museo", "Educación", "Diálogo Intercultural", "Cómic"
+            ],
+            "categoria": [
+                "Access to knowledge", "Archives", "Cultural System", "Design", "Graphics and Crafts",
+                "Intercultural Dialogue", "Landscape and Cultural Heritage", "Museums", "Education",
+                "Public Events and Festivals", "Identity"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "La Vitrina de Valonia es un centro cultural dedicado al cómic y la cultura belga. Fue establecida en 2006 como casa-museo y desde entonces trabaja en el fortalecimiento de las relaciones entre Bélgica y Cuba. Tiene una activa participación en la celebración de la Semana de la Francofonía y en la Semana de la Cultura Belga en La Habana, y desarrolla varias investigaciones sobre la presencia belga en la Isla y la cultura cubana en Bélgica. La institución propone un amplio programa de actividades socioculturales como seminarios, conferencias. exposiciones, intercambios, talleres y proyecciones de filmes.",
+            "geo": {
+                "lat": 23.136225,
+                "lon": -82.3503791
+                
+            },
+            "localizacion": {
+                "email":  "valonia@patrimonio.ohc.cu",
+                "telefono": "(07) 869 7369",
+                "direccion": "San Ignacio No.356 entre Muralla y Teniente Rey. Plaza Vieja, La Habana, Cuba 10500"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/vitrinadevaloniahabana/",
+                "instagram": "https://instagram.com/vitrinadevalonia?igshid=p7y6chya65bt",
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Lysbeth Dumont"}
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                
+                {"descripcion": "Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                    "img": "16.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }
+               
+            ]
         }                 
     }
     
