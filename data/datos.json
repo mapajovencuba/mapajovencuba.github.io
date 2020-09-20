@@ -5374,7 +5374,81 @@
                 }
                
             ]
-        }                 
+        },
+        "centroA": {
+            "id": "centroA",
+            "nombre": "Centro A+ Espacios Adolescentes",
+            "nombre-corto": "Centro A",
+            "logo": "logo-centroA.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Educación", "Arte", "Cultura", "Juventud", "Inclusión social", "Equidad"
+            ],
+            "categoria": [
+                "Access to knowledge", "Cultural System", "Creativity", "Education", 
+                "Education for sustainable developmen", "Inclusive education", 
+                "Vocational training", "Community", "Gender Equality", 
+                "Youth", "Social Inclusion", "Socially engaged art"
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Centro A+ Espacios Adolescentes es una iniciativa financiada por la Unión Europea e implementada de conjunto por UNICEF Cuba y la Oficina del Historiador de la Ciudad de La Habana. Son una institución cultural que tiene como propósito contribuir a una mayor inclusión social y participativa de los(as) adolescentes y apoyar el desarrollo de sus potencialidades, con un enfoque de género, derechos y equidad. Centro A+ ofrece talleres temáticos, espacios de estudio, consejería especializada, presentaciones artísticas y recorridos y visitas dirigidas por el centro histórico.",
+            "geo": {
+                "lat": 23.1355547,
+                "lon": -82.3541764
+                
+                
+            },
+            "localizacion": {
+                "email":  "centroadolescente@patrimonio.ohc.cu",
+                "telefono": "(07) 869 7395",
+                "direccion": "Compostela entre Teniente Rey y Muralla, La Habana, Cuba 10100"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/centroadolescentescuba/",
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Yoylán Cabrales"}
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                    "img": "3.png"
+                   },
+                   {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                       "img": "4.png"
+                   },
+                   
+                   {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                    "img": "5.png"
+                },
+               
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                    "img": "11.png"
+                },
+                {"descripcion": "Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                    "img": "16.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }
+               
+            ]
+        }                    
     }
     
 }
