@@ -5400,9 +5400,7 @@
             "descripcion": "Centro A+ Espacios Adolescentes es una iniciativa financiada por la Unión Europea e implementada de conjunto por UNICEF Cuba y la Oficina del Historiador de la Ciudad de La Habana. Son una institución cultural que tiene como propósito contribuir a una mayor inclusión social y participativa de los(as) adolescentes y apoyar el desarrollo de sus potencialidades, con un enfoque de género, derechos y equidad. Centro A+ ofrece talleres temáticos, espacios de estudio, consejería especializada, presentaciones artísticas y recorridos y visitas dirigidas por el centro histórico.",
             "geo": {
                 "lat": 23.1355547,
-                "lon": -82.3541764
-                
-                
+                "lon": -82.3541764  
             },
             "localizacion": {
                 "email":  "centroadolescente@patrimonio.ohc.cu",
@@ -5434,6 +5432,85 @@
                     "img": "5.png"
                 },
                
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                    "img": "11.png"
+                },
+                {"descripcion": "Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                    "img": "16.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }
+               
+            ]
+        },
+        "cips": {
+            "id": "cips",
+            "nombre": "Centro de Investigaciones Psicológicas y Sociológicas (CIPS)",
+            "nombre-corto": "CIPS",
+            "logo": "logo-cips.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "organizacion",
+            
+            "keywords": [
+                "Psicología", "Sociología", "Investigación", "Transformación Social", "Desarrollo Social"
+            ],
+            "categoria": [
+                "Access to knowledge", "Research", "Education", "Social Inclusion", "Social Justice", 
+                "Documentation and archives"
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": "Vedado",
+            "web": "www.cips.cu",
+            "descripcion": "El Centro de Investigaciones Psicológicas y Sociológicas (CIPS) es una institución creada en 1983 y pertenece al Ministerio de Ciencia, Tecnología y Medio Ambiente de Cuba. Se dedica a la investigación de los problemas sociales de la sociedad cubana orientada hacia la transformación social. Realiza diagnóstcos, evaluaciones, proyecciones y propuestas para el desarrollo de procesos, las relaciones sociales y la subjetividad humana.",
+            "geo": {
+                "lat": 23.1359298,
+                "lon": -82.397749  
+            },
+            "localizacion": {
+                "email":  "cips@cips.cu",
+                "telefono": "(07) 830 1451, (07) 833 7787",
+                "direccion": "Calle B No. 352 Esq 15, Vedado, La Habana, Cuba."
+            },
+            "social": {
+
+                "twitter": "https://mobile.twitter.com/CIPSCuba",
+                "facebook": "https://m.facebook.com/cips.cuba/",
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Ovidio d´Angelo"}
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin a la pobreza en todas sus formas en todo el mundo.",
+                    "img": "1.png"
+                },
+                
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                    "img": "3.png"
+                   },
+                   {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                       "img": "4.png"
+                   },
+                   
+                   {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                    "img": "5.png"
+                },
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                {"descripcion": "Reducir la desigualdad en y entre los países.",
+                    "img": "10.png"
+                },
                 {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
                     "img": "11.png"
                 },
