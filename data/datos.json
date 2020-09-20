@@ -5596,6 +5596,72 @@
                     "img": "15.png"
              }
          ]
+        },
+        "melissa": {
+            "id": "melissa",
+            "nombre": "Finca La Melissa",
+            "nombre-corto": "Melissa",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Reciclaje", "Sostenibilidad", "Agricultura sostenible", 
+                "Desarrollo Social", "Cultura"
+            ],
+            "categoria": [
+                "Creativity", "Food", "Public art", "Street Art", "Sculpture and Monument",
+                "Community", "Environment", "Land use", "Waste management", "Socially engaged art"
+            ],
+            "provincia": "lha",
+            "municipio": "San Miguel del Padrón",
+            "consejo_popular": "La Cumbre",
+            "web": null,
+            "descripcion": "La Finca La Melissa es uno de los proyectos más interesantes en Cuba, desarrollado a partir del reciclaje y la reutilización de neumáticos. Convierten estos neumáticos en objetos utilitarios, esculturas comunitarias, muebles, macetas para cultivar plantas, etc. Actualmente elaboran la creación, en conjunto con otros amigos, de un proyecto sociocultural e integral llamado ``Penságono Social Creativo´´ que imbricará artes plásticas, música, agricultura familiar y otros temas.",
+            "geo": {
+                "lat": 23.091462, 
+                "lon": -82.321766 
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "+53 7 6914360, +53 5 5381590",
+                "direccion": "Calle 3ra Final, Reparto La Cumbre, San Miguel del Padrón, La Habana, Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Carlos Manuel Borrero",
+                    "email": null
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                       "img": "15.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+             }
+         ]
         }                    
     }
     
