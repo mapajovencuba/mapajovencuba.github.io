@@ -5250,6 +5250,68 @@
                 }
                
             ]
+        },
+        "fonoma": {
+            "id": "fonoma",
+            "nombre": "Fonoma",
+            "nombre-corto": "Fonoma",
+            "logo": "logo-fonoma.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Telefonía Móvil", "Comunicación", "Internet"
+            ],
+            "categoria": [
+                "Communication and Information",
+                "Internet and Open Access",
+                "Profit", "Accessibility",
+                "Web-based project", "Business"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "www.fonoma.com",
+            "descripcion": "Fonoma es un sitio seguro y rápido para enviar recargas de teléfono y WiFi Nauta en Cuba. Está compuesto por un pequeño equipo pluridisciplinar de profesionales dispersos entre Barcelona, Madrid, París y Quito. Desde su creación en 2013 ha estado ofreciendo servicios de telecomunicaciones para usuarios dentro y fuera del país.",
+            "geo": {
+                "lat": 44.414250,
+                "lon": -15.687713
+            },
+            "localizacion": {
+                "email":  null,
+                "telefono": "+1 786 243 6934",
+                "direccion": "1887 Whitney Mesa Dr #1237 Henderson, NV 89014 USA."
+            },
+            "social": {
+
+                "twitter": "https://instagram.com/FonomaCuba",
+                "facebook": "https://m.facebook.com/FonomaCuba/",
+                "instagram": "http://twitter.com/FonomaCuba",
+                "youtube": "https://www.youtube.com/channel/UCpTP5jxVUNHFb9Q9iTA50BA",
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {"nombre": "Ubaldo Huerta"}
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                    "img": "3.png"
+                },
+                
+               {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                       "img": "5.png"
+               },
+               {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                "img": "8.png"
+               },
+               {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                "img": "8.png"
+               }
+               
+            ]
         }                 
     }
     
