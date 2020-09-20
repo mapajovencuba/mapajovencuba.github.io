@@ -5662,6 +5662,67 @@
                     "img": "15.png"
              }
          ]
+        },
+        "caminoalsol": {
+            "id": "caminoalsol",
+            "nombre": "Fonda al Pirata",
+            "nombre-corto": "Camino al Sol",
+            "logo": "logo-caminoalsol.png",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Vegano", "Vegetariano", "Gastronomía", "Alimentación Saludable"
+            ],
+            "categoria": [
+                "Food", "Business", "Sustainable Lifestyles"
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": "Vedado",
+            "web": null,
+            "descripcion": "Camino al Sol es un restaurante de comida sana y vegetariana en El Vedado, La Habana. El espacio tiene mucho que contribuir a la escena gastronómica de la ciudad, donde no abundan los restaurantes vegetarianos o veganos. Las recetas son originales y suelen elaborarse con los ingredientes de estación propios del país.",
+            "geo": {
+                "lat": 23.139298,
+                "lon": -82.402310
+            },
+            "localizacion": {
+                "email": "yunalvishernandez@gmail.com",
+                "telefono": "(07) 832 1861, (05) 2491141",
+                "direccion": "3era No. 363 e/ Paseo y 2, Vedado, Plaza de la Revolución, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yunalvis Hernández"    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+               
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                }
+               
+         ]
         }                    
     }
     
