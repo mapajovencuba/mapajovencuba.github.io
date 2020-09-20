@@ -5525,6 +5525,77 @@
                 }
                
             ]
+        },
+        "coincidencia": {
+            "id": "coincidencia",
+            "nombre": "Finca La Coincidencia",
+            "nombre-corto": "Coincidencia",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Agricultura", "Agroecología", "Sostenibilidad", "Desarrollo agrícola", 
+                "Medio Ambiente", "Arte", "Cultura"
+            ],
+            "categoria": [
+                "Food", "Environment", "Food and Agriculture", 
+                "Agriculture and Social Development", "Land Use",  
+                "Cultural System", "Creativity"
+            ],
+            "provincia": "mat",
+            "municipio": "Jovellanos",
+            "consejo_popular": "Guasimal del Toro",
+            "web": null,
+            "descripcion": "La Finca La Coincidencia es uno de los proyectos socioculturales más importantes del país, que fue iniciado en la década del noventa por la familia de artesanos Correa. En este taller-escuela-galería-granja agrícola conviven obras de arte pictóricas y cerámicas con cientos de árboles maderables y frutales y cultivos. Es, desde 2002, sede del evento Arte del Fuego y su Jardín de las Esculturas constituye una de las mayores atracciones por su armonía y belleza.",
+            "geo": {
+                "lat": 22.8098361, 
+                "lon": -81.2063658 
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "(05) 812 0314",
+                "direccion": "Guasimal del Toro, Jovellanos, Matanzas,Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "https://www.facebook.com/tungasuk/",
+                "instagram": "https://instagram.com/fincatungasuk?igshid=12bpzxev0qkon",
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Héctor Correa Almeida",
+                    "email": null
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                       "img": "15.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+             }
+         ]
         }                    
     }
     
