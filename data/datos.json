@@ -2262,7 +2262,7 @@
             },
             "localizacion": {
                 "email": "negolution@gmail.com",
-                "telefono": "",
+                "telefono": "+53 55396607",
                 "direccion": "Calle 60 No.108 Apto. 2 bajos, e/ 1ra y 1ra A. Miramar. Playa"
             },
             "social": {
@@ -2273,10 +2273,7 @@
                 "youtube": "https://www.youtube.com/channel/UCCaHdCkgUzC4GcQm1j0yAxA"
             },
             "personas": [
-                {
-                    "nombre": "María Karla Valdés (comercial)",
-                    "email": "negolution@gmail.com"
-                }
+              
                 
             ],
             "eventos": null,
@@ -2287,6 +2284,9 @@
                 },
                 {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
                        "img": "16.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                    "img": "16.png"
                 }
                 
          ]
