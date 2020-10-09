@@ -169,7 +169,11 @@ body {
 	
 }
 
+<<<<<<< HEAD
 .small-pcategory-label, .small-pkeywords-label, .small-preach-label, .small-pestructura-label {
+=======
+.small-pcategory-label, .small-pkeywords-label, .small-preach-label {
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
 	font-weight: bold;
 	font-size: 13px;
 	margin-bottom: 1px;

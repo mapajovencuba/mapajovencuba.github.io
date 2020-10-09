@@ -61,6 +61,7 @@
             "logo": "logo-articulacion.png",
             "tipo": "por",
             "keywords": [
+<<<<<<< HEAD
                 "Justicia de Género",
                 "Equidad",
                 "Identidad"
@@ -86,13 +87,41 @@
             "localizacion": {
                 "email": "articulacionjuvenil@oar.co.cu",
                 "telefono": "76481521 (ext. 103), +5358276591",
+=======
+                "Equidad Social",
+                "No violencia",
+                "Juventudes"
+            ],
+            "categoria": [
+                "Justicia de Género y Equidad",
+                "Identidad"
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Espacio de trabajo común, de socialización y activismo, que reconoce y articula iniciativas con y para jóvenes, en aras de contribuir a la transformación de la realidad social cubana, potenciando la participación, el liderazgo y el empoderamiento, desde la equidad social, el respeto a la diversidad, los derechos y la prevención de la violencia de género, con énfasis en la violencia hacia las mujeres.",
+            "geo": {
+                "lat": 23.090548,
+                "lon": -82.365311
+            },
+            "localizacion": {
+                "email": "articulacionjuvenil@oar.co.cu",
+                "telefono": "76481521 ext. 103",
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
                 "direccion": null
             },
             "social": {
                 "twitter": null,
+<<<<<<< HEAD
                 "facebook": "https://www.facebook.com/groups/articulacionjuvenil/",
                 "instagram": "https://www.instagram.com/articulacionjuvenilcuba",
                 "youtube": "https://www.youtube.com/channel/UCnq9JgDIAFilJyzgxjEzgw"
+=======
+                "facebook": "https://www.facebook.com/groups/articulacionjuvenil/?ref=br_rs",
+                "instagram": "https://www.instagram.com/articulacionjuvenilcuba",
+                "youtube": null
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
             },
             "personas": [
                 {
@@ -100,6 +129,7 @@
                     "email": "articulacionjuvenil@oar.co.cu"
                 }
             ],
+<<<<<<< HEAD
             "eventos": null,
             "ods": [
                 {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
@@ -124,6 +154,9 @@
                     "img": "17.png"
                 }
          ]
+=======
+            "eventos": null
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
         },
         "habsub": {
             "id": "HabanaSub",
@@ -1188,28 +1221,51 @@
             "id": "RIAM",
             "nombre": "Red Iberoamericana y Africana de Masculinidades (RIAM)",
             "nombre-corto": "RIAM",
+<<<<<<< HEAD
             "logo": "logo-riam.jpg",
+=======
+            "logo": null,
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
             "tipo": "para",
             "alcance": "nacional",
             "organizacion": "red",
             "keywords": [
+<<<<<<< HEAD
                 "Masculinidades", "Equidad", "Justicia de Género", "Justicia Social"
             ],
             "categoria": [
                 "Communication and information", "Inclusive education", "Gender equality", 
                 "Human rights", "Social inclusion", "Social Justice"
+=======
+                "Masculinidades",
+                "Género",
+                "Prevención",
+                "No Violencia"
+            ],
+            "categoria": [
+                "Justicia de Género y Equidad",
+                "Inclusión"
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
             ],
             "provincia": "lha",
             "municipio": null,
             "consejo_popular": null,
             "web": "http://redmasculinidades.blogspot.com/",
+<<<<<<< HEAD
             "descripcion": "RIAM es un proyecto creado en 2007 que trata problemas como la violencia de género, los estereotipos de masculinidades en Cuba, el rol de los medios de comunicación para reproducir prejuicios y mitos, nuevas formas de ser hombre, la diversidad de familias, paternidad, religiosidad, empleo, prostitución masculina y homofobia. Mediante el activismo y la realización de actividades procura crear conciencia y abrir el diapasón de participación contra la violencia de género, una cultura de paz entre la población masculina y analizar otros asuntos como los tipos de masculinidades, la homofobia y el racismo. (tomado de ipscuba.net).",
+=======
+            "descripcion": "La Red Iberoamericana y Africana de Masculinidades (RIAM), integrada fundamentalmente por hombres, pero también por mujeres que apuestan por un cambio en la cultura patriarcal dominante, impulsa espacios de socialización del conocimiento y el debate sobre las masculinidades en Cuba, visualizando los impactos negativos que la cultura patriarcal y falocéntrica tiene sobre los hombres, promoviendo formas alternativas, diversas, solidarias y no violentas de asumir la masculinidad. La RIAM promueve una mirada autónoma y crítica de los hombres sobre sí mismos, tanto en el ámbito académico como en espacios comunitarios.",
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
             "geo": {
                 "lat": 23.132048,
                 "lon": -82.393247
             },
             "localizacion": {
+<<<<<<< HEAD
                 "email": "julio.pages@gmail.com",
+=======
+                "email": null,
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
                 "telefono": null,
                 "direccion": null
             },
@@ -1221,6 +1277,7 @@
             },
             "personas": [
                 {
+<<<<<<< HEAD
                     "nombre": "Julio César Gonzáles Pagés",
                     "email": "julio.pages@gmail.com"
                 }
@@ -1246,6 +1303,27 @@
                 }
 
          ]
+=======
+                    "nombre": "Yonnier Angulo Rodríguez",
+                    "email": "yonnierar@gmail.com"
+                }
+            ],
+            "eventos": [
+                {
+                    "inicio": {
+                        "dia": 25,
+                        "mes": 5,
+                        "año": 2019
+                    },
+                    "fin": {
+                        "dia": 26,
+                        "mes": 5,
+                        "año": 2019
+                    },
+                    "nombre": "Acciones por la No Violencia en el II Festival Nacional de Fútbol Callejero"
+                }
+            ]
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
         },
         "RCCS": {
             "id": "RCCS",
@@ -1629,6 +1707,7 @@
             "id": "ecop",
             "nombre": "Ciclo Ecopapel",
             "nombre-corto": "Ecopapel",
+<<<<<<< HEAD
             "logo": "logo-ecopapel.png",
             "tipo": "por",
             "alcance": "nacional",
@@ -1640,17 +1719,37 @@
                 "Climate Change", "Eco-innovation", "Global enviromental change",
                 "Climate", "Enviroment", "Green economy", "Small business networking",
                 "Waste management"
+=======
+            "logo": null,
+            "tipo": "por",
+            "alcance": "local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Papel Manufacturado",
+                "Artesanía",
+                "Reciclaje",
+                "Tienda Ecológica",
+                "Desarrollo Local"
+            ],
+            "categoria": [
+                "Medio Ambiente"
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
             ],
             "provincia": "lha",
             "municipio": "Habana Vieja",
             "consejo_popular": null,
+<<<<<<< HEAD
             "web": "http://www.medium.com/cicloecoideas",
+=======
+            "web": null,
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
             "descripcion": "Iniciativa no estatal productora de papel manufacturado, de forma ecológica. Realizamos productos utilitarios con papel y cartón reciclados, fundamentalmente, así como otros materiales obtenidos de este modo; con diseño personalizable, tanto para el sector industrial, empresarial, diplomático y de organizaciones gubernamentales y no gubernamentales, como para el público en general. Nuestra filosofía se sustenta en el ahorro, el reciclaje, la ecosostenibilidad y el compromiso con la comunidad.",
             "geo": {
                 "lat": 23.136739,
                 "lon": -82.355412
             },
             "localizacion": {
+<<<<<<< HEAD
                 "email": "cicloecopapel@gmail.com",
                 "telefono": "(+53) 52746425, (+53) 78639308",
                 "direccion": "Lamparilla No.362 e/ Villegas y Aguacate, La Habana Vieja, La Habana, Cuba"
@@ -1660,6 +1759,17 @@
                 "facebook": "https://www.facebook.com/CicloEcoPapel/",
                 "instagram": "https://www.instagram.com/cicloecopapel",
                 "youtube": "https://youtu.be/7aVXUQ55ypYo"
+=======
+                "email": "contacto@cicloecopapel.com",
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "https://twitter.com/cicloecopapel",
+                "facebook": "https://www.facebook.com/cicloecopapel",
+                "instagram": "http://instagram.com/cicloecopapel",
+                "youtube": null
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
             },
             "personas": [
                 {
@@ -1667,6 +1777,7 @@
                     "email": "cicloecopapel@gmail.com"
                 }
             ],
+<<<<<<< HEAD
             "eventos": null,
             "ods": [
                 {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
@@ -1692,6 +1803,9 @@
                     "img": "17.png"
                 }
          ]
+=======
+            "eventos": null
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
         },
         "trance": {
             "id": "trance",
@@ -1792,6 +1906,7 @@
                 }
             ],
             "eventos": null
+<<<<<<< HEAD
         },
         "artecorte": {
             "id": "artecorte",
@@ -5726,4 +5841,8 @@
         }                    
     }
     
+=======
+        }
+    }
+>>>>>>> 714023a617d26a09b75e7687295dfda9775c317e
 }
