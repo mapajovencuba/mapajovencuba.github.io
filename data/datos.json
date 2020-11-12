@@ -5723,7 +5723,65 @@
                 }
                
          ]
-        }                    
+        },
+        "artistaxartista": {
+            "id": "artistaxartista",
+            "nombre": "Artista X Artista",
+            "nombre-corto": "Artista",
+            "logo": "logo-artistaxartista.png",
+            "tipo": "por",
+            "alcance": "Internacional",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Arte", "Residencia", "Creación", "Cultura", "Intercambio" 
+            ],
+            "categoria": [
+                "Access to knowledge", "Cultural System", "Creativity", "Cultural Diversity", 
+                "Intercultural Dialogue", "Education", "Socially Engaged Art"
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Miramar",
+            "web": "www.artistaxartista.org",
+            "descripcion": "Artista X Artista es una iniciativa del Estudio Carlos Garaicoa que se desarrolla, bajo diversos formatos, con el objetivo de establecer relaciones de horizontalidad entre la escena artística más joven y una red creciente de instituciones y agentes culturales a nivel internacional. Busca consolidarse  dentro de una amplia red de residencias artísticas internacionales, que posibilite el intercambio cultural entre diferentes contextos locales.",
+            "geo": {
+                "lat": 23.124736,
+                "lon": -82.413052
+            },
+            "localizacion": {
+                "email": "info@artistaxartista.org",
+                "telefono": "+537 8325952,  (07) 2055076",
+                "direccion": "Calle 6 No. 702 e/7ma y 9na, Apto 3; CP 11300, Miramar, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/artistaxartista/",
+                "instagram": "https://instagram.com/ artista_x_artista? igshid=1ewohyifhj41k",
+                "youtube": null
+            },
+            "personas": [
+                {
+                      
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                       "img": "16.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }
+               
+               
+         ]
+        }                      
     }
     
 }
