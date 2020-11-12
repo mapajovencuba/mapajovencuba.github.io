@@ -370,16 +370,11 @@ $.getJSON("data/cuba.geojson",
 			/*t += '<div class="list-pcontent-estructura">';
 			t += '<span class="small-pestructura-label">Estructura:</span> <span class="small-estructura">'+e['estructura']+'</span>';
 			t += '</div>';*/
-
 			t += '<div class="small-plink cursor" style="color:'+topicData['General'].color+'" id="pid-'+id+'">VER PROYECTO</div>';
 			
 			return t;
 		}
-
 		//definir la var en el resumen del proyecto en /List------------------
-
-		
-
 		function getListBlock(id){
 			var e = datos.proyectos[id];
 			var t = '<div class="list-ppart">';
@@ -393,18 +388,14 @@ $.getJSON("data/cuba.geojson",
 			t += '<div class="list-pcontent-keywords">';
 			t += '<span class="small-pkeywords-label">Palabras clave:</span> <span class="small-pkeywords">'+e['keywords']+'</span>';
 			t += '</div>';
-
 			/*t += '<div class="list-pcontent-estructura">';
 			t += '<span class="small-pestructura-label">Estructura:</span> <span class="small-estructura">'+e['estructura']+'</span>';
 			t += '</div>';*/
-
 			t += '</div>' 
 			t+='</div>'; 
 			return t;
 		}
-
 		//definir la var en el resumen del proyecto en /List End---------------------
-
 		
 		function style(feature){
 			 return {
@@ -590,9 +581,6 @@ $.getJSON("data/cuba.geojson",
 		update();
 		
 		
-
-		
-
 		function fillAndShowProfile(id){
 			var e = datos.proyectos[id];
 			$('.profile-logo').html('');
@@ -668,7 +656,6 @@ $.getJSON("data/cuba.geojson",
 			} else {
 				$('#project-person-block').addClass('undisplay');	
 			}
-
 			if (e.ods!=null){
 				$('#project-ods-block').removeClass('undisplay');
 				var t = '';
@@ -685,7 +672,6 @@ $.getJSON("data/cuba.geojson",
 			} else {
 				$('#project-ods-block').addClass('undisplay');	
 			}
-
 			showProfile();
 		}
 	    function setSearchList(slist){
