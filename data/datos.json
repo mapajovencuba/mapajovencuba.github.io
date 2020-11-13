@@ -5781,6 +5781,116 @@
                
                
          ]
+        },
+        "homeboygirl": {
+            "id": "homeboygirl",
+            "nombre": "Casa del Niño y la Niña",
+            "nombre-corto": "Casa del Niño y la Niña",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Comunidad", "Infancia", "Desarrollo Social", "Educación", "Cultura" 
+            ],
+            "categoria": null,
+            "provincia": "lha",
+            "municipio": "Centro Habana",
+            "consejo_popular": "Cayo Hueso",
+            "web": null,
+            "descripcion": "La Casa del Niño y la Niña es un proyecto de transformación social en el barrio Cayo Hueso, en Centro Habana, donde tienen lugar talleres de diversas modalidades. Un espacio para sorprendernos y compartir saberes de diversas ramas: pintura, música, deportes, periodismo, comunicación, locución, así como realizar intercambios, visitas, escuelas de barrio, etc.",
+            "geo": {
+                "lat": 23.082367,
+                "lon": -82.223822
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "+53 5 2140684",
+                "direccion": "Calle Vapor No. 151, esq. Espada, Centro Habana (Cayo Hueso), La Habana, Cuba."
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/casitacayohueso/",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "María del Carmen Espinosa (Directora)"        
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                    "img": "3.png"
+                },
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                    "img": "5.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                       "img": "16.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }   
+         ]
+        },
+        "incubador": {
+            "id": "incubador",
+            "nombre": "Incubador",
+            "nombre-corto": "Incubador",
+            "logo": "logo-incubador.png",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "incubador", "beca", "programa", 
+                "artista", "jovenes", "escuela de arte",
+                "LASA", "Aurelie Sampeur", "Candelario", 
+                "Macarena Goldenberg", "Cuba", "Habana", 
+                "San Agustin", "laboratorio artistico"  
+            ],
+            "categoria": null,
+            "provincia": "lha",
+            "municipio": "La Lisa",
+            "consejo_popular": "San Agustín",
+            "web": null,
+            "descripcion": "Incubador es una beca para jóvenes recién graduados de escuelas de arte de Cuba. Es una experiencia de aprendizaje para apoyar su profesionalización en la esfera artística nacional e internacional, considerando dos áreas complementarias de trabajo, una teórica y otra práctica.",
+            "geo": {
+                "lat": 23.031138,
+                "lon": -82.280624
+            },
+            "localizacion": {
+                "email": "lasa-cuba@gmail.com",
+                "telefono": "+53 7 267 3761",
+                "direccion": "35 esq. 254, San Agustín, La Lisa, La Habana, Cuba."
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/lasa.cuba",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Macarena Goldenberg y Aurélie Sampeur"        
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                    "img": "4.png"
+                }
+         ]
         }                      
     }
     
