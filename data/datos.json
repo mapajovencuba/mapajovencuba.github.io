@@ -6001,6 +6001,61 @@
                     "img": "16.png"
              }
          ]
+        },
+        "snorkeling": {
+            "id": "snorkeling",
+            "nombre": "Tú también puedes ayudar con snorkeling",
+            "nombre-corto": "Snorkeling",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Cuidado ambiental", "Limpieza de playas",
+                "Reciclaje", "Educación Ambiental", "Iniciativa ciudadana" 
+            ],
+            "categoria": null,
+            "provincia": "ss",
+            "municipio": "Trinidad",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Siguiendo la iniciativa de Hanser Ramirez, muchos trinitarios se han sumado a través de las redes sociales a la conviocatoria de limpiar las playas afectadas por turismo en la costa sur de Trinidad, y con ello han logrado mobilizar la conciencia ambiental de los ciudadanos. TTPACS ha creado alianzas estrategicas con entidades como Havana Club SA, y también es un proyecto inclusivo, en el que participan diversos grupos etáreos, estudiantes, trabajadores estatales y cuentapropiestas, y desvinculados del trabajo. Su ejemplo ha animado el desarrollo de otras acciones en favor del medio ambiente en otras regiones del país. Actualmente los esfuerzos se concentran en el tratamiento y reciclaje de la basura, es especial con el Proyecto Vidrio. También en el estudio de la percepción de la población respecto al tema basura a través de encuestas.",
+            "geo": {
+                "lat": 21.802694,
+                "lon": -79.983902
+            },
+            "localizacion": {
+                "email": "ysaolga94@gmail.com, jessikamez@gmail.com",
+                "telefono": "53910295",
+                "direccion": "Trinidad, S.S., Cuba."
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "@tutambienpuedesayudarconSnorkelin",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Ysabel Muñoz Martínez (coordinadora)  "        
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin a la pobreza en todas sus formas en todo el mundo.",
+                    "img": "1.png"
+                },
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                    "img": "3.png"
+                   }
+                 
+         ]
         }                      
     }
     
