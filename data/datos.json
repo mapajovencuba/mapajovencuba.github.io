@@ -5891,6 +5891,58 @@
                     "img": "4.png"
                 }
          ]
+        },
+        "lasa": {
+            "id": "lasa",
+            "nombre": "LASA",
+            "nombre-corto": "LASA",
+            "logo": "logo-lasa.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "LASA", "Aurelie Sampeur", "Candelario",
+                "Cuba", "Habana", "San Agustin", "laboratorio artistico",
+                "Beatriz Pérez", "modelo de gestión", "gestión dual", "economía", "empresa" 
+            ],
+            "categoria": null,
+            "provincia": "lha",
+            "municipio": "La Lisa",
+            "consejo_popular": "San Agustín",
+            "web": null,
+            "descripcion": "LASA es un “modelo de gestión [… de] naturaleza compleja y [de] carácter dual: como proyecto artístico y como proyecto empresarial. Dos líneas de trabajo que se relacionan entre sí, pero que al mismo tiempo tienen su propia independencia. LASA como proyecto holístico, ha involucrado e involucra una alta dosis de creatividad tanto en su concepción (la gestación y concreción de la idea), en su organización (su estructura y modelo de gestión), y por su naturaleza (artística y empresarial)”[Beatriz Pérez. El modelo de gestión dual de LASA: proyecto artístico y proyecto empresarial En: Aurélie Sampeur y de Paz Ponce La energía del contexto. Reflexiones múltiples desde el Laboratorio Artístico de San Agustín, 2019.].",
+            "geo": {
+                "lat": 23.031138,
+                "lon": -82.280624
+            },
+            "localizacion": {
+                "email": "lasa-cuba@gmail.com",
+                "telefono": "+53 7 267 3761",
+                "direccion": "35 esq. 254, San Agustín, La Lisa, La Habana, Cuba."
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "https://www.facebook.com/lasa.cuba",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Candelario y Aurélie Sampeur"        
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                       "img": "11.png"
+                },
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                    "img": "11.png"
+             }
+         ]
         }                      
     }
     
