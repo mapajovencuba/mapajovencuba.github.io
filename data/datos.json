@@ -6053,8 +6053,66 @@
                 },
                 {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
                     "img": "3.png"
-                   }
+                }
                  
+         ]
+        },
+        "grafica": {
+            "id": "grafica",
+            "nombre": "Proyecto La Gráfica en la Comunidad",
+            "nombre-corto": "La Gráfica en la Comunidad",
+            "logo": "logo-grafica-en-comunidad.jpg",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Imprenta", "Gráfica", "Desarrollo Social", "Formación", "Proyecto Comunitario"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Centro Habana",
+            "consejo_popular": null,
+            "web": "http://graficaycomunidad.blogspot.com",
+            "descripcion": "El Proyecto La Gráfica en la Comunidad aspira en primera instancia al rescate de longevas máquinas de impresión directa. Pretende la integración de jóvenes relevos, que sean continuadores de los maestros de la ``vieja gráfica´´. Este proyecto social también brinda sus servicios a empresas estatales, la encuadernación de libros deteriorados por la antigüedad. la edición de diversos libros, folletos, así como propagandas, carteles y variados servicios de imprenta que solicite la población que necesite de sus servicios.",
+            "geo": {
+                "lat": 23.133828,
+                "lon": -82.370031
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "+53 78624216, +53 58263802 ",
+                "direccion": "Calle Belascoaín y Salud; Centro Habana, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Pedro Creach Corrales"    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                    "img": "4.png"
+                },
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                }
+                
+               
          ]
         }                      
     }
