@@ -5943,6 +5943,64 @@
                     "img": "11.png"
              }
          ]
+        },
+        "contexto": {
+            "id": "contexto",
+            "nombre": "Con/texto Magazine",
+            "nombre-corto": "Con/texto",
+            "logo": "logo-contexto.jpg",
+            "tipo": "por",
+            "alcance": "Internacional",
+            "organizacion": "proyecto",
+            "keywords": [],
+            "categoria": null,
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "https://www.contextomagazine.com",
+            "descripcion": "Con/texto Magazine es un medio independiente. Presentamos una agenda abierta, no determinada, pero que apuesta por la diversidad de voces donde se incluyen las minorías en desventaja, las mayorías víctimas de desigualdades históricas; por historias que rebatan el discurso hegemónico y visibilicen la otredad. Estamos del lado de la igualdad de derechos, el laicismo, las luchas feministas, el respeto a la libertad del otro y sus diferencias, y un desarrollo sostenible en armonía con el medioambiente.",
+            "geo": {
+                "lat": 23.031139,
+                "lon": -82.280626
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": null,
+                "direccion": null
+            },
+            "social": {
+                "twitter": "https://twitter.com/ContextoMagz",
+                "facebook": "https://www.facebook.com/revistacontextomagazine",
+                "instagram": "https://www.instagram.com/contextomagazine/",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Maryam Camejo"  ,
+                    "telefono": "+53 53315230"      
+                },
+                {
+                    "nombre": "Jessica Castro"  ,
+                    "telefono": "+53 58977195"      
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                    "img": "5.png"
+                },
+                {"descripcion": "Reducir la desigualdad en y entre los países.",
+                    "img": "10.png"
+                },
+                
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                       "img": "16.png"
+                },
+
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                    "img": "16.png"
+             }
+         ]
         }                      
     }
     
