@@ -6114,6 +6114,130 @@
                 
                
          ]
+        },
+        "sociedadpcma": {
+            "id": "sociedadpcma",
+            "nombre": "Sociedad Civil de Patrimonio, Comunidad y Medio Ambiente",
+            "nombre-corto": "Sociedad PCMA",
+            "logo": "logo-sociedadpcma.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Patrimonio", "Medio Ambiente", "Comunidad", "Desarrollo", "Conservación"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": "www.sociedadpcma.org.cu",
+            "descripcion": "Patrimonio, Comunidad y Medio Ambiente es una sociedad de carácter civil, sin fines lucrativos, que agrupa a personas naturales y jurídicas, nacionales y extranjeras, interesadas en la preservación, rehabilitación, manejo, desarrollo y promoción del patrimonio histórico, arquitectónico y cultural de la Ciudad de La Habana, así como los temas comunitarios y de carácter ambiental en ese territorio. La Sociedad tiene como misión: cooperar con toda iniciativa que favorezca el proyecto sociocultural, de rehabilitación y revitalización de la ciudad, iniciado en su Centro Histórico y en desarrollo para el resto de la Zona Priorizada para la conservación por la Oficina del Historiador, así como coadyuvar con los mecanismos de planeamiento y gestión que hacen posible esta labor, promocionándolos a nivel nacional y en el extranjero.",
+            "geo": {
+                "lat": 23.136925,
+                "lon": -82.352216
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "+53 7 864 9512-13",
+                "direccion": "Amargura No. 60, La Habana Vieja, La Habana, Cuba. CP 10100"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Martha Oneida Pérez"    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                {"descripcion": "Reducir la desigualdad en y entre los países.",
+                    "img": "10.png"
+                },
+                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+                       "img": "11.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+                       "img": "16.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                },
+                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                }
+         ]
+        },
+        "dahara": {
+            "id": "dahara",
+            "nombre": "Programa de Vida Holística y Estudio Dahara Yoga",
+            "nombre-corto": "Dahara Yoga",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Yoga", "Cultura de Vida", "Espiritualidad Vivencial", "Laboratorio Multicultural", "Cultura y Ocio"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Diez de Octubre",
+            "consejo_popular": "Lawton",
+            "web": null,
+            "descripcion": "El Programa de Vida Holística y Estudio Dahara Yoga es un espacio dedicado a la promoción de un estilo de vida saludable y creativo basado en la percepción holística de la vida y los beneficios de la práctica del yoga. Fruto de la sistematización e investigación teórico-práctica de los proyectos realizados en el marco de su trabajo profesional y de servicio.Más de 20 años de experiencia en de variada perspectiva temática y creativa, algunas de ellas: socio-cultural, comunitaria, arte-terapia, yoga, antropológica, filosófica y espiritual.",
+            "geo": {
+                "lat": 23.098691,
+                "lon": -82.361200
+            },
+            "localizacion": {
+                "email": "vfglezyoga@gmail.com",
+                "telefono": "(05) 3863239, (07) 6203481",
+                "direccion": "Luz Este No. 11-13, Apto 31 e/ Delicias y Diez de Octubre,Lawton, Diez de Octubre, La Habana, Cuba CP 10700"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "http://www.facebook.com/maryyvlady/",
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Vladimir Ferreiro González"    
+                },
+                {
+                    "nombre": "María de los Ángeles Montes"
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                    "img": "3.png"
+                }
+         ]
         }                      
     }
     
