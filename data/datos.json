@@ -6420,6 +6420,63 @@
                     "img": "12.png"
                 }
          ]
+        },
+        "bambooleoshop": {
+            "id": "bambooleoshop",
+            "nombre": "Bambooleo Shop",
+            "nombre-corto": "Bambooleo",
+            "logo": "logo-bambooleo-shop.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Sostenibilidad", "Bambú", "Desarrollo Sostenible", "Medio Ambiente"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "www.m.me/bambooleoshop",
+            "descripcion": "Bambooleo es una tienda que fabrica y comercializa absorbentes de bambú hechos en Cuba. La tienda es el resultado de la unión de un grupo de personas deseosas de crear conciencia y revolucionar la forma de interactuar con la naturaleza.",
+            "geo": {
+                "lat": 23.098696,
+                "lon": -82.361212
+            },
+            "localizacion": {
+                "email": "bambooleoshop@gmail.com",
+                "telefono": "+53 5 2708437"
+                
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "http://m.facebook.com/bambooleoshop/",
+                "instagram": "http://instagram.com/bambooleoshop?igshid=r98v98j7rv2c",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Enrique Hidalgo"    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                               
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                }
+         ]
         }                      
     }
     
