@@ -6589,6 +6589,54 @@
                     "img": "15.png"
              }
          ]
+        },
+        "nocturnal": {
+            "id": "nocturnal",
+            "nombre": "Nocturnal",
+            "nombre-corto": "Nocturnal",
+            "logo": "logo-nocturnal.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Diseño Gráfico", "Comunicación", "Arte",
+                "Colectividad", "Comunidad", "Cultura",
+                "Colaboración", "Serigrafía"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Cerro",
+            "consejo_popular": null,
+            "web": "www.sociedadpcma.org.cu",
+            "descripcion": "Nocturnal es un proyecto de arte y comunicación colectivo que comenzó alrededor del 2015 con el objetivo de generar un espacio físico e intelectual para el intercambio creativo, exhibición, promoción, comercialización, comunicación y trabajo en conjunto de un grupo de diseñadores gráficos integrado por: Edel Rodríguez Molano (Mola), Michelle Miyares, Nelson Ponce, Gisselle Monzón, Raúl Valdéz (Raupa). Todos tiene una inclinación marcada hacia el desarrollo de la serigrafía como medio de expresión así como un interes por explorar las dinámicas del trabajo en colectivo y colaborativo entre ellos y con la comunidad cultural.",
+            "geo": {
+                "lat": 23.1239835,
+                "lon": -82.3805868
+            },
+            "localizacion": {
+                "email": "mola.grafico@gmail.com",
+                "telefono": "+5352369346",
+                "direccion": "Ayestarán Esq Perfecto Lacoste, No. 745, apto 9, Cerro, La Habana, Cuba."
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Edel Rodríguez (MOLA)",
+                    "email": "mola.grafico@gmail.com"    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                
+         ]
         }                      
     }
     
