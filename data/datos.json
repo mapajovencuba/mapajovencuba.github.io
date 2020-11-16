@@ -6359,6 +6359,69 @@
                     "img": "5.png"
                 }
          ]
+        },
+        "elromero": {
+            "id": "elromero",
+            "nombre": "Eco-restaurant El Romero",
+            "nombre-corto": "Eco-restaurant El Romero",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Comida cubana", "Restaurante Vegetariano", "Alimentación Saludable", "Ecología"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "art",
+            "municipio": "Las Terrazas",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "El Romero es un eco-restaurante fundado en 2003 por Tito Núñez en Las Terrazas. Como proyecto, se desarrolla, mejora y perfecciona en su dinámica y avance, presentando una cocina nutritiva, creativa y saludable. La instalación organiza su servicio culinario en armonía con el medio ambiente. Abarca desde la recolección y el cultivo de una gran parte de los ingredientes que emplea, el uso de energía solar, la purificación del agua para beber y el reciclaje de sus desperdicios.",
+            "geo": {
+                "lat": 22.8441715, 
+                "lon": -82.9457635
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "+53 (0148) 578 555",
+                "direccion": "Calle La Moka, Las Terrazas 24700, Artemisa, Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Tito Núñez"
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },
+                
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                }
+         ]
         }                      
     }
     
