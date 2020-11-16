@@ -6536,6 +6536,59 @@
                 }
                   
          ]
+        },
+        "iniciativaplanta": {
+            "id": "iniciativaplanta",
+            "nombre": "Iniciativa Planta!",
+            "nombre-corto": "Iniciativa Planta!",
+            "logo": "logo-iniciativa-planta.png",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Medio Ambiente", "Desarrollo sostenibl", "Educación ambiental", "Conservación", "Biodiversidad", "ONG"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": "http://www.socubot.cu/secciones/conservacion",
+            "descripcion": "La falta de conocimiento y conciencia de las personas que habitamos este archipiélago sobre el valor de la flora cubana y su situación crítica de conservación; así como la falta de personal calificado a nivel local que impide la toma, ejecución y continuidad de acciones de conservación, fueron los móviles para crear Planta! El proyecto busca que la población cubana esté orgullosa de su flora, conozca su valor, y esté comprometida con su preservación; que los especialistas cubanos estén capacitados y desarrollen acciones locales de conservación; que los equipos locales colaboren y compartan recursos y experiencias; y que la población local de las zonas de importancia para la conservación esté involucrada en la investigación y la acción.  Por supuesto que esos objetivos tributan a una meta aun mayor, que es la conservación de la rica y singular flora de Cuba. El nombre del proyecto alude al imperativo del verbo plantar en consonancia con el primer objetivo, que no es más que plantar en los cubanos el conocimiento sobre los valores de la flora nativa y la necesidad de su preservación. Las actividades se enfocan en los cuatro elementos que representan nuestros objetivos: educación, capacitación, colaboración e investigación sucedida de gestión. Con relación a educación, desde 2012 se han realizado festivales ambientales en ciudades y zonas rurales del país, encuentros con escuelas, exposiciones en museos y plazas públicas, concursos, programas de radio y televisión, reportajes de prensa escrita, y campañas de publicidad que han contemplado la elaboración de la imagen del proyecto, la realización de un video clip que lo identifica, una página web y cuentas en redes sociales, así como la confección de calendarios y un desfile de moda. La capacitación ha estado representada por campamentos estudiantiles efectuados anualmente desde 2012, cursos a técnicos de áreas protegidas, a estudiantes de pre-grado y post-grado, talleres para educadores y conferencias para varios públicos. La colaboración, que parte desde la propia fundación de Planta! por investigadores de varias instituciones del país y estudiantes universitarios, ha estado representada además, por la organización de eventos anuales y la participación en otros, así como la publicación de resultados y experiencias, y la cooperación con otras instituciones del país y otros actores como emprendedores cubanos y proyectos comunitarios. La investigación desde lo local ha sido protagonista de nuestras acciones, con el impulso de proyectos de conservación que acercan al humano con la biodiversidad y lo convierten en gestor de cambio para mejorar el estado de conservación de los hábitats donde vive.",
+            "geo": {
+                "lat": 23.098682,
+                "lon": -82.361200
+            },
+            "localizacion": {
+                "email": "info@planta.ngo",
+                "telefono": "(05) 2703545",
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "www.facebook.com/iniciativaplanta",
+                "instagram": "www.instagram.com/iniciativaplanta/",
+                "youtube": "https://www.youtube.com/watch?v=JXdCMXA0lWM"
+            },
+            "personas": [
+                {
+                    "nombre": "MsC. Alejandro Palmarola Bejerano"    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                       "img": "15.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+             }
+         ]
         }                      
     }
     
