@@ -2242,14 +2242,13 @@
             "nombre-corto": "NEGOLUTION",
             "logo": "logo-negolution.jpg",
             "tipo": "por",
-            "alcance": "Nacional e Internacional",
+            "alcance": "Nacional",
             "organizacion": "proyecto",
             "keywords": [
                 "Revista", "Economía", "Desarrollo", "Medios", "Información", "Empresa"
             ],
             "categoria": [
-               "Media development", "Communication and Information", "Enterprise and Economics",
-               "Social entrepreneurship", "Broadcast and Publishing", "Business"
+              
             ],
             "provincia": "lha",
             "municipio": "Playa",
