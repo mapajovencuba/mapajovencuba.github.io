@@ -6309,6 +6309,56 @@
                        "img": "17.png"
                    }
          ]
+        },
+        "ensayocero": {
+            "id": "ensayocero",
+            "nombre": "Ensayo Cero",
+            "nombre-corto": "Ensayo Cero",
+            "logo": "logo-ensayo-cero.jpg",
+            "tipo": "por",
+            "alcance": "Nacional",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Arte", "Cultura", "Creación", "Innovación", "Experimentación"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "El proyecto Ensayo Cero se presenta como una plataforma cultural flexible de creación-innovación y promoción-apoyo-desarrollo de iniciativas experimentales e investigativas en áreas del arte, la ciencia y la comunicación. Red que abraza y se propulsa inyectada (e inoculándose) por (y entre) otras redes colaborativas y sociales y sobre todo por los creadores como individuos. Ensayo Cero está ávido por observar y focalizar  los procesos, todo lo susceptible a crecer, mutar, reformular constantemente sus bases.",
+            "geo": {
+                "lat": 23.098692,
+                "lon": -82.361210
+            },
+            "localizacion": {
+                "email": "ensayocero@gmail.com",
+                "telefono": "+44 7849 222874",
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "http://www.facebook.com/ensayocerohavana/",
+                "instagram": "http://instagram.com/ensayocero?igshid=ep1ijp0ylzvg",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Gabriela Román González"    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                    "img": "5.png"
+                },
+                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                    "img": "5.png"
+                }
+         ]
         }                      
     }
     
