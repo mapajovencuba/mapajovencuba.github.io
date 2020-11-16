@@ -6477,6 +6477,65 @@
                     "img": "13.png"
                 }
          ]
+        },
+        "maxibebe": {
+            "id": "maxibebe",
+            "nombre": "Maxi Bebé",
+            "nombre-corto": "Maxi Bebé",
+            "logo": "logo-maxi-bebe.png",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "Proyecto",
+            "keywords": [
+                "Nutrición", "Salud", "Alimentación saludabl", "Infancia", "Negocio local"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Maxi Bebé es un pequeño negocio creado por Yanitza del Toro, una madre cubana decidida a alimentar a su hija de manera saludable. A partir de ese deseo ha desarrollado Maxi Bebé, desde donde hace llegar a muchas madres alimentos caseros recién hechos sin colorantes, conservantes o potenciadores de sabor para sus hijos. Utiliza frutas y vegetales de gran calidad para crear productos que contribuyen a la nutrición sana y consciente de los niños.",
+            "geo": {
+                "lat": 23.140750,
+                "lon": -82.361852
+            },
+            "localizacion": {
+                "email": "maxi_bebe_habana@yahoo.com",
+                "telefono": "+53 5 4334182",
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "http://www.facebook.com/maxibebehabana/",
+                "instagram": "http://www.instagram.com/p/CDMOC-el2TV/?igshid=1sd6wurbf953c",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yanitza del Toro Moreira"    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                    "img": "3.png"
+                   },
+                   {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                }, 
+                   {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                       "img": "12.png"
+                   },
+                   {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                }
+                  
+         ]
         }                      
     }
     
