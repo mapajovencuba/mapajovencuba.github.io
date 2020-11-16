@@ -6636,7 +6636,129 @@
                 
                 
          ]
-        }                      
+        },
+        "burgambilia": {
+            "id": "burgambilia",
+            "nombre": "Finca La Burgambilia",
+            "nombre-corto": "Finca La Burgambilia",
+            "logo": "logo-burgambilia.png",
+            "tipo": "por",
+            "alcance": "Local",
+            "organizacion": "proyecto",
+            
+            "keywords": [
+                "Agroecología", "Medio Ambiente", "Permacultura", "Desarrollo Sostenible", "Agricultura"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "art",
+            "municipio": "Caimito",
+            "consejo_popular": "Aguacate",
+            "web": null,
+            "descripcion": "La Finca La Burgambilia en Artemisa se dedica al cultivo de hortalizas y la cría de ganado menor. Esta finca agroecológica cultiva y comercializa plantas ornamentales y hace trabajos de jardinería. Producen su propia miel a partir de abejas meliponas, que es especialmente beneficiosa para la salud y tiene fines terapéuticos.",
+            "geo": {
+                "lat": 22.947663, 
+                "lon": -82.5891278
+            },
+            "localizacion": {
+                "email": "laburgambilia@gmail.com",
+                "telefono": " +53 5 361 9424",
+                "direccion": "Calle 52, Aguacate, Caimito, Artemisa, Cuba"
+            },
+            "social": {
+
+                "twitter": null,
+                "facebook": "http://www.facebook.com/Finca-La-Burgambilia-223315925789528/",
+                "instagram": null,
+                "youtube": null,
+                "telegram": null,
+                "Flickr": null
+            },
+            "personas": [
+                {
+                    "nombre": "Alexander Quesada",
+                    "email": null
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.",
+                    "img": "2.png"
+                },
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                 "img": "3.png"
+                },
+               
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+                    "img": "13.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                       "img": "15.png"
+                },
+                {"descripcion": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, efectuar una ordenación sostenible de los bosques, luchar contra la desertificación, detener y revertir la degradación de las tierras y poner freno a la pérdida de la diversidad biológica.",
+                    "img": "15.png"
+                }
+                
+         ]
+        },
+        "textura": {
+            "id": "textura",
+            "nombre": "Textura",
+            "nombre-corto": "Textura",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Diseño", "Moda Sostenible", "Creatividad", "Pequeño Negocio", "Emprendimiento Sostenible"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Los diseños de TEXTURA tienen como premisa la utilización de fibras naturales como principal material de trabajo para generar siempre texturas diversas. Con estos materiales se diseñan accesorios, principalmente bolsos. Los materiales se trabajan de forma noble, dejándolos en su mayoría con su color natural.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": "xliset@gmail.com",
+                "telefono": "+53 5 386 8369",
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": "http://instagram.com/textura_coleccion?igshid=1k7hcm343haw7",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Liset Hernández Vázquez"
+                        
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },                
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                }
+                
+         ]
+        }                    
     }
     
 }
