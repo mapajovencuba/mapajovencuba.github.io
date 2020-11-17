@@ -7256,6 +7256,55 @@
             "eventos": null,
             "ods": [
          ]
+        },
+        "ricco": {
+            "id": "ricco",
+            "nombre": "Ricco",
+            "nombre-corto": "Ricco",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Aceites esenciales", "Emprendimiento", "Productos naturales", "Sostenibilidad"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Ricco, es un pequeño negocio surgido en los meses de confinamiento debido al covid. Siempre nos ha gustado la cocina y quisimos incursionar en productos que fueran de fácil elaboración, conservación y a la vez con propiedades alimenticias. Por ejemplo, las tortillas para tacos que realizamos pretendimos ponerle color y sabor sin la presencia de ningún colorante artificial, las tenemos de cúrcuma, remolacha, basílico, culantro, ají cachucha, entre otros. Otros productos como buñuelos, pan Pita, salsa tahina. Todas nuestras elaboraciones son completamente artesanales, naturales y deseamos seguir ampliando nuestra variedad de productos bajo el mismo concepto.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "52811595",
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook":  null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Mónica del Risco"
+                     
+                        
+                },
+                {
+                    "nombre": "Rachel Vento" 
+                        
+                }
+            ],
+            "eventos": null,
+            "ods": [
+         ]
         }                    
     }
     
