@@ -7305,6 +7305,54 @@
             "eventos": null,
             "ods": [
          ]
+        },
+        "santuario": {
+            "id": "santuario",
+            "nombre": "Santuario Gourmet Habana",
+            "nombre-corto": "Santuario Gourmet Habana",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Alimentación", "Comida Sana", "Cocina francesa", "Reciclaje"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Santa Fé",
+            "web": null,
+            "descripcion": "Santuario Gourmet trabaja en la elaboración de recetas tradicionales de la cocina regional francesa, la mayoría de ellas tomadas del recetario de la familia de François. Sus productos se venden en frascos de vidrio que ya han sido utilizados y que reciclan para poder realizar su actividad.",
+            "geo": {
+                "lat": 23.074877,
+                "lon": -82.519627
+            },
+            "localizacion": {
+                "email": "santuariogourmethabana@gmail.com ",
+                "telefono": "58296524",
+                "direccion": "1era B no.30010 e/ 300 y 302, Santa Fe, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook":  "@santuariogourmethabana",
+                "instagram": "@santuariogourmet.habana",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "François Abel"
+                     
+                },
+                {
+                    "nombre": "Leandis Diaz" 
+                        
+                }
+            ],
+            "eventos": null,
+            "ods": [
+         ]
         }                    
     }
     
