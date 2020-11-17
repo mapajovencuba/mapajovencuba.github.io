@@ -7401,6 +7401,54 @@
             "eventos": null,
             "ods": [
          ]
+        },
+        "wildjibaro": {
+            "id": "wildjibaro",
+            "nombre": "Wild Jibaro",
+            "nombre-corto": "Wild Jibaro",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Alimentación", "Bebidas", "Productos Naturales", "Emprendimiento" 
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "La idea que desarrollamos e implementamos durante este tiempo fue introducir en Cuba los cocteles listos para beber o #readytodrink. Específicamente en Jíbaro estamos apoyando con la venta de nuestros cocteles un programa de reciclaje con la venta de los mismos desde el día uno, en el que ofrecemos descuentos a los clientes que devuelvan los envases de los mismos.",
+            "geo": {
+                "lat": 23.075268,
+                "lon": -82.210858
+            },
+            "localizacion": {
+                "email": "therealjibaro@gmail.com",
+                "telefono": "5826208",
+                "direccion": "Merced no. 69 e/ Cuba y San Ignacio, La Habana Vieja, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook":  "@therealjibaro",
+                "instagram": "@therealjibaros",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Diana Figueroa "
+                     
+                },
+                {
+                    "nombre": "David Roque" 
+                        
+                }
+            ],
+            "eventos": null,
+            "ods": [
+         ]
         }                    
     }
     
