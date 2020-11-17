@@ -7062,6 +7062,56 @@
                 
                 
          ]
+        },
+        "deshidratados": {
+            "id": "deshidratados",
+            "nombre": "Deshidratados Habana",
+            "nombre-corto": "Deshidratados",
+            "logo": "logo-deshidratados-habana.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Alimentación", "Comida Sana", "Sostenibilidad", "Productos deshidratados"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Deshidratados Habana es un proyecto que elabora y comercializa alimentos deshidratados en La Habana. Ofrecen productos sanos, diferentes, de calidad y 100% naturales, sin  azúcares añadidos y de larga durabilidad. Aspiran a construir un espacio de inspiración y aprendizaje para quienes practican y promueven una alimentación consciente. Creen en la posibilidad de nutrirse de forma saludable y a la vez de manera entretenida, sabrosa y variada.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": "deshidratados.habana@gmail.com",
+                "telefono": "59171537",
+                "direccion": "Calle 42 entre 9na y 11, Playa, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": "@deshidratados.habana",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Patricia Ramos"
+                        
+                },
+                {
+                    "nombre": "Oscar Fernández"
+                    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                
+         ]
         }                    
     }
     
