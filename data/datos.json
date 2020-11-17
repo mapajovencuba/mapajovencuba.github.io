@@ -6758,6 +6758,63 @@
                 }
                 
          ]
+        },
+        "ama": {
+            "id": "ama",
+            "nombre": "AMA",
+            "nombre-corto": "AMA",
+            "logo": "logo-ama.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Accesorios", "Artesanía", "Sostenibilidad", "Emprendimiento", "Creatividad"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Miramar",
+            "web": null,
+            "descripcion": "La música es un estímulo y necesidad en nuestras vidas, sin embargo, durante la cuarentena tejimos nuevos sueños a través de un largo y hermoso camino: AMA. Tres jóvenes cambiamos nuestros instrumentos musicales de estudio constante y comenzamos a diseñar y ensartar cuentas, abalorios, mostacillas y frutos de la madre naturaleza como el yute, conchas, caracoles, madera - entre tantas otras - para generar productos artesanales a mano con la idea del arte de lo bello. La magia del Caribe que nos rodea con sus colores y diversidad nos inspira, y utilizando materiales en su mayoría reciclables, le damos otra vida en gama amplia, reutilizándolos con un concepto en base a la sostenibilidad, creando así obras auténticas que ya gozan de gran aceptación en un diverso grupo etario. Como la música es significativa en nuestras vidas recurrimos a ella para nombrar nuestras colecciones que incluyen: collares, pulseras, tobilleras, anillos, cadena de gafas, pendientes y por el reclamo de muchos, el cuelga nasobuco, que llevan sugerentes y emblemáticos títulos de canciones antológicas de nuestro panorama musical como Perla Marina, María Caracoles, Hoy como ayer y Corazón de Melón.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": "mcarlapuga93@gmail.com",
+                "telefono": "5 2459302",
+                "direccion": "3ra A e/ 4 y 6, Miramar, Playa, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "María Puga"
+                        
+                },
+                {
+                    "nombre": "Ana María Torres"
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                },                
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                },
+                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+                    "img": "12.png"
+                }
+                
+         ]
         }                    
     }
     
