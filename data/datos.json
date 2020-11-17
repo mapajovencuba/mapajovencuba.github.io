@@ -7212,6 +7212,50 @@
                 
                 
          ]
+        },
+        "puroverde": {
+            "id": "puroverde",
+            "nombre": "Puro Verde",
+            "nombre-corto": "Puro Verde",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Aceites esenciales", "Emprendimiento", "Productos naturales", "Sostenibilidad"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Dedicados a la producción y comercialización de aceites esenciales y otros productos de origen natural.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": "manuelalejandrocc8@gmail.com",
+                "telefono": "52502170",
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook":  null,
+                "instagram": null,
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Manuel Alejandro Carcases Cervantes"
+                        
+                }
+            ],
+            "eventos": null,
+            "ods": [
+         ]
         }                    
     }
     
