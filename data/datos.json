@@ -6858,6 +6858,56 @@
                 
                 
          ]
+        },
+        "beyondroots": {
+            "id": "beyondroots",
+            "nombre": "Beyond Roots",
+            "nombre-corto": "Beyond Roots",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Emprendimiento", "Creatividad", "Afro-Cubano", "Accesorios", "Moda; Diseño"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Beyond Roots es un emprendimiento enfocado en la promoción de la cultura afro-cubana desde diferentes perspectivas. Para esto, han diseñado diferentes experiencias con el objetivo de educar las personas que visitan la Isla sobre el legado de nuestros ancestros africanos y esparcir información sobre la historia de la comunidad. Además, diseñan productos para promover la estética e identidad, no solo de las personas negras, sino para cualquiera que reconozca que somos el resultado de una mezcla y quiera orgullosamente enaltecer su afro-descendencia.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": "adryjei@gmail.com - beyondrootscuba@gmail.com",
+                "telefono": "53707695 - 78615072",
+                "direccion": "San Ignacio 657 e/ Jesús María y Merced; Habana Vieja; La Habana; Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": "Beyond Roots Cuba",
+                "instagram": "@beyondrootcuba",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Adriana Heredia Sánchez"
+                        
+                },
+                {
+                    "nombre": "José Luis Corredero"
+                    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                
+         ]
         }                    
     }
     
