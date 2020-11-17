@@ -6958,6 +6958,56 @@
                 
                 
          ]
+        },
+        "lolitas": {
+            "id": "lolitas",
+            "nombre": "Lolitas Scrunchies",
+            "nombre-corto": "Lolitas Scrunchies",
+            "logo": "logo-lolitas.JPG",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Emprendimiento", "Creatividad", "Accesorios", "Diseño y Moda"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Lolitas Scrunchies es un negocio familiar, fundamentalmente dedicado a la confección de accesorios para el cabello, felpas de tela de diferentes colores y modelos. Ese es su principal producto, pero también crean pulseras de caracoles, pañuelos, pequeños bolsos y otros accesorios.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "5 4018995",
+                "direccion": "Factor no. 821piso 10 apto H e/ Conill y Santa Ana, Plaza de la Revolución, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": "@lolitas_scrunchies",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Natalí Pérez"
+                        
+                },
+                {
+                    "nombre": "Diansy Benítez"
+                    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                
+         ]
         }                    
     }
     
