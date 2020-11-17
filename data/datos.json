@@ -6807,6 +6807,57 @@
                 
                 
          ]
+        },
+        "areteate": {
+            "id": "areteate",
+            "nombre": "Aretéate Experience",
+            "nombre-corto": "Aretéate",
+            "logo": "logo-areteate.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Emprendimiento", "Accesorios", "Creatividad", "Artesanía"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Habana Vieja",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Aretéate es un proyecto que intenta brindar una experiencia distinta a la hora de comprar un arete como accesorio, con precios asequibles para el cubano de a pie. Pretendemos brindar una travesía única, desde el momento en que buscas el par ideal, hasta que lo usas por primera vez. Entre nuestros objetivos figura lograr que el cliente tome un sentido de pertenencia con el producto pasando a ser más que un simple par de aretes.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": "areteateexperience@gmail.com",
+                "telefono": "+33 6 86 01 19 90",
+                "direccion": "Cuarteles No. 14 e/ Cuba y Aguiar, Habana Vieja, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": "@areteate",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Ana V.Granda",
+                    "telefono": "+5352763731"
+                        
+                },
+                {
+                    "nombre": "Karen Palacio",
+                    "telefono": "+5353819575"
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                
+         ]
         }                    
     }
     
