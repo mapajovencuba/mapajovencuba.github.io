@@ -7162,6 +7162,56 @@
                 
                 
          ]
+        },
+        "noquim": {
+            "id": "noquim",
+            "nombre": "Proyecto NoQuim",
+            "nombre-corto": "NoQuim",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Alimentación", "Comida Sana", "Emprendimiento", "Agricultura"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": null,
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "NoQuim es un proyecto de integración con el objetivo de promover una alimentación sana. Contempla desde los procesos productivos, el beneficio, hasta la comercialización de la producción.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": "carnota.raydel@gmail.com",
+                "telefono": "52587459",
+                "direccion": null
+            },
+            "social": {
+                "twitter": null,
+                "facebook":  "noQuim",
+                "instagram": "@noquimcuba",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Rayel Carnota"
+                        
+                },
+                {
+                    "nombre": "Aldo Álvarez"
+                    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                
+         ]
         }                    
     }
     
