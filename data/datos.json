@@ -7353,6 +7353,54 @@
             "eventos": null,
             "ods": [
          ]
+        },
+        "tbcocktails": {
+            "id": "tbcocktails",
+            "nombre": "TB Cocktails",
+            "nombre-corto": "TB Cocktails",
+            "logo": "logo-tb-cocktails.JPG",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Alimentación", "Bebidas", "Productos Naturales", "Emprendimiento" 
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Centro Habana",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Nuestro emprendimiento buscará satisfacer las necesidades de un mercado con carencias como es el de los bares y restaurantes, brindando un producto natural 100% cubano que a su vez tenga un impacto en nuestro medio ambiente a partir del desarrollo de plantas autóctonas y endémicas de Cuba.",
+            "geo": {
+                "lat": 23.132327,
+                "lon": -82.360598
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "53470995 - 58021208",
+                "direccion": "Restaurante Amos- Calle Amistad e/ Neptuno y San Rafael"
+            },
+            "social": {
+                "twitter": null,
+                "facebook":  "TB Cocktails",
+                "instagram": "@TB Cocktails",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Dagoberto Jesus Morejon"
+                     
+                },
+                {
+                    "nombre": "Manuel Alejandro Valdés" 
+                        
+                }
+            ],
+            "eventos": null,
+            "ods": [
+         ]
         }                    
     }
     
