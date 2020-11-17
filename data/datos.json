@@ -6908,6 +6908,56 @@
                 
                 
          ]
+        },
+        "hilosdesolyluna": {
+            "id": "hilosdesolyluna",
+            "nombre": "Hilos de Sol y Luna",
+            "nombre-corto": "Hilos de Sol y Luna",
+            "logo": "logo-hilos-sol-luna.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Emprendimiento", "Accesorios", "Tejido", "Creatividad", "Artesanía"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Hilos de Sol y Luna se encargan de hacer pulseras con hilos tejidas a Macramé (tejido con nudos). Se caracterizan por usar hilos diferentes a los que se usan para realizar este tejido, lo que las hace únicas, al menos por el momento. También acompañan las pulseras de tarjetas y de un empaque personalizado.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": "melaniemorej@gmail.com ",
+                "telefono": "58056799 - 53586835",
+                "direccion": "Marino no. 618 apto. 41 y 42 e/ Colón y San Pedro, Plaza de la Revolución, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": "@hilos.de.sol.y.luna",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Melanie Morejón Campos"
+                        
+                },
+                {
+                    "nombre": "Jessika Iriarte Vivar"
+                    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                
+         ]
         }                    
     }
     
