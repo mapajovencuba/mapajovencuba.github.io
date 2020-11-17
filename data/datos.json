@@ -6804,15 +6804,7 @@
             ],
             "eventos": null,
             "ods": [
-                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
-                    "img": "8.png"
-                },                
-                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
-                    "img": "12.png"
-                },
-                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
-                    "img": "12.png"
-                }
+                
                 
          ]
         }                    
