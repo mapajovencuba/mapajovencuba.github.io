@@ -7112,6 +7112,56 @@
                 
                 
          ]
+        },
+        "lasfrescas": {
+            "id": "lasfrescas",
+            "nombre": "Las Frescas",
+            "nombre-corto": "Las Frescas",
+            "logo": "logo-las-freskas.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Alimentación", "Creatividad", "Comida Sana", "Opciones Veganas y Vegetarianas"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": "Vedado",
+            "web": null,
+            "descripcion": "Es un proyecto muy joven, de apenas 5 meses. Surge en medio de la pandemia, como idea para sobrevivir mental y económicamente. Las Frescas inventan con lo que tienen a mano. Entre sus productos destacan: pesto, hummus, mantequilla de manì, mermeladas, pasta de jengibre y ajo, pastas artesanales, pan de masa madre, frutas deshidratadas, aliños, hamburguesas de lentejas, bolitas de espinaca, paté de calabaza, aceites esenciales y sahumerios.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": "violenampudia@gmail.com",
+                "telefono": "52487562",
+                "direccion": "Calle 18 e/ 17 y 19, Vedado, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": "@la_sfresca_s",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Violena Ampudia"
+                        
+                },
+                {
+                    "nombre": "Leysa Medina"
+                    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                
+         ]
         }                    
     }
     
