@@ -7008,6 +7008,60 @@
                 
                 
          ]
+        },
+        "aceitesily": {
+            "id": "aceitesily",
+            "nombre": "Aceites Tropicales Ily",
+            "nombre-corto": "Aceites Tropicales Ily",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Emprendimiento", "Aceites Esenciales", "Aprovechamient", "Sostenibilidad"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": "Siboney",
+            "web": null,
+            "descripcion": "Durante la pandemia surgió este proyecto, encaminado a aprovechar los productos que tenían sus creadoras a disposición. Elaboran aceites de coco, aguacate, romero, aloe vera, semilla de aguacate y jengibre con base de aceite de oliva o de coco.",
+            "geo": {
+                "lat": 23.1239825,
+                "lon": -82.3805858
+            },
+            "localizacion": {
+                "email": "ilianacarrillo191@gmail.com",
+                "telefono": "52463359",
+                "direccion": "Calle 194 no. 1112 e/ 11 t 13 Siboney, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook": null,
+                "instagram": "@aceitesnaturales_habana",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Iliana Carrillo "
+                        
+                },
+                {
+                    "nombre": "Claudia Guevara"
+                    
+                },
+                {
+                    "nombre": "Lienys Cué"
+                    
+                }
+            ],
+            "eventos": null,
+            "ods": [
+                
+                
+         ]
         }                    
     }
     
