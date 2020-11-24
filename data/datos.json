@@ -7541,7 +7541,51 @@
             "eventos": null,
             "ods": [
          ]
-        }                    
+        },
+        "filifiore": {
+            "id": "filifiore",
+            "nombre": "Filifiore Habana",
+            "nombre-corto": "Filifiore Habana",
+            "logo": "logo-filifiore.jpeg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Jabones artesanales", "Productos naturales", "Reutilización", "Sostenibilidad", "Emprendimiento"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Filifiore Habana es un proyecto que desarrolla jabones a partir de aceite usado y productos naturales, como leche de coco, calabaza, romero, etc.",
+            "geo": {
+                "lat": 23.1087261,
+                "lon": -82.4346956
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "52920867",
+                "direccion": "Calle 7ma No. 6614 entre 66 y 70, Playa, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook":  null,
+                "instagram": "@filifiorehabana",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Liliana Núñez Velis"    
+                }
+                
+            ],
+            "eventos": null,
+            "ods": [
+         ]
+        }                       
     }
     
 }
