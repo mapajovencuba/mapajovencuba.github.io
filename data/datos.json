@@ -7493,6 +7493,54 @@
             "eventos": null,
             "ods": [
          ]
+        },
+        "y&m": {
+            "id": "y&m",
+            "nombre": "Detalles Y&M",
+            "nombre-corto": "Detalles Y&M",
+            "logo": "logo-Y_M.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Decoración", "Artesanía Reciclaje", "Sostenibilidad", "Emprendimiento"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "San Miguel del Padrón",
+            "consejo_popular": "California",
+            "web": null,
+            "descripcion": "Realizamos cestas de regalos y otros artículos de decoración con productos confeccionados por nosotras. Generalmente reciclamos artículos (pomos de vidrio de diferentes tamaños entre otros) y le damos una segunda oportunidad desde un fin útil y decorativo. Nuestro objetivo es reciclar y reutilizar todo lo que tengamos a mano para la confección de nuestros artículos y brindarles a nuestros clientes la posibilidad de llevarse a casa piezas originales, amigables con el medioambiente y hechas a mano con mucho cariño.",
+            "geo": {
+                "lat": 23.0960304,
+                "lon": -82.3360206
+            },
+            "localizacion": {
+                "email": "y.soleruribazo@gmail.com ",
+                "telefono": "52367676",
+                "direccion": "Calle A no.41 e/ 1era y 2da, California, San Miguel del Padrón, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook":  "https://www.facebook.com/YuleisiAguilarGonzaga/",
+                "instagram": "https://www.instagram.com/detallesyym/?igshid=qm4qwoqs0pw1",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Yohana Soler"
+                     
+                },
+                {
+                    "nombre": "Mirna Ortega"
+                     
+                }
+            ],
+            "eventos": null,
+            "ods": [
+         ]
         }                    
     }
     
