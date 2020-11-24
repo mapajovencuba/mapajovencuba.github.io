@@ -7449,6 +7449,50 @@
             "eventos": null,
             "ods": [
          ]
+        },
+        "danzacontodo": {
+            "id": "danzacontodo",
+            "nombre": "Danza con TODO",
+            "nombre-corto": "Danza con TODO",
+            "logo": null,
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Bienestar y Salud", "Deporte", "Danza", "Artículos deportivos y danzarios", "Emprendimiento"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": "Vedado",
+            "web": null,
+            "descripcion": "Danza con TODO es un proyecto sustentado en las ideas y necesidades de bailarines y practicantes de deportes, con la producción, personalización y comercialización de artículos para la ejercitación de la danza y el deporte.",
+            "geo": {
+                "lat": 23.1300932,
+                "lon": -82.401507
+            },
+            "localizacion": {
+                "email": "sandra28negrita@gmail.com",
+                "telefono": "53885308 - 78315852",
+                "direccion": "Calle 17 no. 1010 entre 10 y 12, Vedado, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook":  null,
+                "instagram": "@danzacontodo",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Sandra Rivero Reyes"
+                     
+                }
+            ],
+            "eventos": null,
+            "ods": [
+         ]
         }                    
     }
     
