@@ -5838,57 +5838,7 @@
                 }   
          ]
         },
-        "incubador": {
-            "id": "incubador",
-            "nombre": "Incubador",
-            "nombre-corto": "Incubador",
-            "logo": "logo-incubador.png",
-            "tipo": "por",
-            "alcance": "Local",
-            "organizacion": "proyecto",
-            "keywords": [
-                "incubador", "beca", "programa", 
-                "artista", "jovenes", "escuela de arte",
-                "LASA", "Aurelie Sampeur", "Candelario", 
-                "Macarena Goldenberg", "Cuba", "Habana", 
-                "San Agustin", "laboratorio artistico"  
-            ],
-            "categoria": null,
-            "provincia": "lha",
-            "municipio": "La Lisa",
-            "consejo_popular": "San Agustín",
-            "web": null,
-            "descripcion": "Incubador es una beca para jóvenes recién graduados de escuelas de arte de Cuba. Es una experiencia de aprendizaje para apoyar su profesionalización en la esfera artística nacional e internacional, considerando dos áreas complementarias de trabajo, una teórica y otra práctica.",
-            "geo": {
-                "lat": 23.031138,
-                "lon": -82.280624
-            },
-            "localizacion": {
-                "email": "lasa-cuba@gmail.com",
-                "telefono": "+53 7 267 3761",
-                "direccion": "35 esq. 254, San Agustín, La Lisa, La Habana, Cuba."
-            },
-            "social": {
-                "twitter": null,
-                "facebook": "https://www.facebook.com/lasa.cuba",
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Macarena Goldenberg y Aurélie Sampeur"        
-                }
-            ],
-            "eventos": null,
-            "ods": [
-                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
-                    "img": "4.png"
-                },
-                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
-                    "img": "4.png"
-                }
-         ]
-        },
+        
         "lasa": {
             "id": "lasa",
             "nombre": "LASA",
