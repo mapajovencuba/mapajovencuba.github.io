@@ -7585,7 +7585,111 @@
             "eventos": null,
             "ods": [
          ]
-        }                       
+        },
+        "lamplumen": {
+            "id": "lamplumen",
+            "nombre": "Lamp Lumen",
+            "nombre-corto": "Filifiore Habana",
+            "logo": "logo-filifiore.jpeg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Jabones artesanales", "Productos naturales", "Reutilización", "Sostenibilidad", "Emprendimiento"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Playa",
+            "consejo_popular": null,
+            "web": null,
+            "descripcion": "Filifiore Habana es un proyecto que desarrolla jabones a partir de aceite usado y productos naturales, como leche de coco, calabaza, romero, etc.",
+            "geo": {
+                "lat": 23.1087261,
+                "lon": -82.4346956
+            },
+            "localizacion": {
+                "email": null,
+                "telefono": "52920867",
+                "direccion": "Calle 7ma No. 6614 entre 66 y 70, Playa, La Habana, Cuba"
+            },
+            "social": {
+                "twitter": null,
+                "facebook":  null,
+                "instagram": "@filifiorehabana",
+                "youtube": null
+            },
+            "personas": [
+                {
+                    "nombre": "Liliana Núñez Velis"    
+                }
+                
+            ],
+            "eventos": null,
+            "ods": [
+         ]
+        },
+        "o2": {
+            "id": "o2",
+            "nombre": "O2 Habana",
+            "nombre-corto": "O2 Habana",
+            "logo": "logo-o2.jpg",
+            "tipo": "por",
+            "alcance": "Provincial",
+            "organizacion": "proyecto",
+            "keywords": [
+                "Belleza", "Bienestar", "Salud", "Gimnasio", "Ecológico"
+            ],
+            "categoria": [
+                
+            ],
+            "provincia": "lha",
+            "municipio": "Plaza de la Revolución",
+            "consejo_popular": "Nuevo Vedado",
+            "web": "www.o2habana.com",
+            "descripcion": "O2 es un espacio para oxigenar el espíritu, la mente y el cuerpo, con los servicios de gimnasio, peluquería y faciales, y cursos de belleza y bienestar.",
+            "geo": {
+                "lat": 23.064606,
+                "lon": -82.234788
+            },
+            "localizacion": {
+                "email": "o2habana.cuba@gmail.com",
+                "telefono": "(07) 8831663",
+                "direccion": "Calle 26 No. 5 esq. Calle 26B, Nuevo Vedado, La Habana, Cuba, 10100"
+            },
+            "social": {
+                "twitter": " https://mobile.twitter.com/o2habana",
+                "facebook":  "https://www.facebook.com/o2habana/",
+                "instagram": "https://instagram.com/o2habana?igshid=qxr81svtny9u",
+                "youtube": "https://www.youtube.com/channel/UC639Xln3AQQkSIx8wVdTlpQ"
+            },
+            "personas": [
+                
+                
+            ],
+            "eventos": null,
+            "ods": [
+                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+                    "img": "3.png"
+                   },
+                   {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+                       "img": "4.png"
+                   },
+                   {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+                       "img": "5.png"
+                   },
+                   {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+                    "img": "8.png"
+                   },
+                   {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                       "img": "17.png"
+                   },
+                   {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+                    "img": "17.png"
+                    }
+         ]
+        }                            
     }
     
 }
