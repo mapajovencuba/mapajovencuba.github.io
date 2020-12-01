@@ -254,64 +254,6 @@
                 }
             ]
         },
-        "geru": {
-            "id": "geru",
-            "nombre": "Grupo para el acompañamiento y la sensibilización Género y Ruralidad (GeRu)",
-            "nombre-corto": "GeRu",
-            "alcance": "provincial",
-            "organizacion": "grupo",
-            "logo": null,
-            "tipo": "por",
-            "keywords": [
-                "Género",
-                "Ruralidad",
-                "Equidad Social"
-            ],
-            "categoria": [
-                "Justicia de Género y Equidad"
-            ],
-            "provincia": "ltu",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": null,
-            "descripcion": "El Grupo para el acompañamiento y la sensibilización Género y Ruralidad (GeRu), es una plataforma de trabajo que desde el espacio local y con incidencia provincial promueve los aspectos relacionados con la equidad de género en el desarrollo. Desde sus inicios en marzo del 2014, entre sus principales líneas de trabajo o esfuerzos articulados, se encuentra: la formación de capacidades y la sensibilización de actores y autoridades; la prevención y atención de la violencia de género; la generación de conocimientos; el incentivo y apoyo de iniciativas económicas con enfoque de equidad; la visibilizarían y reconocimiento del papel de las mujeres en el desarrollo, la socialización de resultados entre otros aspectos.",
-            "geo": {
-                "lat": 21.150626,
-                "lon": -76.477622
-            },
-            "localizacion": {
-                "email": null,
-                "telefono": 31582754,
-                "direccion": "Centro Universitario Municipal Jesús Menéndez"
-            },
-            "social": {
-                "twitter": null,
-                "facebook": null,
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Aliek Méndez Bordón",
-                    "email": "aliekmb@gmail.com"
-                }
-            ],
-            "eventos": [
-                {
-                    "inicio": {
-                        "dia": 25,
-                        "mes": 11,
-                        "año": 2019
-                    },
-                    "fin": {
-                        "dia": 10,
-                        "mes": 12,
-                        "año": 2019
-                    },
-                    "nombre": "X Jornada por la No Violencia hacia las Mujeres y las Niñas"
-                }
-            ]
-        },
         "sj": {
             "id": "sj",
             "nombre": "Revista Somos Jóvenes",
