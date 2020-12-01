@@ -563,50 +563,6 @@
                 }
             ]
         },
-        "pet": {
-            "id": "Pétalos de Arcoiris",
-            "nombre": "Pétalos de Arcoiris",
-            "nombre-corto": "Pétalos de Arcoiris",
-            "logo": null,
-            "tipo": "por",
-            "alcance": "local",
-            "organizacion": "proyecto",
-            "keywords": [
-                "Tradiciones Culturales",
-                "Ecosistema"
-            ],
-            "categoria": [
-                "Identidad",
-                "Medio Ambiente"
-            ],
-            "provincia": "ltu",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": null,
-            "descripcion": "El proyecto, perteneciente a la Dirección Municipal de Cultura, constituye una de las prioridades para el desarrollo sociocultural del territorio, se inserta en la estrategia de la institución con objetivos y metas concretas en el rescate de tradiciones culturales en las comunidades de urbanas y la creación  de espacios para el desarrollo de las artes plásticas, la música tradicional,  historia, literatura y arte culinario local, entre otras. También se inserta en la Estrategia de Medio Ambiente del Gobierno municipal con objetivos específicos relacionados con la protección del ecosistema montañoso, el uso racional de los recursos naturales, el rescate de variedades de plantas en peligro de extinción y la formación de valores en cuanto al cuidado y conservación del medio ambiente en general.",
-            "geo": {
-                "lat": 22.741271,
-                "lon": -82.959706
-            },
-            "localizacion": {
-                "email": null,
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": null,
-                "facebook": null,
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Julia Esther Izaguirre Pedroso",
-                    "email": null
-                }
-            ],
-            "eventos": null
-        },
         "Baya": {
             "id": "Somos Bayate",
             "nombre": "Complejo deportivo Somos Bayate",
