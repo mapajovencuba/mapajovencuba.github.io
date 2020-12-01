@@ -364,52 +364,6 @@
             ],
             "eventos": null
         },
-        "KATA": {
-            "id": "KATA",
-            "nombre": "proyecto K'Talejo",
-            "nombre-corto": "K'Talejo",
-            "logo": null,
-            "tipo": "por",
-            "alcance": "local",
-            "organizacion": "proyecto",
-            "keywords": [
-                "Talleres",
-                "Educación Popular",
-                "Inclusión",
-                "Trabajo Comunitario"
-            ],
-            "categoria": [
-                "Medio Ambiente",
-                "Identidad"
-            ],
-            "provincia": "gtm",
-            "municipio": "Manuel Támez",
-            "consejo_popular": null,
-            "web": "http://www.brigadajosemarti.wordpress.com",
-            "descripcion": "Tiene como propósito la incorporación plena a la sociedad de niños con necesidades educativas especiales mediante las Artes plásticas y las posibilidades infinitas del reciclaje para la creación de manualidades y artesanías.",
-            "geo": {
-                "lat": 20.177219,
-                "lon": -75.055421
-            },
-            "localizacion": {
-                "email": null,
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": null,
-                "facebook": null,
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Yoandry D'Roncelett Zulueta",
-                    "email": null
-                }
-            ],
-            "eventos": null
-        },
         "RIAM": {
             "id": "RIAM",
             "nombre": "Red Iberoamericana y Africana de Masculinidades (RIAM)",
