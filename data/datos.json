@@ -364,52 +364,6 @@
             ],
             "eventos": null
         },
-        "TRAS": {
-            "id": "TRAS",
-            "nombre": "Proyecto Traspapel",
-            "nombre-corto": "Traspapel",
-            "logo": null,
-            "tipo": "por",
-            "alcance": "local",
-            "organizacion": "proyecto",
-            "keywords": [
-                "Reciclaje",
-                "Medio Ambiente",
-                "desarrollo Local",
-                "Desarrollo Comunitario"
-            ],
-            "categoria": [
-                "Medio Ambiente",
-                "Identidad"
-            ],
-            "provincia": "lha",
-            "municipio": "Habana Vieja",
-            "consejo_popular": "Belén",
-            "web": "http://www.brigadajosemarti.wordpress.com",
-            "descripcion": "Cierre del ciclo de talleres de reciclaje del Centro Cultural Comunitario Belén cuyo objetivo principal radica en la confección de trajes y bisutería. Durante este proceso los niños y jóvenes se nutren de cómo reciclar los materiales con los que trabajan y el daño que pueden ocasionar si se desechan indebidamente. El proyecto ayuda a instructores de arte y docentes de la comunidad a suplir carencias de escenografía y vestuarios.",
-            "geo": {
-                "lat": 23.133063,
-                "lon": -82.363306
-            },
-            "localizacion": {
-                "email": "creacionbjm@bjm.cult.cu",
-                "telefono": 78644479,
-                "direccion": null
-            },
-            "social": {
-                "twitter": "http://twitter.com/instructoresdeartecuba",
-                "facebook": "https://www.facebook.com/instructoresdeartecuba",
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "José Carlos Ruiz Alcántara",
-                    "email": "creacionbjm@bjm.cult.cu"
-                }
-            ],
-            "eventos": null
-        },
         "AF": {
             "id": "AF",
             "nombre": "Proyecto Sociocultural Arte Flor",
