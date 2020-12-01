@@ -563,64 +563,6 @@
                 }
             ]
         },
-        "ICD": {
-            "id": "Cátedra ICD",
-            "nombre": "Cátedra de Información y Comunicación para el Desarrollo",
-            "nombre-corto": "Cátedra ICD",
-            "logo": null,
-            "tipo": "para",
-            "alcance": "nacional",
-            "organizacion": "red",
-            "keywords": [
-                "Información",
-                "Comunicación",
-                "Comunicación para el Desarrollo"
-            ],
-            "categoria": [
-                "Participación y Gobernanza"
-            ],
-            "provincia": "lha",
-            "municipio": "Plaza de la Revolución",
-            "consejo_popular": null,
-            "web": null,
-            "descripcion": "La Cátedra Universitaria Comunicación e Información para el Desarrollo, de la Facultad de Comunicación de la Universidad de La Habana, tiene el interés de generar un espacio interdisciplinario de investigación y extensión universitaria en su ciclo completo, centrado en el desarrollo humano y el empoderamiento comunicacional, informacional, cultural y social. Tiene tres áreas de actuación: apoyo a la gestión infocomunicacional de entidades e iniciativas de desarrollo, incluyendo actores de gobierno; creación e implementación de programas y experiencias de alfabetización informacional y mediática, así como de educomunicación, en apoyo al empoderamiento ciudadano; y por último, estudio y abordaje de los determinantes infocomunicacionales del desarrollo. En este momento tiene unos 10 proyectos.",
-            "geo": {
-                "lat": 23.117984,
-                "lon": -82.397394
-            },
-            "localizacion": {
-                "email": null,
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": null,
-                "facebook": "https://es-la.facebook.com/InfocomunicacionparaelDesarrollo/",
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Willy Pedroso Aguiar",
-                    "email": "fcomwilo@gmail.com"
-                }
-            ],
-            "eventos": [
-                {
-                    "inicio": {
-                        "dia": 6,
-                        "mes": 12,
-                        "año": 2019
-                    },
-                    "fin": {
-                        "dia": 10,
-                        "mes": 12,
-                        "año": 2019
-                    },
-                    "nombre": " X Encuentro Internacional de Investigadores y Estudiosos de la Información y la Comunicación, ICOM 2019"
-                }
-            ]
-        },
         "rejac": {
             "id": "rejac",
             "nombre": "Red Juvenil Ambiental de Cuba",
