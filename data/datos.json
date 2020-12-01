@@ -254,50 +254,6 @@
                 }
             ]
         },
-        "OLI": {
-            "id": "OLI",
-            "nombre": "Olimpiando",
-            "nombre-corto": "Olimpiando",
-            "logo": null,
-            "tipo": "por",
-            "alcance": "local",
-            "organizacion": "proyecto",
-            "keywords": [
-                "capacitación",
-                "violencia de género",
-                "feminismo"
-            ],
-            "categoria": [
-                "Justicia de Género y Equidad"
-            ],
-            "provincia": "gra",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": null,
-            "descripcion": "“OLIMPIANDO” es un programa de participación en el que convergen estudiantes organizados en equipos para realización del programa. Por sus características está orientado a la formación integral del estudiantado. El objetivo general es contribuir a la capacitación sobre la prevención de la violencia de género a través de las sesiones de  participación, a demás de desarrollar actividades que contribuyan al conocimiento sobre la prevención de la violencia de género de carácter general o particulares según el grupo social con el cual se intervenga, promover el impacto en la comunidad estudiantil  desde las actividades que se conciben en el programa, evidenciando la incidencia de la recreación en la formación integral de los y las participantes, estimular el interés por la preparación y superación en la prevención de la violencia de género y equidad social. En este programa  se agrupan actividades docentes que dan salida a la prevención de la violencia de género y equidad social y espacios de participación variados, tanto para concursantes como para los miembros de las brigadas que no se incluyen en los equipos y que participan desde auditorio. Estas actividades se organizan en secciones y se desarrollan en locales que proporcionen estabilidad, comodidad, etc",
-            "geo": {
-                "lat": 20.376403,
-                "lon": -76.638821
-            },
-            "localizacion": {
-                "email": null,
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": null,
-                "facebook": null,
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Alain Gonzáles Paneque",
-                    "email": "agonzalesp@udig.co.cu"
-                }
-            ],
-            "eventos": null
-        },
         "PPYE": {
             "id": "PPYE",
             "nombre": "Plataforma de Participación y Equidad",
