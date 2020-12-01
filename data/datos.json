@@ -563,51 +563,6 @@
                 }
             ]
         },
-        "Conv": {
-            "id": "Convergencia",
-            "nombre": "Convergencia",
-            "nombre-corto": "Convergencia",
-            "logo": null,
-            "tipo": "para",
-            "alcance": "local",
-            "organizacion": "medio",
-            "keywords": [
-                "Juventudes",
-                "Violencia de Género",
-                "Equidad Social",
-                "Comunicación"
-            ],
-            "categoria": [
-                "Justicia de Género y Equidad"
-            ],
-            "provincia": "ltu",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": null,
-            "descripcion": "Convergencias es un boletín cuyo principal objetivo es socializar las experiencias y actividades de la Articulación Juvenil en los propios espacios de trabajo, estudio, etc, de quienes lo integran y en otros espacios de interés. Con una salida trimestral, Convergencias está concebido también para dedicarse a algún tema o fecha de importancia como el Día Internacional de la Mujer, Día contra la Homofobia y la Transfobia, Jornada por la no violencia hacia las mujeres, etc. Es una construcción colectiva de los casi 20 miembros de este grupo de trabajo en Las Tunas. Incluye una sección de noticias, entrevistas o testimonios, actividades realizadas o proyecciones futuras, humor gráfico que deconstruya imaginarios sociales arraigados al patriarcado. Además, sirve de conexión entre la Articulación Juvenil y los espacios en los que acciona. Dar a conocer el sentido de la articulación, sus actividades, educar, sensibilizar…",
-            "geo": {
-                "lat": 20.964477,
-                "lon": -76.951155
-            },
-            "localizacion": {
-                "email": null,
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": null,
-                "facebook": null,
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Danielle Laurencio Gómez",
-                    "email": "danylaurencio@gmail.com"
-                }
-            ],
-            "eventos": null
-        },
         "pet": {
             "id": "Pétalos de Arcoiris",
             "nombre": "Pétalos de Arcoiris",
