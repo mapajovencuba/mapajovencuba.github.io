@@ -128,68 +128,6 @@
                 }
          ]
         },
-        "hwm": {
-            "id": "hwm",
-            "nombre": "Havana World Music",
-            "nombre-corto": "HWM",
-            "alcance": "nacional",
-            "organizacion": "proyecto",
-            "logo": null,
-            "tipo": "para",
-            "keywords": [
-                "Cultura",
-                "Sostenibilidad Ambiental",
-                "Formación Artística"
-            ],
-            "categoria": [
-                "Identidad"
-            ],
-            "provincia": "lha",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": "http://www.havanaworldmusic.com",
-            "descripcion": "Havana World Music es un conjunto de proyectos aportando desde espacios culturales y propiciando procesos de transformación mediante el trabajo con la diversidad cultural (festival y proyecto con bandas que trabajan con las raíces Para Mestizar), juventud (concurso de nuevas bandas Primera Base) y mujeres (Women of the World, que reúne mujeres del mundo para hacer un proyecto musical en Cuba). El evento principal anual es el Festival Havana World Music, que en 6 ediciones ha reunido en La Habana a 60.000 personas, mayoritariamente jóvenes, y 123 bandas y agrupaciones artísticas de 30 países diferentes. Además, Havana World Music está dando pasos para introducir la sostenibilidad ambiental en sus eventos.",
-            "geo": {
-                "lat": 23.127546,
-                "lon": -82.410075
-            },
-            "localizacion": {
-                "email": "info@havanaworldmusic.com",
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": "www.twitter.com/havanaworld",
-                "facebook": "www.facebook.com/havanaworld",
-                "instagram": "www.instagram.com/havanaworldmusic",
-                "youtube": "www.youtube.com/havanaworldmusic"
-            },
-            "personas": [
-                {
-                    "nombre": "Anabel Jiménez López",
-                    "email": "anabel@havanaworldmusic.com"
-                },
-                {
-                    "nombre": "Maite Hernández Fonseca",
-                    "email": "maite@havanaworldmusic.com"
-                }
-            ],
-            "eventos": [
-                {
-                    "inicio": {
-                        "dia": 26,
-                        "mes": 3,
-                        "año": 2020
-                    },
-                    "fin": {
-                        "dia": 28,
-                        "mes": 3,
-                        "año": 2020
-                    },
-                    "nombre": "Festival Havana World Music"
-                }
-            ]
-        },
         "gemas": {
             "id": "gemas",
             "nombre": "Grupo de Estudios sobre Medio Ambiente y Sociedad (GEMAS) Instituto de Filosofía ",
