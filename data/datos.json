@@ -364,51 +364,6 @@
             ],
             "eventos": null
         },
-        "BJM": {
-            "id": "BJM",
-            "nombre": "Brigada de Instructores de Arte José Martí",
-            "nombre-corto": "BJM",
-            "logo": null,
-            "tipo": "para",
-            "alcance": "nacional",
-            "organizacion": "red",
-            "keywords": [
-                "Arte",
-                "Cultura",
-                "Tradición",
-                "Trabajo Comunitario"
-            ],
-            "categoria": [
-                "Identidad"
-            ],
-            "provincia": "lha",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": "http://www.brigadajosemarti.wordpress.com",
-            "descripcion": "Este proyecto devenido movimiento cultural, tiene como propósito esencial realzar y estimular el ejercicio profesional de los Instructores de Arte. A su vez, utiliza el trabajo colectivo como fórmula imprescindible teniendo como escenarios fundamentales, aunque no únicos, escuelas, casas de cultura y otros espacios de la comunidad.",
-            "geo": {
-                "lat": 23.133164,
-                "lon": -82.353832
-            },
-            "localizacion": {
-                "email": "presidenciabjm@bjm.cult.cu",
-                "telefono": 78644478,
-                "direccion": null
-            },
-            "social": {
-                "twitter": "http://twitter.com/instructoresdeartecuba",
-                "facebook": "https://www.facebook.com/instructoresdeartecuba",
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Liliam Mendoza Estrada",
-                    "email": "presidenciabjm@bjm.cult.cu"
-                }
-            ],
-            "eventos": null
-        },
         "CCCB": {
             "id": "CCCB",
             "nombre": "Centro Cultural Comunitario Belén",
