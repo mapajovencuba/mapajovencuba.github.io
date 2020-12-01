@@ -128,58 +128,6 @@
                 }
          ]
         },
-        "dbeb": {
-            "id": "dbeb",
-            "nombre": "Proyecto Comunitario De Barrio en Barrio",
-            "nombre-corto": "De Barrio en Barrio",
-            "alcance": "local",
-            "organizacion": "proyecto",
-            "logo": null,
-            "tipo": "por",
-            "keywords": [
-                "Desarrollo Comunitario",
-                "No Violencia",
-                "Integración"
-            ],
-            "categoria": [
-                "Justicia de Género y Equidad"
-            ],
-            "provincia": "gra",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": null,
-            "descripcion": "El Proyecto Comunitario De Barrio en Barrio es una intensión social que utiliza como herramientas fundamentales las actividades físicas, deportivas, recreativas y culturales con un marcado enfoque preventivo y reeducativo vinculadas con acciones de promoción, capacitación y sensibilización, como espacios para el tratamiento a problemáticas en temas relacionados con la violencia de género y la equidad social a partir de las necesidades detectadas en comunidades vulnerables de la provincia Granma, fundamentalmente en comunidades de difícil acceso o rurales, además de aquellas identificadas en el mapa sociopolítico del gobierno",
-            "geo": {
-                "lat": 20.500093,
-                "lon": -76.641009
-            },
-            "localizacion": {
-                "email": null,
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": null,
-                "facebook": null,
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Osvanys Pantoja Ojea",
-                    "email": "opantojao@udg.co.cu"
-                },
-                {
-                    "nombre": "Alain Gonzales Paneque",
-                    "email": "agonzalesp@udg.co.cu"
-                },
-                {
-                    "nombre": "Yaima Castillo Pumarroll",
-                    "email": "ycastillop@udg.co.cu"
-                }
-            ],
-            "eventos": null
-        },
         "esc": {
             "id": "esc",
             "nombre": "Escaramujo",
