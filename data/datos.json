@@ -254,50 +254,6 @@
                 }
             ]
         },
-        "sj": {
-            "id": "sj",
-            "nombre": "Revista Somos Jóvenes",
-            "nombre-corto": "Somos Jóvenes",
-            "alcance": "nacional",
-            "organizacion": "medio",
-            "logo": null,
-            "tipo": "para",
-            "keywords": [
-                "Comunicación",
-                "Juventud",
-                "Equidad Social"
-            ],
-            "categoria": [
-                "Identidad"
-            ],
-            "provincia": "lha",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": "https://medium.com/somos-j%C3%B3venes",
-            "descripcion": "Somos Jóvenes es una publicación de alcance nacional dirigida, sobre todo, a los jóvenes en edades entre 15 y 20 años. Esta revista se acerca a los intereses para la juventud y en su accionar destaca el acercamiento a los temas de género, equidad, medio ambiente, formación de valores y sensibilización.",
-            "geo": {
-                "lat": 23.135325,
-                "lon": -82.358508
-            },
-            "localizacion": {
-                "email": "somosjovenescuba@gmail.com",
-                "telefono": 78625031,
-                "direccion": "Casa Editora Abril. Prado #553, entre Teniente Rey y Dragones. La Habana Vieja. La Habana"
-            },
-            "social": {
-                "twitter": "www.twitter.com/somosjovenes",
-                "facebook": "www.facebook.com/somosjovenescuba",
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Darío Alejandro Paulino Escobar",
-                    "email": "cubafulltime@gmail.com"
-                }
-            ],
-            "eventos": null
-        },
         "JAC": {
             "id": "JAC",
             "nombre": "Jóvenes Ambientalistas Cubanos",
