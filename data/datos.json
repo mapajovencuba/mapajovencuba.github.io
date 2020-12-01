@@ -254,57 +254,6 @@
                 }
             ]
         },
-        "NAM": {
-            "id": "NAM",
-            "nombre": "Proyecto Nuestra América",
-            "nombre-corto": "Nuestra América",
-            "logo": null,
-            "tipo": "para",
-            "alcance": "nacional",
-            "organizacion": "proyecto",
-            "keywords": [
-                "Socialismo",
-                "Poder Popular",
-                "Revolución",
-                "Feminismo",
-                "Política"
-            ],
-            "categoria": [
-                "Identidad",
-                "Emancipación"
-            ],
-            "provincia": "lha",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": null,
-            "descripcion": "El Proyecto Nuestra América es un colectivo de jóvenes cubanos y latinoamericanos que tienen como objetivo estratégico impulsar el socialismo en Cuba y en América Latina. Trabajamos en este sentido reconstruyendo el tejido social revolucionario y profundizando el poder popular en Cuba.",
-            "geo": {
-                "lat": 23.140984,
-                "lon": -82.381955
-            },
-            "localizacion": {
-                "email": null,
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": null,
-                "facebook": "http://facebook.com/proyecto-nuestra-am%C3%A9rica-864768543654721",
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Betsi Caratayú Fumero",
-                    "email": null
-                },
-                {
-                    "nombre": "Lissy Villar",
-                    "email": "lissyvillar91@gmail.com"
-                }
-            ],
-            "eventos": null
-        },
         "OLI": {
             "id": "OLI",
             "nombre": "Olimpiando",
