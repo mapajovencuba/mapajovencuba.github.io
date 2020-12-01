@@ -563,49 +563,6 @@
                 }
             ]
         },
-        "Baya": {
-            "id": "Somos Bayate",
-            "nombre": "Complejo deportivo Somos Bayate",
-            "nombre-corto": "Somos Bayate",
-            "logo": null,
-            "tipo": "para",
-            "alcance": "local",
-            "organizacion": "proyecto",
-            "keywords": [
-                "Gimnasio",
-                "Deporte"
-            ],
-            "categoria": [
-                "Medio Ambiente"
-            ],
-            "provincia": "ltu",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": null,
-            "descripcion": "En el Consejo Popular Sur del municipio existe una marcada incidencia de personas con padecimiento de enfermedades  como hipertensión arterial, dolencias cardiovasculares,  cerebrovasculares  y de obesidad.  Se cuenta con un gimnasio  Biodegradable, pero no existen áreas para la práctica sistemática de deportes. Viven cinco activistas deportivos, los que tienen resultados relevantes a nivel provincial quienes se ven comprometidos con la transformación de su localidad y brindar mejor calidad de vida a sus pobladores con la práctica de ejercicios físicos. El  proyecto permite la práctica sistemática de deportes y el desarrollo de actividades medioambientales con la participación activa de la comunidad.",
-            "geo": {
-                "lat": 22.740352,
-                "lon": -82.936427
-            },
-            "localizacion": {
-                "email": null,
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": null,
-                "facebook": null,
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Alexander Acosta",
-                    "email": null
-                }
-            ],
-            "eventos": null
-        },
         "ICD": {
             "id": "Cátedra ICD",
             "nombre": "Cátedra de Información y Comunicación para el Desarrollo",
