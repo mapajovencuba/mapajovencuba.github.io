@@ -254,50 +254,6 @@
                 }
             ]
         },
-        "JAC": {
-            "id": "JAC",
-            "nombre": "Jóvenes Ambientalistas Cubanos",
-            "nombre-corto": "JAC",
-            "logo": null,
-            "tipo": "por",
-            "alcance": "nacional",
-            "organizacion": "red",
-            "keywords": [
-                "Jóvenes Ambientalistas",
-                "Medio Ambiente",
-                "Ambientalistas"
-            ],
-            "categoria": [
-                "Medio Ambiente"
-            ],
-            "provincia": "lha",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": null,
-            "descripcion": "La iniciativa JAC es un movimiento juvenil de ambientalistas cubanos que lidera acciones a favor del medio ambiente y procesos para la conservación y uso sostenible de la biodiversidad. Al mismo tiempo, sensibiliza sobre la rehabilitación de la calidad ambiental a partir de la disminución de los efectos e impactos del cambio climático.Tiene la misión de realizar acciones de protección, conservación, manejo y sensibilización medioambiental con el fin de desarrollar actividades que contribuyan a tener un ambiente más sano; conscientes de la necesidad de llevar a cabo soluciones que repercutan en el desarrollo próspero y sostenible de la nación cubana.",
-            "geo": {
-                "lat": 23.136791,
-                "lon": -82.384778
-            },
-            "localizacion": {
-                "email": null,
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": "http://twitter.com/richardcuba1993",
-                "facebook": "http://facebook.com/JACdeAMA",
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Richard Gutiérrez Cuesta",
-                    "email": "gutierrezcuba65@gmail.com"
-                }
-            ],
-            "eventos": null
-        },
         "NAM": {
             "id": "NAM",
             "nombre": "Proyecto Nuestra América",
