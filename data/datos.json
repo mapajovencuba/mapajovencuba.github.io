@@ -364,52 +364,6 @@
             ],
             "eventos": null
         },
-        "CCCB": {
-            "id": "CCCB",
-            "nombre": "Centro Cultural Comunitario Belén",
-            "nombre-corto": "Centro Cultural Comunitario Belén",
-            "logo": null,
-            "tipo": "por",
-            "alcance": "local",
-            "organizacion": "proyecto",
-            "keywords": [
-                "Talleres",
-                "Medio Ambiente",
-                "Desarrollo Local",
-                "Desarrollo Comunitario"
-            ],
-            "categoria": [
-                "Medio Ambiente",
-                "Identidad"
-            ],
-            "provincia": "lha",
-            "municipio": "Habana Vieja",
-            "consejo_popular": "Belén",
-            "web": "http://www.brigadajosemarti.wordpress.com",
-            "descripcion": "Ofrece un espacio para el desarrollo de talleres y acciones comunitarias asociadas al cuidado y protección del Medio Ambiente en la comunidad Belén de La Habana Vieja. Aprovechando también las posibilidades infinitas que ofrecen las diversas manifestaciones artísticas.",
-            "geo": {
-                "lat": 23.133063,
-                "lon": -82.353306
-            },
-            "localizacion": {
-                "email": "presidenciabjm@bjm.cult.cu",
-                "telefono": 78644479,
-                "direccion": null
-            },
-            "social": {
-                "twitter": "http://twitter.com/instructoresdeartecuba",
-                "facebook": "https://www.facebook.com/instructoresdeartecuba",
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Heysi Rodríguez Suárez",
-                    "email": "presidenciabjm@bjm.cult.cu"
-                }
-            ],
-            "eventos": null
-        },
         "TRAS": {
             "id": "TRAS",
             "nombre": "Proyecto Traspapel",
