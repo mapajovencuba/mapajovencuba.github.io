@@ -128,68 +128,6 @@
                 }
          ]
         },
-        "Claus": {
-            "id": "Claus",
-            "nombre": "Claustrofobias Promociones Literarias",
-            "nombre-corto": "Claustrofobias",
-            "alcance": "nacional",
-            "organizacion": "proyecto",
-            "logo": null,
-            "tipo": "por",
-            "keywords": [
-                "Literatura",
-                "TICS",
-                "Comunidad"
-            ],
-            "categoria": [
-                "Identidad"
-            ],
-            "provincia": "stg",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": "http://www.claustrofobias.com",
-            "descripcion": "Promoción del libro y la lectura como herramienta para fomentar valores y proteger identidades. Conservación del patrimonio y la memoria de nuestros pueblos con publicaciones impresas y digitales. Realización de publicaciones y estrategias de comunicación. Aprovechamiento de las TICS.",
-            "geo": {
-                "lat": 20.022052,
-                "lon": -75.821636
-            },
-            "localizacion": {
-                "email": "somos@claustrofobias.com",
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": "https://twitter.com/claustrofobias",
-                "facebook": "https://facebook.com/claustrofobias",
-                "instagram": "https://instagram.com/claustrofobias",
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Yunier Riquenes García",
-                    "email": "yunierr247@gmail.com"
-                },
-                {
-                    "nombre": "Naskicet Domínguez Pérez",
-                    "email": "somos@claustrofobias.com"
-                }
-            ],
-            "eventos": [
-                {
-                    "inicio": {
-                        "dia": 15,
-                        "mes": 7,
-                        "año": 2019
-                    },
-                    "fin": {
-                        "dia": 20,
-                        "mes": 7,
-                        "año": 2019
-                    },
-                    "nombre": "Curso Infantil de Escritura Creativa de Verano"
-                }
-            ]
-        },
         "dbeb": {
             "id": "dbeb",
             "nombre": "Proyecto Comunitario De Barrio en Barrio",
