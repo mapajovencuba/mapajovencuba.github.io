@@ -128,45 +128,6 @@
                 }
          ]
         },
-        "habsub": { 
-            "id": "HabanaSub",
-            "nombre": "HabanaSub",
-            "nombre-corto": "HabanaSub",
-            "alcance": "local",
-            "organizacion": "proyecto",
-            "logo": null,
-            "tipo": "por",
-            "keywords": [
-                "Medio Ambiente",
-                "Arqueología",
-                "Reciclaje"
-            ],
-            "categoria": [
-                "Medio Ambiente"
-            ],
-            "provincia": "lha",
-            "municipio": "Centro Habana",
-            "consejo_popular": "Colón",
-            "web": null,
-            "descripcion": "Lograr la sensibilización de la población de la zona adyacente al Malecón Habanero. Además el saneamiento y limpieza de la zona costera realizada por el Grupo de HabanaSub con el objetivo de proteger los recursos marinos del litoral habanero.",
-            "geo": {
-                "lat": 23.140687,
-                "lon": -82.359871
-            },
-            "localizacion": {
-                "email": "habanasub2018@gmail.com",
-                "telefono": null,
-                "direccion": "Consulado # 166 apto 41 e/ Colón y Trocadero Centro Habana"
-            },
-            "social": {
-                "twitter": null,
-                "facebook": "https://www.facebook.com/habanasub",
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": null,
-            "eventos": null
-        },
         "Claus": {
             "id": "Claus",
             "nombre": "Claustrofobias Promociones Literarias",
