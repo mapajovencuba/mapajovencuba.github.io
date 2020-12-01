@@ -128,64 +128,6 @@
                 }
          ]
         },
-        "esc": {
-            "id": "esc",
-            "nombre": "Escaramujo",
-            "nombre-corto": "Escaramujo",
-            "alcance": "nacional",
-            "organizacion": "proyecto",
-            "logo": null,
-            "tipo": "por",
-            "keywords": [
-                "Educación Popular",
-                "Adolescentes",
-                "Transformación Social"
-            ],
-            "categoria": [
-                "Inclusión"
-            ],
-            "provincia": "lha",
-            "municipio": null,
-            "consejo_popular": null,
-            "web": "http://www.proyectoescaramujo.wordpress.com",
-            "descripcion": "Escaramujo es un proyecto educomunicativo interdisciplinar que trabaja desde el año 2010.Es impulsado por estudiantes, profesores y egresados de siete facultades del país desde ocho carreras universitarias.  Su objetivo fundamental es contribuir al desarrollo psicosocial de niñas, niños y adolescentes en Cuba, fundamentalmente en aquellos y aquellas que viven en condiciones de vulnerabilidad social, a partir de una práctica educomunicativa interdisciplinar gestionada desde el ámbito universitario y concebida desde las concepciones y metodologías de la Educación Popular.",
-            "geo": {
-                "lat": 23.117984,
-                "lon": -82.387394
-            },
-            "localizacion": {
-                "email": "escaramujo@fcom.uh.cu",
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": null,
-                "facebook": "http://facebook.com/ProyectoEscaramujo",
-                "instagram": "http://instagram.com/escaramujocuba",
-                "youtube": "http://youtube.com/escaramujocuba"
-            },
-            "personas": [
-                {
-                    "nombre": "Beatriz Herrera Carvajal",
-                    "email": "bherrera0130@gmail.com"
-                }
-            ],
-            "eventos": [
-                {
-                    "inicio": {
-                        "dia": 1,
-                        "mes": 2,
-                        "año": 2020
-                    },
-                    "fin": {
-                        "dia": 29,
-                        "mes": 2,
-                        "año": 2020
-                    },
-                    "nombre": "VI edición del evento académico Adolescer"
-                }
-            ]
-        },
         "hwm": {
             "id": "hwm",
             "nombre": "Havana World Music",
