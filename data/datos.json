@@ -364,51 +364,6 @@
             ],
             "eventos": null
         },
-        "AF": {
-            "id": "AF",
-            "nombre": "Proyecto Sociocultural Arte Flor",
-            "nombre-corto": "Arte Flor",
-            "logo": null,
-            "tipo": "por",
-            "alcance": "local",
-            "organizacion": "proyecto",
-            "keywords": [
-                "Integración",
-                "Medio Ambiente",
-                "Desarrollo Local",
-                "Desarrollo Comunitario"
-            ],
-            "categoria": [
-                "Medio Ambiente"
-            ],
-            "provincia": "gtm",
-            "municipio": "Yateras",
-            "consejo_popular": "Monte Verde",
-            "web": "http://www.brigadajosemarti.wordpress.com",
-            "descripcion": "Contribuir a la satisfacción de necesidad (subsistencia, participación, ocio, creación) de mujeres y jóvenes de la comunidad de Monte Verde a partir de las opciones que brindan la floricultura, la artesanía y el cultivo de berro para el bienestar humano.",
-            "geo": {
-                "lat": 20.382707,
-                "lon": -74.919205
-            },
-            "localizacion": {
-                "email": null,
-                "telefono": null,
-                "direccion": null
-            },
-            "social": {
-                "twitter": null,
-                "facebook": null,
-                "instagram": null,
-                "youtube": null
-            },
-            "personas": [
-                {
-                    "nombre": "Isael Peña Acosta",
-                    "email": null
-                }
-            ],
-            "eventos": null
-        },
         "KATA": {
             "id": "KATA",
             "nombre": "proyecto K'Talejo",
