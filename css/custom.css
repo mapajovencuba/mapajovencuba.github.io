@@ -12,6 +12,10 @@
        url(../css/DaxlinePro-ExtraBold_13128.ttf);
 }
 
+#header-ul {
+	margin-bottom: 0 !important;
+}
+
 
 body {
   font-family: 'DaxlinePro', sans-serif;
@@ -290,6 +294,7 @@ body {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
+
 
 #content {
 	background-color: #f5f1f1;
