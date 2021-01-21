@@ -570,7 +570,7 @@ $.getJSON("data/cuba.geojson",
 		
 		$('#province-select').on('change',function(e){update();});
 		$('#reach-select').on('change',function(e){update();});
-		$('#category-select').on('change',function(e){update();});
+		//$('#category-select').on('change',function(e){update();});
 		$('#org-select').on('change',function(e){update();});
 		$('#showinst').on('change',function(e){
 			showinst = !showinst
