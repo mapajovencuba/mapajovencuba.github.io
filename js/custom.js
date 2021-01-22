@@ -549,10 +549,19 @@ $.getJSON("data/cuba.geojson",
 					}
 				}
 			}
-			var category = $('#category-select').val();
+			/*var category = $('#category-select').val();
 			if (category!='none'){
 				for(var i in tdict){
 					if (datos.proyectos[i].categoria.indexOf(category)==-1){
+						tdict[i]=false;	
+					}
+				}
+			}*/
+
+			var category = $('#category-select').val();
+			if (category!='none'){
+				for(var i in tdict){
+					if (datos.proyectos[i].ods.img.indexOf(category)==-1){
 						tdict[i]=false;	
 					}
 				}
@@ -589,7 +598,7 @@ $.getJSON("data/cuba.geojson",
 			}
 			$('#profile-title-block').css('background-color',topicData['General'].color);
 			$('#project-name').html(e.nombre);
-			$('#project-category').html(setStrings(e.categoria));
+			$('#project-category').html(setStrings(e.ods.img));
 			$('#project-reach').html(e.alcance);
 			$('#project-keywords').html(setStrings(e.keywords));
 			$('#project-description').html(e.descripcion);

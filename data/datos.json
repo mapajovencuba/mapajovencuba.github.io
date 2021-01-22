@@ -6748,7 +6748,11 @@
                    {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
                     "img": "17.png"
                     }
-         ]
+         ],
+         "ods1": [
+            "3", "4","5","8","17"
+                
+     ]
         }                            
     }
     
