@@ -55,106 +55,106 @@ $('#filter-less').click(function(e){
 function setStrings(l){
 		var t= '';
 		for(var i in l){
-			t+= l[i]+', ';	
+			t+= l[i]+', ';
 		}
 		return t.slice(0,t.length-2);
 	}
 
 function addZero(i){
 	if ((i/10)<1){
-		return '0'+i;	
+		return '0'+i;
 	}
-	return ''+i;	
+	return ''+i;
 }
 
-var positions = {    
+var positions = {
 	'cuba' : {
 		'lat': 22.153168,
 		'lon': -79.271124,
 		'zoom': cubazoom
-	},   
+	},
 	'lha' : {
 		'lat': 23.0766324,
 		'lon': -82.3360146,
 		'zoom': lhazoom
-	},   
+	},
 	'pri' : {
 		'lat': 22.438307,
 		'lon': -83.702309,
 		'zoom': prizoom
-	},   
+	},
 	'art' : {
 		'lat': 22.842204,
 		'lon': -82.745224,
 		'zoom': artzoom
-	},   
+	},
 	'may' : {
 		'lat': 22.952956,
 		'lon': -81.993915,
 		'zoom': mayzoom
-	},   
+	},
 	'ijv' : {
 		'lat': 21.719568,
 		'lon': -82.858492,
 		'zoom': 10.5
-	},   
+	},
 	'mat' : {
 		'lat': 22.659698,
 		'lon': -81.408236,
 		'zoom': ijvzoom
-	},   
+	},
 	'cfg' : {
 		'lat': 22.197917,
 		'lon': -80.448240,
 		'zoom': cfgzoom
-	},   
+	},
 	'vcl' : {
 		'lat': 22.452371,
 		'lon': -79.954054,
 		'zoom': vclzoom
-	},   
+	},
 	'ssp' : {
 		'lat': 21.959919,
 		'lon': -79.479276,
 		'zoom': sspzoom
-	},   
+	},
 	'cav' : {
 		'lat': 21.926637,
 		'lon': -78.752911,
 		'zoom': cavzoom
-	},   
+	},
 	'cam' : {
 		'lat': 21.364849,
 		'lon': -77.839544,
 		'zoom': camzoom
-	},   
-	
+	},
+
 	'ltu' : {
 		'lat': 20.983554,
 		'lon': -76.923605,
 		'zoom': ltuzoom
-	},   
+	},
 	'hol' : {
 		'lat': 20.855621,
 		'lon': -76.260657,
 		'zoom': holzoom
-	},   
+	},
 	'gra' : {
 		'lat': 20.315138,
 		'lon': -76.675267,
 		'zoom': grazoom
-	},   
+	},
 	'gtm' : {
 		'lat': 20.184101,
 		'lon': -75.046560,
 		'zoom': gtmzoom
-	},   
+	},
 	'stg' : {
 		'lat': 20.166654,
 		'lon': -75.8448168,
 		'zoom': stgzoom
 	}
-	
+
 }
 
 
@@ -187,7 +187,7 @@ function showProfile(){
 $('#close-profile').click(
 	function(e){
 		hideProfile();
-	}	
+	}
 );
 
 var events = [];
@@ -204,7 +204,7 @@ $.getJSON("data/cuba.geojson",
 			popupAnchor: [3,-22],
 			tooltipAnchor: [0,-4],
 			shadowUrl: '../img/shadow.png',
-			shadowSize: [26,26], 
+			shadowSize: [26,26],
 			shadowAnchor: [5,26]
 		});
 		var emancipacionIcon = L.icon({
@@ -214,7 +214,7 @@ $.getJSON("data/cuba.geojson",
 			popupAnchor: [3,-22],
 			tooltipAnchor: [-7,0],
 			shadowUrl: '../img/shadow.png',
-			shadowSize: [26,26], 
+			shadowSize: [26,26],
 			shadowAnchor: [5,26]
 		});
 		var gobernanzaIcon = L.icon({
@@ -224,7 +224,7 @@ $.getJSON("data/cuba.geojson",
 			popupAnchor: [3,-22],
 			tooltipAnchor: [-7,0],
 			shadowUrl: '../img/shadow.png',
-			shadowSize: [26,26], 
+			shadowSize: [26,26],
 			shadowAnchor: [5,26]
 		});
 		var identidadIcon = L.icon({
@@ -234,7 +234,7 @@ $.getJSON("data/cuba.geojson",
 			popupAnchor: [3,-22],
 			tooltipAnchor: [-7,0],
 			shadowUrl: '../img/shadow.png',
-			shadowSize: [26,26], 
+			shadowSize: [26,26],
 			shadowAnchor: [5,26]
 		});
 		var inclusionIcon = L.icon({
@@ -244,7 +244,7 @@ $.getJSON("data/cuba.geojson",
 			popupAnchor: [3,-22],
 			tooltipAnchor: [-7,-0],
 			shadowUrl: '../img/shadow.png',
-			shadowSize: [26,26], 
+			shadowSize: [26,26],
 			shadowAnchor: [5,26]
 		});
 		var medioambienteIcon = L.icon({
@@ -254,7 +254,7 @@ $.getJSON("data/cuba.geojson",
 			popupAnchor: [3,-22],
 			tooltipAnchor: [-7,0],
 			shadowUrl: '../img/shadow.png',
-			shadowSize: [26,26], 
+			shadowSize: [26,26],
 			shadowAnchor: [5,26]
 		});
 		var generalIcon = L.icon({
@@ -264,10 +264,10 @@ $.getJSON("data/cuba.geojson",
 			popupAnchor: [3,-22],
 			tooltipAnchor: [-7,0],
 			shadowUrl: '../img/shadow.png',
-			shadowSize: [26,26], 
+			shadowSize: [26,26],
 			shadowAnchor: [5,26]
 		});
-		
+
 		var topicData = {
 			"Medio Ambiente": {
 				"icon":generalIcon,
@@ -309,9 +309,9 @@ $.getJSON("data/cuba.geojson",
 				"color": '#00B150'
 			}
 		}
-		
-		
-		var calendar = null;	
+
+
+		var calendar = null;
 		function setCalendar(){
 			var calendarEl = document.getElementById('calendar');
 		    calendar = new FullCalendar.Calendar(calendarEl, {
@@ -330,14 +330,14 @@ $.getJSON("data/cuba.geojson",
 		      eventRender: function eventRender(event, element ) {
 				  var pid = event.event.extendedProps.description;
                   return pdict[pid];
-              }, 
+              },
 		    });
-		
+
 		    calendar.render();
-		    
+
 		}
-		
-		
+
+
 		var search = lunr(function () {
 		  this.use(lunr.es);
 		  //this.pipeline.remove(lunr.es.stemmer);
@@ -352,37 +352,37 @@ $.getJSON("data/cuba.geojson",
 		     this.add(data.proyectos[tkeys[i]]);
 		  }
 		});
-		
-		
-		
+
+
+
 		function moveMap(id){
 			map.flyTo([positions[id]['lat'],positions[id]['lon']],positions[id]['zoom']);
 		}
 		var datos = data;
 		var pdict = {};
-		
+
 		function getSmallProfile(id){
 			var e = datos.proyectos[id];
 			var t = '';
 			t += '<div class="small-pname" style="background-color:'+topicData['General'].color+'">'+e['nombre-corto']+'</div>';
-			t += '<div class="small-pcategory-block"><span class="small-pcategory-label">Temática(s):</span> <span class="small-pcategory">'+setStrings(e['categoria'])+'</span></div>';
+			// t += '<div class="small-pcategory-block"><span class="small-pcategory-label">Temática(s):</span> <span class="small-pcategory">'+setStrings(e['categoria'])+'</span></div>';
 			t += '<div class="small-pkeywords-block"><span class="small-pkeywords-label">Palabras clave:</span> <span class="small-pkeywords">'+e['keywords']+'</span></div>';
 			/*t += '<div class="list-pcontent-estructura">';
 			t += '<span class="small-pestructura-label">Estructura:</span> <span class="small-estructura">'+e['estructura']+'</span>';
 			t += '</div>';*/
 			t += '<div class="small-plink cursor" style="color:'+topicData['General'].color+'" id="pid-'+id+'">VER PROYECTO</div>';
-			
+
 			return t;
 		}
 		//definir la var en el resumen del proyecto en /List------------------
 		function getListBlock(id){
 			var e = datos.proyectos[id];
 			var t = '<div class="list-ppart">';
-			t += '<div class="list-pname cursor" id="pid-'+id+'">'+e['nombre-corto']+'</div>';
+			t += '<div class="list-pname cursor" id="pid-'+id+'">'+e['nombre']+'</div>';
 			t += '<hr class="hr-pname">'
 			t += '<div class="list-pcontent">';
 			t += '<div class="list-pcontent-categ-reach">';
-			t += ' <span class="small-pcategory-label">Temática(s):</span> <span class="small-pcategory">'+setStrings(e['categoria'])+'</span><span class="sep"> / </span>';
+			// t += ' <span class="small-pcategory-label">Temática(s):</span> <span class="small-pcategory">'+setStrings(e['categoria'])+'</span><span class="sep"> / </span>';
 			t += ' <span class="small-preach-label">Alcance:</span> <span class="small-preach">'+e['alcance']+'</span>';
 			t += '</div>';
 			t += '<div class="list-pcontent-keywords">';
@@ -391,12 +391,12 @@ $.getJSON("data/cuba.geojson",
 			/*t += '<div class="list-pcontent-estructura">';
 			t += '<span class="small-pestructura-label">Estructura:</span> <span class="small-estructura">'+e['estructura']+'</span>';
 			t += '</div>';*/
-			t += '</div>' 
-			t+='</div>'; 
+			t += '</div>'
+			t+='</div>';
 			return t;
 		}
 		//definir la var en el resumen del proyecto en /List End---------------------
-		
+
 		function style(feature){
 			 return {
 				weight: 0.5,
@@ -434,7 +434,7 @@ $.getJSON("data/cuba.geojson",
 				);
 			}
 		);
-		
+
 		var markers = {};
 		for(var i in datos.proyectos){
 			pdict[i]=true;
@@ -457,31 +457,31 @@ $.getJSON("data/cuba.geojson",
 					el['backgroundColor']=topicData['General'].color;
 					el['borderColor']=topicData['General'].color;
 					if (e.fin!=null){
-						el['end'] = e.fin['año']+'-'+addZero(e.fin.mes)+'-'+addZero(e.fin.dia);	
+						el['end'] = e.fin['año']+'-'+addZero(e.fin.mes)+'-'+addZero(e.fin.dia);
 					}
 					events.push(el);
-				}	
+				}
 			}
 		}
 		setCalendar();
 		$('#calendar-info').addClass('undisplay');
-		
 
-		
+
+
 		function setBounds(){
 			map.fitBounds(geojson.getBounds());
 		}
-		
+
 		window.addEventListener('resize', setBounds);
-		
-		
+
+
 		function setList(){
 			var t = '<div id="project-list">';
 			for(var i in pdict){
 				if (pdict[i]){
 					t+=getListBlock(i);
 				}
-			} 
+			}
 			t+='</div>';
 			$('#list-info').html(t);
 			$('.list-pname').click(
@@ -491,7 +491,7 @@ $.getJSON("data/cuba.geojson",
 				}
 			);
 		}
-		
+
 		function setMarkers(){
 			for(var i in markers){
 				if (pdict[i]){
@@ -501,14 +501,14 @@ $.getJSON("data/cuba.geojson",
 				}
 			}
 		}
-		
+
 		function update(){
 			filter();
 			setMarkers();
 			setList();
 			searching();
 		}
-		
+
 		function filter(){
 			var lpane = '';
 			var tdict = {};
@@ -518,8 +518,8 @@ $.getJSON("data/cuba.geojson",
 				for(var i in datos.proyectos){
 					tdict[i]=true;
 					if (!showinst){
-						if (datos.proyectos[i].tipo=='para'){tdict[i]=false;}	
-					}	
+						if (datos.proyectos[i].tipo=='para'){tdict[i]=false;}
+					}
 				}
 			} else {
 				lpane = prov;
@@ -527,10 +527,10 @@ $.getJSON("data/cuba.geojson",
 					if (datos.proyectos[i].provincia==prov){
 						tdict[i]=true;
 						if (!showinst){
-							if (datos.proyectos[i].tipo=='para'){tdict[i]=false;}	
+							if (datos.proyectos[i].tipo=='para'){tdict[i]=false;}
 						}
 					} else {
-						tdict[i]=false;	
+						tdict[i]=false;
 					}
 				}
 			}
@@ -538,14 +538,14 @@ $.getJSON("data/cuba.geojson",
 				pane = lpane;
 				moveMap(pane);
 				if (pane=='cuba'){
-					map.fitBounds(geojson.getBounds());	
-				}		
+					map.fitBounds(geojson.getBounds());
+				}
 			}
 			var reach = $('#reach-select').val();
 			if (reach!='none'){
 				for(var i in tdict){
 					if (datos.proyectos[i].alcance!=reach){
-						tdict[i]=false;	
+						tdict[i]=false;
 					}
 				}
 			}
@@ -553,30 +553,30 @@ $.getJSON("data/cuba.geojson",
 			if (category!='none'){
 				for(var i in tdict){
 					if (datos.proyectos[i].categoria.indexOf(category)==-1){
-						tdict[i]=false;	
+						tdict[i]=false;
 					}
 				}
 			}*/
 
-			var category = $('#category-select').val();
+			/*var category = $('#category-select').val();
 			if (category!='none'){
 				for(var i in tdict){
 					if (datos.proyectos[i].ods.img.indexOf(category)==-1){
-						tdict[i]=false;	
+						tdict[i]=false;
 					}
 				}
-			}
+			}*/
 			var org = $('#org-select').val();
 			if (org!='none'){
 				for(var i in tdict){
 					if (datos.proyectos[i].organizacion!=org){
-						tdict[i]=false;	
+						tdict[i]=false;
 					}
 				}
 			}
 			pdict = tdict;
 		}
-		
+
 		$('#province-select').on('change',function(e){update();});
 		$('#reach-select').on('change',function(e){update();});
 		//$('#category-select').on('change',function(e){update();});
@@ -585,16 +585,16 @@ $.getJSON("data/cuba.geojson",
 			showinst = !showinst
 			update();
 		});
-		
-		
+
+
 		update();
-		
-		
+
+
 		function fillAndShowProfile(id){
 			var e = datos.proyectos[id];
 			$('.profile-logo').html('');
 			if (e.logo!=null){
-				$('.profile-logo').html('<img class="plogo" src="img/'+e.logo+'">');	
+				$('.profile-logo').html('<img class="plogo" src="img/'+e.logo+'">');
 			}
 			$('#profile-title-block').css('background-color',topicData['General'].color);
 			$('#project-name').html(e.nombre);
@@ -604,51 +604,51 @@ $.getJSON("data/cuba.geojson",
 			$('#project-description').html(e.descripcion);
 			if (e.localizacion.direccion!=null){
 				$('#project-address-block').removeClass('undisplay');
-				$('#project-address').html(e.localizacion.direccion);	
+				$('#project-address').html(e.localizacion.direccion);
 			} else {
-				$('#project-address-block').addClass('undisplay');	
+				$('#project-address-block').addClass('undisplay');
 			}
 			if (e.localizacion.telefono!=null){
 				$('#project-phone-block').removeClass('undisplay');
-				$('#project-phone').html(e.localizacion.telefono);	
+				$('#project-phone').html(e.localizacion.telefono);
 			} else {
-				$('#project-phone-block').addClass('undisplay');	
+				$('#project-phone-block').addClass('undisplay');
 			}
 			if (e.localizacion.email!=null){
 				$('#project-email').removeClass('undisplay');
-				$('#project-email > a').prop('href','mailto:'+e.localizacion.email);	
+				$('#project-email > a').prop('href','mailto:'+e.localizacion.email);
 			} else {
-				$('#project-email').addClass('undisplay');	
+				$('#project-email').addClass('undisplay');
 			}
 			if (e.web!=null){
 				$('#project-web').removeClass('undisplay');
-				$('#project-web > a').prop('href',e.web);	
+				$('#project-web > a').prop('href',e.web);
 			} else {
-				$('#project-web').addClass('undisplay');	
+				$('#project-web').addClass('undisplay');
 			}
 			if (e.social.twitter!=null){
 				$('#project-twitter').removeClass('undisplay');
-				$('#project-twitter > a').prop('href',e.social.twitter);	
+				$('#project-twitter > a').prop('href',e.social.twitter);
 			} else {
-				$('#project-twitter').addClass('undisplay');	
+				$('#project-twitter').addClass('undisplay');
 			}
 			if (e.social.facebook!=null){
 				$('#project-facebook').removeClass('undisplay');
-				$('#project-facebook > a').prop('href',e.social.facebook);	
+				$('#project-facebook > a').prop('href',e.social.facebook);
 			} else {
-				$('#project-facebook').addClass('undisplay');	
+				$('#project-facebook').addClass('undisplay');
 			}
 			if (e.social.instagram!=null){
 				$('#project-instagram').removeClass('undisplay');
-				$('#project-instagram > a').prop('href',e.social.instagram);	
+				$('#project-instagram > a').prop('href',e.social.instagram);
 			} else {
-				$('#project-instagram').addClass('undisplay');	
+				$('#project-instagram').addClass('undisplay');
 			}
 			if (e.social.youtube!=null){
 				$('#project-youtube').removeClass('undisplay');
-				$('#project-youtube > a').prop('href',e.social.youtube);	
+				$('#project-youtube > a').prop('href',e.social.youtube);
 			} else {
-				$('#project-youtube').addClass('undisplay');	
+				$('#project-youtube').addClass('undisplay');
 			}
 			if (e.personas!=null){
 				$('#project-person-block').removeClass('undisplay');
@@ -657,29 +657,30 @@ $.getJSON("data/cuba.geojson",
 					t += '<div class="person-item">';
 					t += '<span class="person-name">'+e.personas[i].nombre+' </span>';
 					if (e.personas[i].email!=null){
-						t += '<span class="person-email"> <a href="mailto://'+e.personas[i].email+'"><i class="fas fa-envelope"></i></a></span>';	
+						t += '<span class="person-email"> <a href="mailto://'+e.personas[i].email+'"><i class="fas fa-envelope"></i></a></span>';
 					}
-					t += '</div>';	
+					t += '</div>';
 				}
 				$('#project-person').html(t);
 			} else {
-				$('#project-person-block').addClass('undisplay');	
+				$('#project-person-block').addClass('undisplay');
 			}
 			if (e.ods!=null){
 				$('#project-ods-block').removeClass('undisplay');
 				var t = '';
 				for(var i in e.ods){
-					t += '<div class="ods-item">';
-					t += '<span class="ods-name"><img src="img/odsicons/'+e.ods[i].img+'" style="float: left; margin: 0 0 1em 2em>'+e.ods[i].descripcion+' </span>'
-					/*if (e.ods[i].img!=null){
-						t += '<span class="ods-img"> <img src="img/odsicons/'+e.ods[i].img+'"></span>';
-							
-					}*/
-					t += '</div>';	
+					t += '<div class="ods-item" style="float: left; margin: 0 0 1em 2;">';
+					t +=   '<span class="ods-name">'
+					t +=     '<img src="img/odsicons/'+e.ods[i].img+'" data-toggle="tooltip" data-placement="top" title="'+e.ods[i].descripcion+'">';
+					// t +=     '<img src="img/odsicons/'+e.ods[i].img+'" style="float: left; margin: 0 0 1em 2em;" >';
+					t +=   '</span>';
+					t += '</div>';
 				}
 				$('#project-ods').html(t);
+
+				$('[data-toggle="tooltip"]').tooltip();
 			} else {
-				$('#project-ods-block').addClass('undisplay');	
+				$('#project-ods-block').addClass('undisplay');
 			}
 			showProfile();
 		}
@@ -692,13 +693,13 @@ $.getJSON("data/cuba.geojson",
 							t+=getListBlock(id);
 							total ++;
 						}
-				} 
+				}
 				t+='</div>';
 				if (total==0){
-					$('#search-quantity').html('No hay resultados');	
+					$('#search-quantity').html('No hay resultados');
 				} else {
-					if (total==1){$('#search-quantity').html('1 resultado');} 
-					else {$('#search-quantity').html(total+' resultados');}	
+					if (total==1){$('#search-quantity').html('1 resultado');}
+					else {$('#search-quantity').html(total+' resultados');}
 				}
 				$('#search-items').html(t);
 				$('.list-pname').click(
@@ -708,14 +709,14 @@ $.getJSON("data/cuba.geojson",
 					}
 				);
 		}
-		
+
 		function searching(){
 			var sterm = $('#searchtext').val().trim();
 			if (sterm!=''){
 				var items = search.search(sterm);
 				var total = items.length;
 				if (total==0){
-					$('#search-quantity').html('No hay resultados');	
+					$('#search-quantity').html('No hay resultados');
 					$('#search-items').html('');
 				} else {
 					setSearchList(items);
@@ -723,17 +724,17 @@ $.getJSON("data/cuba.geojson",
 			} else {
 				$('#search-quantity').html('');
 				$('#search-items').html('');
-			}	
+			}
 		}
-		
+
 		$('#searchaction').click(function(e){
-				searching();	
-		});	
-		
+				searching();
+		});
+
 	}
-	
-	
+
+
 
 );
-}	
+}
 );
