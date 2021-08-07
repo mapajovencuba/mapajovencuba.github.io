@@ -476,7 +476,7 @@
             "id": "3P",
             "nombre": "Embajada Rebirth / Tercer Paraíso Cuba",
             "nombre-corto": "Tercer Paraíso",
-            "logo": null,
+            "logo": "logo-tercer-paraiso.jpg",
             "tipo": "para",
             "alcance": "nacional",
             "organizacion": "proyecto",
@@ -5032,7 +5032,7 @@
             },
             "social": {
                 "twitter": null,
-                "facebook": "@tutambienpuedesayudarconSnorkelin",
+                "facebook": "https://www.facebook.com/tutambienpuedesayudarconSnorkelin",
                 "instagram": null,
                 "youtube": null
             },
@@ -5843,14 +5843,14 @@
             "social": {
                 "twitter": null,
                 "facebook": null,
-                "instagram": "@areteate",
+                "instagram": "https://instagram.com/areteate",
                 "youtube": null
             },
             "personas": [
                 {
                     "nombre": "Ana V.Granda",
                     "telefono": "+5352763731"
-                        
+
                 },
                 {
                     "nombre": "Karen Palacio",
@@ -5859,8 +5859,8 @@
             ],
             "eventos": null,
             "ods": [
-                
-                
+
+
          ]
         },
         "beyondroots": {
@@ -5875,7 +5875,7 @@
                 "Emprendimiento", "Creatividad", "Afro-Cubano", "Accesorios", "Moda; Diseño"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": "Habana Vieja",
@@ -5894,23 +5894,23 @@
             "social": {
                 "twitter": null,
                 "facebook": "Beyond Roots Cuba",
-                "instagram": "@beyondrootcuba",
+                "instagram": "https://instagram.com/beyondrootcuba",
                 "youtube": null
             },
             "personas": [
                 {
                     "nombre": "Adriana Heredia Sánchez"
-                        
+
                 },
                 {
                     "nombre": "José Luis Corredero"
-                    
+
                 }
             ],
             "eventos": null,
             "ods": [
-                
-                
+
+
          ]
         },
         "hilosdesolyluna": {
@@ -5925,7 +5925,7 @@
                 "Emprendimiento", "Accesorios", "Tejido", "Creatividad", "Artesanía"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": "Plaza de la Revolución",
@@ -5944,23 +5944,23 @@
             "social": {
                 "twitter": null,
                 "facebook": null,
-                "instagram": "@hilos.de.sol.y.luna",
+                "instagram": "https://instagram.com/hilos.de.sol.y.luna",
                 "youtube": null
             },
             "personas": [
                 {
                     "nombre": "Melanie Morejón Campos"
-                        
+
                 },
                 {
                     "nombre": "Jessika Iriarte Vivar"
-                    
+
                 }
             ],
             "eventos": null,
             "ods": [
-                
-                
+
+
          ]
         },
         "lolitas": {
@@ -5975,7 +5975,7 @@
                 "Emprendimiento", "Creatividad", "Accesorios", "Diseño y Moda"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": "Plaza de la Revolución",
@@ -5994,23 +5994,23 @@
             "social": {
                 "twitter": null,
                 "facebook": null,
-                "instagram": "@lolitas_scrunchies",
+                "instagram": "https://instagram.com/lolitas_scrunchies",
                 "youtube": null
             },
             "personas": [
                 {
                     "nombre": "Natalí Pérez"
-                        
+
                 },
                 {
                     "nombre": "Diansy Benítez"
-                    
+
                 }
             ],
             "eventos": null,
             "ods": [
-                
-                
+
+
          ]
         },
         "aceitesily": {
@@ -6025,7 +6025,7 @@
                 "Emprendimiento", "Aceites Esenciales", "Aprovechamient", "Sostenibilidad"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": "Playa",
@@ -6044,27 +6044,27 @@
             "social": {
                 "twitter": null,
                 "facebook": null,
-                "instagram": "@aceitesnaturales_habana",
+                "instagram": "https://instagram.com/aceitesnaturales_habana",
                 "youtube": null
             },
             "personas": [
                 {
                     "nombre": "Iliana Carrillo "
-                        
+
                 },
                 {
                     "nombre": "Claudia Guevara"
-                    
+
                 },
                 {
                     "nombre": "Lienys Cué"
-                    
+
                 }
             ],
             "eventos": null,
             "ods": [
-                
-                
+
+
          ]
         },
         "deshidratados": {
@@ -6079,7 +6079,7 @@
                 "Alimentación", "Comida Sana", "Sostenibilidad", "Productos deshidratados"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": "Playa",
@@ -6098,23 +6098,23 @@
             "social": {
                 "twitter": null,
                 "facebook": null,
-                "instagram": "@deshidratados.habana",
+                "instagram": "https://instagram.com/deshidratados.habana",
                 "youtube": null
             },
             "personas": [
                 {
                     "nombre": "Patricia Ramos"
-                        
+
                 },
                 {
                     "nombre": "Oscar Fernández"
-                    
+
                 }
             ],
             "eventos": null,
             "ods": [
-                
-                
+
+
          ]
         },
         "lasfrescas": {
@@ -6129,7 +6129,7 @@
                 "Alimentación", "Creatividad", "Comida Sana", "Opciones Veganas y Vegetarianas"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": "Plaza de la Revolución",
@@ -6148,23 +6148,23 @@
             "social": {
                 "twitter": null,
                 "facebook": null,
-                "instagram": "@la_sfresca_s",
+                "instagram": "https://instagram.com/la_sfresca_s",
                 "youtube": null
             },
             "personas": [
                 {
                     "nombre": "Violena Ampudia"
-                        
+
                 },
                 {
                     "nombre": "Leysa Medina"
-                    
+
                 }
             ],
             "eventos": null,
             "ods": [
-                
-                
+
+
          ]
         },
         "noquim": {
@@ -6179,7 +6179,7 @@
                 "Alimentación", "Comida Sana", "Emprendimiento", "Agricultura"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": null,
@@ -6198,23 +6198,23 @@
             "social": {
                 "twitter": null,
                 "facebook":  "noQuim",
-                "instagram": "@noquimcuba",
+                "instagram": "https://instagram.com/noquimcuba",
                 "youtube": null
             },
             "personas": [
                 {
                     "nombre": "Rayel Carnota"
-                        
+
                 },
                 {
                     "nombre": "Aldo Álvarez"
-                    
+
                 }
             ],
             "eventos": null,
             "ods": [
-                
-                
+
+
          ]
         },
         "puroverde": {
@@ -6229,7 +6229,7 @@
                 "Aceites esenciales", "Emprendimiento", "Productos naturales", "Sostenibilidad"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": null,
@@ -6254,7 +6254,7 @@
             "personas": [
                 {
                     "nombre": "Manuel Alejandro Carcases Cervantes"
-                        
+
                 }
             ],
             "eventos": null,
@@ -6273,7 +6273,7 @@
                 "Aceites esenciales", "Emprendimiento", "Productos naturales", "Sostenibilidad"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": "Habana Vieja",
@@ -6298,12 +6298,12 @@
             "personas": [
                 {
                     "nombre": "Mónica del Risco"
-                     
-                        
+
+
                 },
                 {
-                    "nombre": "Rachel Vento" 
-                        
+                    "nombre": "Rachel Vento"
+
                 }
             ],
             "eventos": null,
@@ -6322,7 +6322,7 @@
                 "Alimentación", "Comida Sana", "Cocina francesa", "Reciclaje"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": "Playa",
@@ -6340,18 +6340,18 @@
             },
             "social": {
                 "twitter": null,
-                "facebook":  "@santuariogourmethabana",
-                "instagram": "@santuariogourmet.habana",
+                "facebook":  "https://www.facebook.com/santuariogourmethabana",
+                "instagram": "https://instagram.com/santuariogourmet.habana",
                 "youtube": null
             },
             "personas": [
                 {
                     "nombre": "François Abel"
-                     
+
                 },
                 {
-                    "nombre": "Leandis Diaz" 
-                        
+                    "nombre": "Leandis Diaz"
+
                 }
             ],
             "eventos": null,
@@ -6367,10 +6367,10 @@
             "alcance": "Provincial",
             "organizacion": "proyecto",
             "keywords": [
-                "Alimentación", "Bebidas", "Productos Naturales", "Emprendimiento" 
+                "Alimentación", "Bebidas", "Productos Naturales", "Emprendimiento"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": "Centro Habana",
@@ -6389,17 +6389,17 @@
             "social": {
                 "twitter": null,
                 "facebook":  "TB Cocktails",
-                "instagram": "@TB Cocktails",
+                "instagram": "https://instagram.com/TB Cocktails",
                 "youtube": null
             },
             "personas": [
                 {
                     "nombre": "Dagoberto Jesus Morejon"
-                     
+
                 },
                 {
-                    "nombre": "Manuel Alejandro Valdés" 
-                        
+                    "nombre": "Manuel Alejandro Valdés"
+
                 }
             ],
             "eventos": null,
@@ -6415,10 +6415,10 @@
             "alcance": "Provincial",
             "organizacion": "proyecto",
             "keywords": [
-                "Alimentación", "Bebidas", "Productos Naturales", "Emprendimiento" 
+                "Alimentación", "Bebidas", "Productos Naturales", "Emprendimiento"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": "Habana Vieja",
@@ -6437,17 +6437,17 @@
             "social": {
                 "twitter": null,
                 "facebook":  "@therealjibaro",
-                "instagram": "@therealjibaros",
+                "instagram": "https://instagram.com/therealjibaros",
                 "youtube": null
             },
             "personas": [
                 {
                     "nombre": "Diana Figueroa "
-                     
+
                 },
                 {
-                    "nombre": "David Roque" 
-                        
+                    "nombre": "David Roque"
+
                 }
             ],
             "eventos": null,
@@ -6466,7 +6466,7 @@
                 "Bienestar y Salud", "Deporte", "Danza", "Artículos deportivos y danzarios", "Emprendimiento"
             ],
             "categoria": [
-                
+
             ],
             "provincia": "lha",
             "municipio": "Plaza de la Revolución",
@@ -6485,7 +6485,7 @@
             "social": {
                 "twitter": null,
                 "facebook":  null,
-                "instagram": "@danzacontodo",
+                "instagram": "https://instagram.com/danzacontodo",
                 "youtube": null
             },
             "personas": [
@@ -6577,7 +6577,7 @@
             "social": {
                 "twitter": null,
                 "facebook":  null,
-                "instagram": "@filifiorehabana",
+                "instagram": "https://instagram.com/filifiorehabana",
                 "youtube": null
             },
             "personas": [
@@ -6621,7 +6621,7 @@
             "social": {
                 "twitter": null,
                 "facebook":  null,
-                "instagram": "@filifiorehabana",
+                "instagram": "https://instagram.com/filifiorehabana",
                 "youtube": null
             },
             "personas": [
