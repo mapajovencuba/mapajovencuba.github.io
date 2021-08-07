@@ -77,7 +77,7 @@
             "provincia": "lha",
             "municipio": "10 de Octubre",
             "consejo_popular": "Vista Alegre",
-            "web": "www.romerocuba.org",
+            "web": "http://www.romerocuba.org",
             "descripcion": "La Articulación Juvenil x la Equidad Social de OAR (AJ), del Centro Oscar Arnulfo Romero está concebida como un espacio de trabajo común, socialización y activismo, creada el 8 de mayo de 2016. Lo distintivo es la diversidad de sus integrantes en cuanto a procedencia, términos de ámbitos de estudio y trabajo, orientación erótico afectiva, identidad de género, lugar de residencia, color de la piel, prácticas o no religiosa, experiencias y expectativas de vida, etc. Desde la coordinación, se intenciona la articulación de redes, iniciativas, proyectos de diferentes temáticas; sustentado en el trabajo con y para jóvenes entre 18 y 35 años, cuyo accionar se da fundamentalmente en escuelas y comunidades. Se trabaja con la metodología de la Educación Popular, en un proceso formativo teórico práctico donde se les comparten a sus integrantes conocimientos y herramientas relacionadas con la equidad social, colocando el énfasis en la dimensión género y los derechos humanos, de esta forma desarrollan competencias que puestas en práctica, les permiten el ejercicio autónomo de sus derechos, la defensa de sus criterios, el diseño de propuestas de transformación social y la articulación con otros actores sociales, para que tengan mayor protagonismo en la promoción de equidad social en sus contextos locales (laborales, familiares, escolares y comunitarios).",
             "geo": {
                 "lat": 23.091466,
@@ -481,27 +481,24 @@
             "alcance": "nacional",
             "organizacion": "proyecto",
             "keywords": [
-                "Medio Ambiente",
-                "Educación Popular",
-                "Desarrollo Local",
-                "Equidad"
+              "Demopráctica", "Trinámica", "Medio Ambiente", "Educación", "Desarrollo Sostenible", "Equidad", "Reciclaje"
             ],
             "categoria": [
                 "Identidad"
             ],
             "provincia": "lha",
-            "municipio": null,
-            "consejo_popular": null,
+            "municipio": "Centro Habana",
+            "consejo_popular": "",
             "web": "http://www.tercerparaisocuba.org",
             "descripcion": "Proyecto creado por el artista italiano Michelangelo Pistoletto, que usa el arte y la creatividad como vehículos para la transformación social, desde la demopráctica, el respeto y la responsabilidad colectiva, partiendo de los 17 ODS y de la filosofía de la trinámica, que promueve la armonía entre opuestos y la unión de lo diverso",
             "geo": {
-                "lat": 23.134416,
-                "lon": -82.365730
+              "lat": 22.967287,
+              "lon": -82.383415
             },
             "localizacion": {
-                "email": "tercerparaisocuba@gmail.com",
-                "telefono": null,
-                "direccion": null
+              "email": "tercerparaisocuba@gmail.com",
+              "telefono": null,
+              "direccion": "Zanja entre Rayo y Dragones #108, Centro Habana, La Habana, Cuba (sede de Arte Continua)"
             },
             "social": {
                 "twitter": "https://twitter.com/3ParaisoCubaoOo",
@@ -510,18 +507,18 @@
                 "youtube": null
             },
             "personas": [
-                {
-                    "nombre": "Laura Salas Redondo",
-                    "email": "laura.salasredondo@gmail.com"
-                },
-                {
-                    "nombre": "Claudia González Machado",
-                    "email": "cglez13@gmail.com"
-                },
-                {
-                    "nombre": "Dayma Crespo Zaporta",
-                    "email": "daymacrespo@gmail.com"
-                }
+              {
+                "nombre": "Laura Salas Redondo",
+                "email": null
+              },
+              {
+                "nombre": "Claudia González Machado",
+                "email": null
+              },
+              {
+                "nombre": "Patricia Díaz Gomez",
+                "email": null
+              }
             ],
             "eventos": [
                 {
@@ -561,7 +558,45 @@
                     },
                     "nombre": "5to Rebirth Forum Geografías de la Transformación / Gran Teatro de La Habana Alicia Alonso"
                 }
-            ]
+            ],
+          "ods": [
+            {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
+              "img": "3.png"
+            },
+            {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
+              "img": "4.png"
+            },
+            {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
+              "img": "5.png"
+            },
+            {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
+              "img": "8.png"
+            },
+            {"descripcion": "Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación.",
+              "img": "9.png"
+            },
+            {"descripcion": "Reducir la desigualdad en y entre los países.",
+              "img": "10.png"
+            },
+            {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
+              "img": "11.png"
+            },
+            {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
+              "img": "12.png"
+            },
+            {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
+              "img": "13.png"
+            },
+            {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
+              "img": "16.png"
+            },
+            {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+              "img": "17.png"
+            },
+            {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
+              "img": "17.png"
+            }
+          ]
         },
         "rejac": {
             "id": "rejac",
@@ -1129,7 +1164,7 @@
             "provincia": "lha",
             "municipio": "10 de Octubre",
             "consejo_popular": "",
-            "web": "www.newmenstudio.com",
+            "web": "http://www.newmenstudio.com",
             "descripcion": "Fundado en 2015, es un estudio de creación audiovisual especializado en tecnologías inmersivas primero de su tipo en la isla. Dentro de sus objetivos está contribuir a la calidad estética y técnica del audiovisual cubano y fomentar la transformación social responsable a través del uso de nuevas tecnologías y colaboraciones efectivas.",
             "geo": {
                 "lat": 23.094784, 
@@ -1191,7 +1226,7 @@
             "provincia": "lha",
             "municipio": "10 de Octubre",
             "consejo_popular": "",
-            "web": "www.romerocuba.org",
+            "web": "http://www.romerocuba.org",
             "descripcion": "Evoluciona es una campaña de diálogo, de cambio. Pretende propiciar un entorno comunicativo y educativo que permita a las juventudes en Cuba, y a todos quienes se incluyan y se sientan parte, identificar, actuar y modificar creencias e imaginarios asociados a la Violencia hacia Mujeres y Niñas.",
             "geo": {
                 "lat": 23.091753, 
@@ -1261,7 +1296,7 @@
             "provincia": "lha",
             "municipio": "Playa",
             "consejo_popular": "Miramar",
-            "web": "www.negolution.com",
+            "web": "http://www.negolution.com",
             "descripcion": "Negolution es una revista digital cubana que se ha consolidado como la primera de su tipo, dedicada al entorno económico del país. La publicación ofrece historias inspiradoras, consejos, actividades y cursos. Su objetivo es actualizar a los lectores sobre la realidad económica del mundo y de Cuba. También persigue aportar ideas que ayuden a construir en la nación caribeña una sociedad equitativa, próspera y sostenible.",
             "geo": {
                 "lat": 23.115949, 
@@ -1316,7 +1351,7 @@
             "provincia": "lha",
             "municipio": "Habana Vieja",
             "consejo_popular": "Habana Vieja",
-            "web": "www.negolution.com",
+            "web": "http://www.negolution.com",
             "descripcion": "Casa inSurGente es un proyecto de desarrollo local y comunitario que consiste en cuatro programas: Programa Junt@s, Programa Ecológico (Aula Ecológica Comunitaria Sol 420), Hospedaje Solidario y como vía de sostenibilidad económica la Tienda-Taller Manualidades. Son programas basados en la solidaridad, la educación ecológica e inclusiva y el intercambio de experiencias.",
             "geo": {
                 "lat": 23.133172, 
@@ -1375,97 +1410,6 @@
                     }
                                      
             ]
-        },
-        "tercerparaiso": {
-            "id": "tercerparaiso",
-            "nombre": "Tercer Paraiso Cuba",
-            "nombre-corto": "TercerParaisoCuba",
-            "logo": null,
-            "tipo": "por",
-            "alcance": "Nacional",
-            "organizacion": "proyecto",
-            "keywords": [
-                "Demopráctica", "Trinámica", "Medio Ambiente", "Educación", "Desarrollo Sostenible", "Equidad", "Reciclaje"
-            ],
-            "categoria": [
-                
-            ],
-            "provincia": "lha",
-            "municipio": "Centro Habana",
-            "consejo_popular": "",
-            "web": "http://www.tercerparaisocuba.org",
-            "descripcion": null,
-            "geo": {
-                "lat": 22.967287, 
-                "lon": -82.383415 
-            },
-            "localizacion": {
-                "email": "tercerparaisocuba@gmail.com",
-                "telefono": null,
-                "direccion": "Zanja entre Rayo y Dragones #108, Centro Habana, La Habana, Cuba (sede de Arte Continua)"
-            },
-            "social": {
-
-                "twitter": "@3ParaisoCubaoOo",
-                "facebook": "@rebirthcuba",
-                "instagram": "@tercerparaisocuba",
-                "youtube": null,
-                "skype": "LSR.TerzoParadiso"
-            },
-            "personas": [
-                {
-                    "nombre": "Laura Salas Redondo",
-                    "email": null
-                },
-                {
-                    "nombre": "Claudia González Machado",
-                    "email": null
-                },
-                {
-                    "nombre": "Patricia Díaz Gomez",
-                    "email": null
-                }
-                
-            ],
-            "eventos": null,
-            "ods": [
-                {"descripcion": "Garantizar una vida sana y promover el bienestar para todos en todas las edades.",
-                 "img": "3.png"
-                },
-                {"descripcion": "Garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje durante toda la vida para todos.",
-                    "img": "4.png"
-                },
-                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñas.",
-                    "img": "5.png"
-                },
-                {"descripcion": "Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.",
-                    "img": "8.png"
-                },
-                {"descripcion": "Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación.",
-                    "img": "9.png"
-                },
-                {"descripcion": "Reducir la desigualdad en y entre los países.",
-                    "img": "10.png"
-                },
-                {"descripcion": "Conseguir que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles.",
-                       "img": "11.png"
-                },
-                {"descripcion": "Garantizar modalidades de consumo y producción sostenibles.",
-                    "img": "12.png"
-                },
-                {"descripcion": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos.",
-                    "img": "13.png"
-                },
-                {"descripcion": "Lograr la igualdad entre los géneros y empoderar a todas las mujeres y niñasPromover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y crear instituciones eficaces, responsables e inclusivas a todos los niveles.",
-                       "img": "16.png"
-                },
-                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
-                    "img": "17.png"
-                },
-                {"descripcion": "Fortalecer los medios de ejecución y revitalizar la alianza mundial para el desarrollo sostenible.",
-                    "img": "17.png"
-                }
-         ]
         },
         "ativa": {
             "id": "ativa",
@@ -1798,7 +1742,7 @@
             "provincia": "lha",
             "municipio": "Regla",
             "consejo_popular": null,
-            "web": "www.reglasoul.com",
+            "web": "http://www.reglasoul.com",
             "descripcion": "ReglaSOUL es un proyecto radicado en Cuba que promueve un estilo de vida holístico alternativo. Es una fuente de medicina holística a base de plantas para una creciente comunidad verde en La Habana. ReglaSOUL aboga por un mejor acceso a recursos de bienestar para afrodescendientes en la Isla a través de talleres y eventos de curación holística y con plantas medicinales.",
             "geo": {
                 "lat": 23.130035, 
@@ -2095,7 +2039,7 @@
             "provincia": "lha",
             "municipio": "",
             "consejo_popular": null,
-            "web": "www.martiano.cult.cu",
+            "web": "http://www.martiano.cult.cu",
             "descripcion": "El Club Martiano de Antroposofía, perteneciente a la Sociedad Cultural José Martí, se constituyó en 2017 con el fin de promover la obra martiana y su legado humanista. Sus fundadores, estudiosos de la obra de Rudolf Steiner y la filosofía antroposófica, descubrieron fundamentos y nexos en el pensamiento de José Martí, raíz de cubanía y amor patriótico.",
             "geo": {
                 "lat": 23.105762, 
@@ -2240,7 +2184,7 @@
             "provincia": "lha",
             "municipio": "Playa",
             "consejo_popular": "",
-            "web": "www.cubasolar.cu",
+            "web": "http://www.cubasolar.cu",
             "descripcion": "CUBASOLAR, ONG cubana, miembro de la Academia de Ciencias de Cuba del Ministerio de Ciencias, Tecnología y Medio Ambiente (CITMA). Tiene como misión, promover la cultura en el uso de las fuentes renovables de energía con conciencia y respeto ambiental, mediante las experiencias adquiridas, patrimonio y acciones en los ámbitos local, nacional e internacional. Mantiene estatus consultivo especial ante el Consejo Económico y Social (ECOSOC) de las Naciones Unidas.",
             "geo": {
                 "lat": 23.109168, 
@@ -2309,7 +2253,7 @@
             "provincia": "lha",
             "municipio": "Playa",
             "consejo_popular": "Náutico",
-            "web": "www.acualina.org",
+            "web": "http://www.acualina.org",
             "descripcion": "Acualina es un proyecto ecológico, necesario y no lucrativo, que busca esencialmente alentar acciones y valores ambientalistas. A través de su accionar y sus mensajes, Acualina tiene la misión de transmitir educación ambiental a las grandes masas, principalmente, a las niñas y niños, para ir logrando un cambio de actitud en las personas y movilizar sus mentes a favor de la salud del Medio Ambiente.",
             "geo": {
                 "lat": 23.093306, 
@@ -2501,7 +2445,7 @@
             "provincia": "lha",
             "municipio": "Playa",
             "consejo_popular": null,
-            "web": "www.ciericgp.org",
+            "web": "http://www.ciericgp.org",
             "descripcion": "El CIERIC es un centro de carácter asociativo, sin fines de lucro, fundado en 1991. Actualmente promueve la dimensión cultural del desarrollo a nivel local y comunitario, el fortalecimiento de capacidades, la gestión de la información y la comunicación para compartir conocimiento y propicia el trabajo articulado, en redes y plataformas.",
             "geo": {
                 "lat": 23.098684, 
@@ -2638,7 +2582,7 @@
             "provincia": "lha",
             "municipio": "Habana Vieja",
             "consejo_popular": null,
-            "web": "www.planmaestro.ohc.cu",
+            "web": "http://www.planmaestro.ohc.cu",
             "descripcion": "El Plan Maestro para la Revitalización Integral de La Habana Vieja es la entidad responsable de dictar las políticas, estrategias y acciones, que permitan garantizar el desarrollo del proceso de rehabilitación de la Zona Priorizada para la Conservación. El Plan Maestro es un órgano metodológico y de coordinación, así como un referente en materia de gestión urbana, información territorial, gestión socioeconómica y otras especialidades relativas al rescate del patrimonio cultural y urbano.",
             "geo": {
                 "lat": 23.139765, 
@@ -3715,7 +3659,7 @@
             "provincia": "lha",
             "municipio": "Playa",
             "consejo_popular": "Nautico",
-            "web": "www.unicef.org/cuba",
+            "web": "http://www.unicef.org/cuba",
             "descripcion": "UNICEF trabaja para garantizar el cumplimiento de los derechos de la infancia en un entorno de seguridad, cuidado, participación y protección. La organización colabora con las instituciones nacionales para garantizar los derechos de la igualdad y oportunidades de desarrollo de niños, niñas y adolescentes y para fortalecer una cultura de derechos y participación.",
             "geo": {
                 "lat": 23.094738,
@@ -3795,7 +3739,7 @@
             "provincia": "lha",
             "municipio": "Playa",
             "consejo_popular": "Miramar",
-            "web": "www.wfp.org/countries/cuba",
+            "web": "http://www.wfp.org/countries/cuba",
             "descripcion": "La misión del PMA es salvar vidas, crear medios de subsistencia y mejorar la nutrición, seguridad alimentaria y autosuficiencia de las personas más pobres y más vulnerables del mundo. El objetivo final es lograr el Hambre Cero, para lo cual contribuye a que el tema de la lucha contra el hambre y la desnutrición esté en el centro de las preocupaciones de la comunidad internacional.",
             "geo": {
                 "lat": 23.115382,
@@ -4253,7 +4197,7 @@
             "provincia": "lha",
             "municipio": "Habana Vieja",
             "consejo_popular": null,
-            "web": "www.mnhnc.inf.cu",
+            "web": "http://www.mnhnc.inf.cu",
             "descripcion": "El Museo Nacional de Historia Natural de Cuba es una institución científico-cultural, especializada en la historia natural que genera colecciones de estos perfiles, las estudia, y socializa principalmente a través de exhibiciones. El museo tiene como misión esencial colectar, investigar, conservar y exhibir objetos naturales para promover el conocimiento científico y cultural de la naturaleza.",
             "geo": {
                 "lat": 23.140021,
@@ -4573,7 +4517,7 @@
             "provincia": "lha",
             "municipio": "Plaza de la Revolución",
             "consejo_popular": "Vedado",
-            "web": "www.cips.cu",
+            "web": "http://www.cips.cu",
             "descripcion": "El Centro de Investigaciones Psicológicas y Sociológicas (CIPS) es una institución creada en 1983 y pertenece al Ministerio de Ciencia, Tecnología y Medio Ambiente de Cuba. Se dedica a la investigación de los problemas sociales de la sociedad cubana orientada hacia la transformación social. Realiza diagnóstcos, evaluaciones, proyecciones y propuestas para el desarrollo de procesos, las relaciones sociales y la subjetividad humana.",
             "geo": {
                 "lat": 23.1359298,
@@ -4849,7 +4793,7 @@
             "provincia": "lha",
             "municipio": "Playa",
             "consejo_popular": "Miramar",
-            "web": "www.artistaxartista.org",
+            "web": "http://www.artistaxartista.org",
             "descripcion": "Artista X Artista es una iniciativa del Estudio Carlos Garaicoa que se desarrolla, bajo diversos formatos, con el objetivo de establecer relaciones de horizontalidad entre la escena artística más joven y una red creciente de instituciones y agentes culturales a nivel internacional. Busca consolidarse  dentro de una amplia red de residencias artísticas internacionales, que posibilite el intercambio cultural entre diferentes contextos locales.",
             "geo": {
                 "lat": 23.124736,
@@ -5189,7 +5133,7 @@
             "provincia": "lha",
             "municipio": "Habana Vieja",
             "consejo_popular": null,
-            "web": "www.sociedadpcma.org.cu",
+            "web": "http://www.sociedadpcma.org.cu",
             "descripcion": "Patrimonio, Comunidad y Medio Ambiente es una sociedad de carácter civil, sin fines lucrativos, que agrupa a personas naturales y jurídicas, nacionales y extranjeras, interesadas en la preservación, rehabilitación, manejo, desarrollo y promoción del patrimonio histórico, arquitectónico y cultural de la Ciudad de La Habana, así como los temas comunitarios y de carácter ambiental en ese territorio. La Sociedad tiene como misión: cooperar con toda iniciativa que favorezca el proyecto sociocultural, de rehabilitación y revitalización de la ciudad, iniciado en su Centro Histórico y en desarrollo para el resto de la Zona Priorizada para la conservación por la Oficina del Historiador, así como coadyuvar con los mecanismos de planeamiento y gestión que hacen posible esta labor, promocionándolos a nivel nacional y en el extranjero.",
             "geo": {
                 "lat": 23.136925,
