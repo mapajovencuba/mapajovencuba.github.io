@@ -598,7 +598,8 @@ $.getJSON("data/cuba.geojson",
 			}
 			$('#profile-title-block').css('background-color',topicData['General'].color);
 			$('#project-name').html(e.nombre);
-			$('#project-category').html(setStrings(e.ods.img));
+            if (e.ods!=null)
+				$('#project-category').html(setStrings(e.ods.img));
 			$('#project-reach').html(e.alcance);
 			$('#project-keywords').html(setStrings(e.keywords));
 			$('#project-description').html(e.descripcion);
