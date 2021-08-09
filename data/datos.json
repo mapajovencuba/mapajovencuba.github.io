@@ -6593,40 +6593,46 @@
         "lamplumen": {
             "id": "lamplumen",
             "nombre": "Lamp Lumen",
-            "nombre-corto": "Filifiore Habana",
-            "logo": "logo-filifiore.jpeg",
+            "nombre-corto": "Lamp Lumen",
+            "logo": null,
             "tipo": "por",
             "alcance": "Provincial",
             "organizacion": "proyecto",
             "keywords": [
-                "Jabones artesanales", "Productos naturales", "Reutilización", "Sostenibilidad", "Emprendimiento"
+                "Luminaria", "Madera", "Ecología", "Reciclaje", "Sostenibilidad", "Emprendimiento"
             ],
             "categoria": [
                 
             ],
             "provincia": "lha",
-            "municipio": "Playa",
+            "municipio": "Plaza de la Revolución",
             "consejo_popular": null,
             "web": null,
-            "descripcion": "Filifiore Habana es un proyecto que desarrolla jabones a partir de aceite usado y productos naturales, como leche de coco, calabaza, romero, etc.",
+            "descripcion": "En Lumen trabajamos la madera, hacemos luminarias y objetos decorativos desde una visión sustentable. En el tiempo de la cuarentena nos preguntábamos qué podíamos .",
             "geo": {
                 "lat": 23.1087261,
                 "lon": -82.4346956
             },
             "localizacion": {
-                "email": null,
-                "telefono": "52920867",
-                "direccion": "Calle 7ma No. 6614 entre 66 y 70, Playa, La Habana, Cuba"
+                "email": "lumenlamp3@gmail.com",
+                "telefono": "52369242",
+                "direccion": "Calle 23 entre D y E, Vedado, La Habana, Cuba"
             },
             "social": {
-                "twitter": null,
-                "facebook":  null,
-                "instagram": "https://instagram.com/filifiorehabana",
+                "twitter": "https://twitter.com/lumen_cuba",
+                "facebook":  "https://www.facebook.com/lumen",
+                "instagram": null,
                 "youtube": null
             },
             "personas": [
                 {
-                    "nombre": "Liliana Núñez Velis"    
+                    "nombre": "Arianna Tejeda"
+                },
+                {
+                  "nombre": "George Abreu"
+                },
+                {
+                  "nombre": "Marcel Méndez"
                 }
                 
             ],
